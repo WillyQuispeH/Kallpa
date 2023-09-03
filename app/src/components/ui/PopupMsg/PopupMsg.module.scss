@@ -1,0 +1,45 @@
+.popupVisible {
+  position: fixed;
+  bottom: 20px;
+  right: -100%; /* Inicia fuera de la pantalla */
+  transform: translateX(0);
+  padding: 10px 20px;
+  background: #027810;
+  color: #fff;
+  border-radius: 7px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  animation: slideIn 0.5s forwards;
+  z-index: 9999;
+}
+
+.popupHidden {
+  position: fixed;
+  bottom: 20px;
+  right: 0; /* Inicia en la posición final */
+  transform: translateX(0);
+  padding: 10px 20px;
+  background: #027810;
+  color: #fff;
+  border-radius: 7px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  animation: slideOut 1s forwards;
+  z-index: 9999;
+}
+
+@keyframes slideIn {
+  from {
+    right: -100%; /* Inicia fuera de la pantalla */
+  }
+  to {
+    right: 20px; /* Termina en la posición final */
+  }
+}
+
+@keyframes slideOut {
+  from {
+    right: 0; /* Inicia en la posición final */
+  }
+  to {
+    right: -100%; /* Termina fuera de la pantalla */
+  }
+}
