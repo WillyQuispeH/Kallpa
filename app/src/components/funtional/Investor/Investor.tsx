@@ -14,6 +14,7 @@ import Title from "@/components/ui/Title";
 import useInvestment from "@/store/hooks/useInvestment";
 import PopupMsg from "@/components/ui/PopupMsg/PopupMsg";
 import { isValidEmail, isValidPhone } from "@/utils/validate";
+import useProyect from "@/store/hooks/useProyect";
 
 const Investor = () => {
   const formatter = new Intl.NumberFormat("es-PE", {
@@ -26,6 +27,7 @@ const Investor = () => {
   const [isValidForm, setIsValidForm] = useState(false);
   const { person, isLoadingPerson, getByDniPerson } = usePerson();
   const { isLoadingInvestment, createInvestment } = useInvestment();
+  const { listProyect } = useProyect();
   const [popupVisible, setPopupVisible] = useState(false);
 
   const handleOnchange = (e: React.ChangeEvent<HTMLInputElement>) => {
@@ -305,6 +307,7 @@ const Investor = () => {
     }
   }, [person]);
 
+  console.log(listProyect);
   return (
     <>
       <Seccion title="Nuevo inversionita">
@@ -387,9 +390,9 @@ const Investor = () => {
               isValid={formInvestor.proyect.isValid}
               width="315px"
               label="Tipo de reclamo"
-              data={data}
-              valueName="value"
-              textName="text"
+              data={listProyect}
+              valueName="name"
+              textName="name"
               name="proyect"
             />
           </Column>

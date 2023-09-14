@@ -25,9 +25,9 @@ const Header = () => {
       <ButtonIcon onClick={hanOnclickSideBar} typeButton="square" icon="menu" />
       <Row gap="10px">
         <ButtonIcon
-          onClick={() => handleClickOption("/investments/welcome")}
+          onClick={() => handleClickOption("/investments/settings")}
           typeButton="square"
-          icon="home"
+          icon="settings"
         />
         <ButtonIcon
           onClick={() => handleClickOption("/investments/welcome")}
@@ -45,7 +45,7 @@ const Header = () => {
           icon="add_box"
         />
         <ButtonIcon
-          onClick={() => handleClickOption("/investments/welcome")}
+          onClick={() => handleClickOption("/settings/user")}
           typeButton="circle"
           icon="person"
         />
