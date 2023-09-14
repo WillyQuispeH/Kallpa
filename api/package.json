@@ -1,11 +1,11 @@
 {
-  "name": "api",
+  "name": "api-sign",
   "version": "1.0.0",
   "description": "Api",
   "main": "index.js",
   "author": "WillyQuispe",
   "license": "MIT",
-  "type": "commonjs",
+  "module": "CommonJS",
   "dependencies": {
     "axios": "^1.4.0",
     "cors": "^2.8.5",
