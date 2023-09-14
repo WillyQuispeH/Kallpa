@@ -1,4 +1,4 @@
-FROM node:18-alpine
+FROM node:16-alpine
 RUN apk add --no-cache tzdata
 ENV TZ=America/Santiago
 
@@ -21,7 +21,7 @@ RUN yarn build
 WORKDIR /app/dist
 
 # Exponer el puerto en el que se ejecuta la aplicación
-EXPOSE 4603
+EXPOSE 4506
 
 # Comando para iniciar la aplicación
 CMD ["node", "server.js"]

@@ -4,6 +4,7 @@ import * as routes from "./routes";
 import { reqLogger } from "./middlewares/logger";
 import { auth } from "./middlewares/auth";
 import cron from "node-cron";
+import config from "./utils/config";
 
 const corsOptions = {
   origin: ["https://kallpa.pe"],
@@ -21,7 +22,7 @@ function initializeMiddlewares(server: Express) {
   server.use(express.json({ limit: "5mb" }));
   server.use(express.urlencoded({ extended: true }));
   // Check if in production mode
-  if (process.env.NODE_ENV === "production") {
+  if (config.NODE_ENV === "production") {
     server.use(cors(corsOptions)); // Use specific CORS options in production
   } else {
     server.use(cors(corsOPtionsDev));
