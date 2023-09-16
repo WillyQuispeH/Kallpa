@@ -11,6 +11,8 @@ const config = {
   db_port: process.env.DB_PORT || 5432,
   db_keepalive: process.env.DB_KEEPALIVE || true,
   NODE_ENV: process.env.NODE_ENV || "production",
+  database_connection: process.env.DATABASE_CONNECTION || "",
+
   email: {
     emailHost: process.env.EMAIL_SMTP || "smtp.gmail.com",
     emailLogin: process.env.EMAIL_LOGIN || "willypruebas6@gmail.com",
