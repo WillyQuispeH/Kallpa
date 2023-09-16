@@ -2,10 +2,11 @@
   "name": "app",
   "version": "0.1.0",
   "private": true,
+
   "scripts": {
-    "dev": "cross-env APP_ENV=dev next dev -p 4602",
+    "dev": "next dev",
     "build": "next build",
-    "start": "cross-env APP_ENV=prod next start -p 4602",
+    "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
