@@ -30,9 +30,9 @@ function initializeMiddlewares(server: Express) {
 }
 
 const routeMappings = [
-  { path: "/api/person", router: routes.PersonRouter },
-  { path: "/api/investment", router: routes.InvestmentRouter },
-  { path: "/api/proyect", router: routes.ProyectRouter },
+  { path: "/person", router: routes.PersonRouter },
+  { path: "/investment", router: routes.InvestmentRouter },
+  { path: "/proyect", router: routes.ProyectRouter },
 ];
 
 function initializeRoutes(server: Express) {
