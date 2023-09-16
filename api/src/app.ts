@@ -7,7 +7,7 @@ import cron from "node-cron";
 import config from "./utils/config";
 
 const corsOptions = {
-  origin: ["https://kallpa.pe"],
+  origin: ["https://kallpa.onrender.com"],
   methods: ["GET", "POST", "PUT", "PATCH", "DELETE", "OPTIONS"],
   allowedHeaders: ["Content-Type,Authorization", "Content-Type", "id"],
 };
