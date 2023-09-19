@@ -1,54 +1,38 @@
 import { useEffect, useState } from "react";
 import { Column, Row } from "@/components/layout/Generic";
 import { dataForm, dataFormInvestor, data } from "./data";
-import ClaimType from "@/components/ui/ClaimType";
 import Input from "@/components/ui/Input";
 import ComboBox from "@/components/ui/ComboBox";
 import InputData from "@/components/ui/InputData";
 import { Seccion, SeccionFooter } from "@/components/layout/Seccion";
 import Button from "@/components/ui/Button";
-import { usePerson } from "@/store/hooks";
+import { useRouter } from "next/router";
 import { addMonths, format, parse } from "date-fns";
 import { es } from "date-fns/locale";
 import Title from "@/components/ui/Title";
 import useInvestment from "@/store/hooks/useInvestment";
-import PopupMsg from "@/components/ui/PopupMsg/PopupMsg";
-import { isValidEmail, isValidPhone } from "@/utils/validate";
+import CardPerson from "@/components/ui/CardPerson/CardPerson";
+
+import styles from "./Investment.module.scss";
 
 const Investment = () => {
   const formatter = new Intl.NumberFormat("es-PE", {
     style: "currency",
     currency: "PEN",
   });
-
+  const router = useRouter();
+  const { investmentId } = router.query;
   const [form, setForm] = useState(dataForm);
   const [formInvestor, setFormInvestor] = useState(dataFormInvestor);
   const [isValidForm, setIsValidForm] = useState(false);
-  const { isLoadingPerson, getByDniPerson } = usePerson();
-  const { isLoadingInvestment, createInvestment, investment } = useInvestment();
-  const [popupVisible, setPopupVisible] = useState(false);
+  const {
+    isLoadingInvestment,
+    updateInvestment,
+    updateStateInvestment,
+    investment,
+  } = useInvestment();
   const { inversor, investment: dataIn } = investment;
-
-  const handleOnchange = (e: React.ChangeEvent<HTMLInputElement>) => {
-    setForm({
-      ...form,
-      [e.target.name]: {
-        value: e.target.value,
-        isValid: e.target.value !== "" ? true : false,
-      },
-    });
-  };
-
-  const handleOnBlurDni = (e: React.ChangeEvent<HTMLInputElement>) => {
-    setForm({
-      ...form,
-      dni: {
-        value: e.target.value,
-        isValid: e.target.value !== "" ? true : false,
-      },
-    });
-    getByDniPerson(e.target.value.trim());
-  };
+  const state = dataIn?.state;
 
   const handleOnchangeProyect = (e: React.ChangeEvent<HTMLInputElement>) => {
     setFormInvestor({
@@ -135,129 +119,35 @@ const Investment = () => {
     });
   };
 
-  const handleOnchangeAmount = (e: React.ChangeEvent<HTMLInputElement>) => {
-    const returnpercentage = Number(
-      formInvestor.returnpercentage.value.replace(/[^0-9.-]+/g, "")
-    ).toString();
-
-    const interests =
-      (parseFloat(e.target.value || "0") * parseFloat(returnpercentage)) / 100;
-    const formattedAmount = formatter.format(interests);
-
-    const retention = interests * 0.05;
-    const formattedRetention = formatter.format(retention);
-
-    const subTotal = parseFloat(e.target.value || "0") + interests;
-    const formattedSubTotal = formatter.format(subTotal);
-
-    const total = subTotal - retention;
-    const formattedTotal = formatter.format(total);
-
-    setFormInvestor({
-      ...formInvestor,
-      amount: {
-        value: e.target.value,
-        isValid: e.target.value !== "" ? true : false,
-      },
-      interests: {
-        value: formattedAmount.toString(),
-        isValid: e.target.value !== "" ? true : false,
-      },
-      retention: {
-        value: formattedRetention.toString(),
-        isValid: e.target.value !== "" ? true : false,
-      },
-      subtotal: {
-        value: formattedSubTotal.toString(),
-        isValid: e.target.value !== "" ? true : false,
-      },
-      total: {
-        value: formattedTotal.toString(),
-        isValid: e.target.value !== "" ? true : false,
-      },
-    });
-  };
-
-  const handleOnBlurAmount = (e: React.ChangeEvent<HTMLInputElement>) => {
-    const inputValue = e.target.value.trim(); // Eliminamos espacios en blanco
-    const numericValue = parseFloat(inputValue);
-
-    setFormInvestor({
-      ...formInvestor,
-      amount: {
-        value: isNaN(numericValue) ? "" : formatter.format(numericValue),
-        isValid: inputValue !== "" ? true : false,
-      },
-    });
-  };
-
-  const handleOnFocusAmount = (e: React.ChangeEvent<HTMLInputElement>) => {
-    const inputValue = e.target.value;
-    const numericValue = parseFloat(inputValue.replace(/[^0-9.-]+/g, ""));
-
-    setFormInvestor({
-      ...formInvestor,
-      amount: {
-        value: isNaN(numericValue) ? "" : numericValue.toString(),
-        isValid: e.target.value !== "" ? true : false,
-      },
-    });
-  };
-
-  const handleOnchangeEmail = (e: React.ChangeEvent<HTMLInputElement>) => {
-    setForm({
-      ...form,
-      [e.target.name]: {
-        value: e.target.value,
-        isValid: isValidEmail(e.target.value),
-      },
-    });
-  };
-
-  const handleOnchangePhone = (e: React.ChangeEvent<HTMLInputElement>) => {
-    setForm({
-      ...form,
-      [e.target.name]: {
-        value: e.target.value,
-        isValid: isValidPhone(e.target.value),
-      },
-    });
-  };
-
   const handleOnClickSubmit = () => {
-    const invertor = {
-      dni: form.dni.value,
-      name: form.name.value,
-      paternallastname: form.paternallastname.value,
-      maternallastname: form.maternallastname.value,
-      address: form.address.value,
-      email: form.email.value,
-      phone: form.phone.value,
-    };
-
     const investment = {
-      amount: parseFloat(formInvestor.amount.value.replace(/[^0-9.-]+/g, "")),
+      id: investmentId as string,
+      amount: parseFloat(
+        formInvestor.amount.value.replace(/[^0-9.-]+/g, "")
+      ).toString(),
       registrationdate: formInvestor.registrationdate.value,
       months: formInvestor.months.value,
       enddate: formInvestor.enddate.value,
       returnpercentage: formInvestor.returnpercentage.value,
       interests: parseFloat(
         formInvestor.interests.value.replace(/[^0-9.-]+/g, "")
-      ),
+      ).toString(),
       monthpay: formInvestor.monthpay.value,
       retention: parseFloat(
         formInvestor.retention.value.replace(/[^0-9.-]+/g, "")
-      ),
+      ).toString(),
       subtotal: parseFloat(
         formInvestor.subtotal.value.replace(/[^0-9.-]+/g, "")
-      ),
-      total: parseFloat(formInvestor.total.value.replace(/[^0-9.-]+/g, "")),
+      ).toString(),
+      total: parseFloat(
+        formInvestor.total.value.replace(/[^0-9.-]+/g, "")
+      ).toString(),
       proyect: formInvestor.proyect.value,
+      state: "Vigente",
     };
 
     if (isValidForm) {
-      createInvestment(invertor, investment);
-      handleShowPopup();
+      updateInvestment(investment);
     }
   };
 
@@ -283,13 +173,6 @@ const Investment = () => {
       setIsValidForm(false);
     }
   }, [form, formInvestor]);
-
-  const handleShowPopup = () => {
-    setPopupVisible(true); // Mostrar el popup cuando se haga clic en algún elemento
-    setTimeout(() => {
-      setPopupVisible(false); // Ocultar el popup después de un tiempo
-    }, 3000);
-  };
 
   useEffect(() => {
     if (dataIn.id !== "") {
@@ -341,73 +224,7 @@ const Investment = () => {
         <Row gap="126px">
           <Column gap="5px">
             <Title value="Datos del inversionista" width="305px" />
-            <Row gap="5px">
-              <Input
-                label="DNI"
-                type="text"
-                name="dni"
-                width="200px"
-                value={form.dni.value}
-                onChange={handleOnchange}
-                onBlur={handleOnBlurDni}
-                isValid={form.dni.isValid}
-              />
-              <ClaimType width="100px" isLoading={isLoadingPerson} />
-            </Row>
-            <Input
-              label="Nombre"
-              type="text"
-              name="name"
-              width="305px"
-              value={form.name.value}
-              onChange={handleOnchange}
-              isValid={form.name.isValid}
-            />
-            <Input
-              label="Apellido paterno"
-              type="text"
-              name="paternallastname"
-              width="305px"
-              value={form.paternallastname.value}
-              onChange={handleOnchange}
-              isValid={form.paternallastname.isValid}
-            />
-            <Input
-              label="Apellido materno"
-              type="text"
-              name="maternallastname"
-              width="305px"
-              value={form.maternallastname.value}
-              onChange={handleOnchange}
-              isValid={form.maternallastname.isValid}
-            />
-            <Input
-              label="Dirección"
-              type="text"
-              name="address"
-              width="305px"
-              value={form.address.value}
-              onChange={handleOnchange}
-              isValid={form.address.isValid}
-            />
-            <Input
-              label="Correo electronico"
-              type="text"
-              name="email"
-              width="305px"
-              value={form.email.value}
-              onChange={handleOnchangeEmail}
-              isValid={form.email.isValid}
-            />
-            <Input
-              label="Teléfono"
-              type="number"
-              name="phone"
-              width="180px"
-              value={form.phone.value}
-              onChange={handleOnchangePhone}
-              isValid={form.phone.isValid}
-            />
+            <CardPerson data={inversor} />
           </Column>
           <Column gap="5px">
             <Title value="Proyecto a invertir" width="315px" />
@@ -428,16 +245,10 @@ const Investment = () => {
 
             <Row gap="5px">
               <Column gap="5px">
-                <Input
-                  label="Monto"
-                  type="text"
-                  name="amount"
-                  width="180px"
+                <InputData
                   value={formInvestor.amount.value}
-                  onChange={handleOnchangeAmount}
-                  onBlur={handleOnBlurAmount}
-                  onFocus={handleOnFocusAmount}
-                  isValid={formInvestor.amount.isValid}
+                  label="Monto"
+                  width="180px"
                 />
                 <Input
                   label="Tiempo en meses"
@@ -499,11 +310,6 @@ const Investment = () => {
             </Row>
           </Column>
         </Row>
-        <PopupMsg
-          message="¡Datos guardados correctamente!"
-          duration={3000}
-          showPopup={popupVisible}
-        />
       </Seccion>
       <SeccionFooter>
         <Button

@@ -3,8 +3,7 @@ import { Seccion, SeccionFooter } from "@/components/layout/Seccion";
 import React from "react";
 import Current from "./Current";
 import Lapsed from "./Lapsed";
-import useInvestment from "@/store/hooks/useInvestment";
-import IDataInvetment from "@/interfaces/dataInvestment";
+import { useInvestment } from "@/store/hooks";
 import Finished from "./Finished";
 
 const InvestorsList = () => {

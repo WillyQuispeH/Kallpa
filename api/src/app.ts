@@ -5,6 +5,7 @@ import { reqLogger } from "./middlewares/logger";
 import { auth } from "./middlewares/auth";
 import cron from "node-cron";
 import config from "./utils/config";
+import createCronsFunctions from "./utils/cron";
 
 const corsOptions = {
   origin: ["https://kallpa.onrender.com"],
@@ -33,6 +34,7 @@ const routeMappings = [
   { path: "/person", router: routes.PersonRouter },
   { path: "/investment", router: routes.InvestmentRouter },
   { path: "/proyect", router: routes.ProyectRouter },
+  { path: "/user", router: routes.UserRouter },
 ];
 
 function initializeRoutes(server: Express) {
@@ -41,9 +43,7 @@ function initializeRoutes(server: Express) {
   });
 }
 
-cron.schedule("15 0 30 8 *", () => {
-  console.log("Tarea programada completada.");
-});
+createCronsFunctions();
 
 const server = express();
 initializeMiddlewares(server);

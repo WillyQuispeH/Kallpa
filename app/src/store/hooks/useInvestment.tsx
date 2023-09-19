@@ -19,6 +19,8 @@ const useInvestment = () => {
     create: createInvestment,
     getAll: getAllInvestment,
     getById: getByIdInvestment,
+    update: updateInvestment,
+    updateState: updateStateInvestment,
   } = investmentStore();
 
   return {
@@ -30,6 +32,8 @@ const useInvestment = () => {
     createInvestment,
     getAllInvestment,
     getByIdInvestment,
+    updateInvestment,
+    updateStateInvestment,
   };
 };
 

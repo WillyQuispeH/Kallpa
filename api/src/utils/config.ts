@@ -10,14 +10,14 @@ const config = {
   db_password: process.env.DB_PASSWORD || "",
   db_port: process.env.DB_PORT || 5432,
   db_keepalive: process.env.DB_KEEPALIVE || true,
-  NODE_ENV: process.env.NODE_ENV || "production",
+  NODE_ENV: process.env.NODE_ENV || "",
   database_connection: process.env.DATABASE_CONNECTION || "",
 
   email: {
     emailHost: process.env.EMAIL_SMTP || "smtp.gmail.com",
     emailLogin: process.env.EMAIL_LOGIN || "willypruebas6@gmail.com",
-    emailPassword: process.env.EMAIL_PASSWORD || "eudmtghkudsatwle",
-    emailPort: process.env.EMAIL_PORT || 465,
+    emailPassword: process.env.EMAIL_PASSWORD || "bskvjchoxahiazed",
+    emailPort: process.env.EMAIL_PORT || 587,
     emailFrom: process.env.EMAIL_FROM || "PortalReclamo",
     emailSecure: process.env.EMAIL_SECURE === "true",
   },

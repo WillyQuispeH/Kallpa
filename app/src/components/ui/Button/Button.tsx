@@ -7,6 +7,7 @@ interface IntButton {
   disabled?: boolean;
   isLoading?: boolean;
   height: string;
+  bg?: string;
 }
 const Button = ({
   onClick,
@@ -15,10 +16,11 @@ const Button = ({
   height,
   disabled,
   isLoading,
+  bg,
 }: IntButton) => {
   return (
     <div className={styles.button} style={{ width, height }}>
-      <button onClick={onClick} disabled={disabled}>
+      <button onClick={onClick} disabled={disabled} style={{ background: bg }}>
         {isLoading ? <LoaderCircle width="40px" /> : valor}
       </button>
     </div>

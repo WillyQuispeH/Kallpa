@@ -15,6 +15,8 @@ type proyectState = {
   isError: boolean;
   error: string;
   create: (name: string, code: string, date: string) => void;
+  remove: (id: string) => void;
+  update: (id: string, name: string, code: string, date: string) => void;
   getAll: () => void;
 };
 
@@ -62,6 +64,7 @@ export const proyectStore = create<proyectState>((set, get) => ({
       }));
     }
   },
+  
   getAll: async () => {
     try {
       set((state) => ({
@@ -72,6 +75,65 @@ export const proyectStore = create<proyectState>((set, get) => ({
       }));
 
       const { data } = await apiInstance.get("/proyect/getAll");
+      set((state) => ({
+        ...state,
+        list: data.data ? data.data : [],
+        isLoading: false,
+        isError: false,
+        error: "",
+      }));
+    } catch (e) {
+      set((state) => ({
+        ...state,
+        isLoading: false,
+        isError: true,
+        error: (e as Error).message,
+      }));
+    }
+  },
+
+  remove: async (id: string) => {
+    try {
+      set((state) => ({
+        ...state,
+        isLoading: true,
+        isError: false,
+        error: "",
+      }));
+
+      const { data } = await apiInstance.post("/proyect/remove", { id });
+      set((state) => ({
+        ...state,
+        list: data.data ? data.data : [],
+        isLoading: false,
+        isError: false,
+        error: "",
+      }));
+    } catch (e) {
+      set((state) => ({
+        ...state,
+        isLoading: false,
+        isError: true,
+        error: (e as Error).message,
+      }));
+    }
+  },
+
+  update: async (id: string, name: string, code: string, date: string) => {
+    try {
+      set((state) => ({
+        ...state,
+        isLoading: true,
+        isError: false,
+        error: "",
+      }));
+
+      const { data } = await apiInstance.post("/proyect/update", {
+        id,
+        name,
+        code,
+        date,
+      });
       set((state) => ({
         ...state,
         list: data.data ? data.data : [],

@@ -75,7 +75,6 @@ const Proyect = () => {
     }
   };
 
-  console.log(listProyect);
   return (
     <>
       <Seccion title="Lista de Proyectos">
@@ -102,7 +101,7 @@ const Proyect = () => {
             </Column>
 
             <Column gap="10px">
-              <Title value="Lista de proyectos" width="651px" />
+              <Title value="Lista de proyectos" width="600px" />
               <TableProyect data={listProyect} />
             </Column>
           </Row>

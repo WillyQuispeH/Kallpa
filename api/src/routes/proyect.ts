@@ -7,5 +7,7 @@ const ProyectRouter = Router();
 
 ProyectRouter.post("/create", auth, ProyectController.create);
 ProyectRouter.get("/getAll", auth, ProyectController.getAll);
+ProyectRouter.post("/remove", auth, ProyectController.remove);
+ProyectRouter.post("/update", auth, ProyectController.update);
 
 export default ProyectRouter;

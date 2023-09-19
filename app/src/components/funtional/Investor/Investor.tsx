@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { Column, Row } from "@/components/layout/Generic";
-import { dataForm, dataFormInvestor, data } from "./data";
+import { dataForm, dataFormInvestor } from "./data";
 import ClaimType from "@/components/ui/ClaimType";
 import Input from "@/components/ui/Input";
 import ComboBox from "@/components/ui/ComboBox";
@@ -12,7 +12,6 @@ import { addMonths, format, parse } from "date-fns";
 import { es } from "date-fns/locale";
 import Title from "@/components/ui/Title";
 import useInvestment from "@/store/hooks/useInvestment";
-import PopupMsg from "@/components/ui/PopupMsg/PopupMsg";
 import { isValidEmail, isValidPhone } from "@/utils/validate";
 import useProyect from "@/store/hooks/useProyect";
 
@@ -28,7 +27,6 @@ const Investor = () => {
   const { person, isLoadingPerson, getByDniPerson } = usePerson();
   const { isLoadingInvestment, createInvestment } = useInvestment();
   const { listProyect } = useProyect();
-  const [popupVisible, setPopupVisible] = useState(false);
 
   const handleOnchange = (e: React.ChangeEvent<HTMLInputElement>) => {
     setForm({
@@ -258,7 +256,6 @@ const Investor = () => {
 
     if (isValidForm) {
       createInvestment(invertor, investment);
-      handleShowPopup();
     }
   };
 
@@ -285,13 +282,6 @@ const Investor = () => {
     }
   }, [form, formInvestor]);
 
-  const handleShowPopup = () => {
-    setPopupVisible(true); // Mostrar el popup cuando se haga clic en algún elemento
-    setTimeout(() => {
-      setPopupVisible(false); // Ocultar el popup después de un tiempo
-    }, 3000);
-  };
-
   useEffect(() => {
     if (person.id !== "") {
       setForm({
@@ -307,7 +297,6 @@ const Investor = () => {
     }
   }, [person]);
 
-  console.log(listProyect);
   return (
     <>
       <Seccion title="Nuevo inversionita">
@@ -471,11 +460,6 @@ const Investor = () => {
             </Row>
           </Column>
         </Row>
-        <PopupMsg
-          message="¡Datos guardados correctamente!"
-          duration={3000}
-          showPopup={popupVisible}
-        />
       </Seccion>
       <SeccionFooter>
         <Button

@@ -25,4 +25,31 @@ const getAll: any = async () => {
   }
 };
 
-export { create, getAll };
+const remove = async (id: string) => {
+  try {
+    const result = await pool.query(
+      `DELETE FROM app.proyect
+      WHERE id=$1;`,
+      [id]
+    );
+    return { success: true, data: result.rows || null, error: false };
+  } catch (e) {
+    return { success: false, data: null, error: (e as Error).message };
+  }
+};
+
+const update = async (id: string, name: string, code: string, date: string) => {
+  try {
+    const result = await pool.query(
+      `UPDATE app.proyect
+      SET "name"=$2, code=$3, "date"=$4
+      WHERE id=$1; `,
+      [id, name, code, date]
+    );
+    return { success: true, data: result.rows || null, error: false };
+  } catch (e) {
+    return { success: false, data: null, error: (e as Error).message };
+  }
+};
+
+export { create, getAll, update, remove };

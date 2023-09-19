@@ -102,4 +102,68 @@ const menuOpcion = [
   },
 ];
 
-export default menuOpcion;
+const menuOpcionAdmin = [
+  {
+    sectionName: "investments",
+    sectionText: "Inversiones",
+    options: [
+      {
+        name: "welcome",
+        text: "Panel principal",
+        path: "/investments/welcome",
+      },
+      {
+        name: "investor",
+        text: "Nuevo inversionista",
+        path: "/investments/investor",
+      },
+      {
+        name: "investorsList",
+        text: "Lista de inversion",
+        path: "/investments/investorsList",
+      },
+
+      {
+        name: "investment",
+        text: "Ultima inversion revisada",
+        path: "/investments/investment",
+      },
+    ],
+  },
+
+  {
+    sectionName: "proyect",
+    sectionText: "Proyectos",
+    options: [
+      {
+        name: "proyect",
+        text: "Lista de proyectos",
+        path: "/proyect/proyect",
+      },
+    ],
+  },
+  {
+    sectionName: "processes",
+    sectionText: "Procesos",
+    options: [
+      {
+        name: "specialOrders",
+        text: "Pedidos especiales",
+        path: "/processes/specialOrders",
+      },
+    ],
+  },
+  {
+    sectionName: "processes",
+    sectionText: "Procesos",
+    options: [
+      {
+        name: "specialOrders",
+        text: "Pedidos especiales",
+        path: "/processes/specialOrders",
+      },
+    ],
+  },
+];
+
+export { menuOpcion, menuOpcionAdmin };

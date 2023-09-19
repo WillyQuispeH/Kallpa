@@ -15,7 +15,12 @@ const useProyect = () => {
     error: state.error,
   }));
 
-  const { create: createProyect, getAll: getAllProyect } = proyectStore();
+  const {
+    create: createProyect,
+    getAll: getAllProyect,
+    update: updateProyect,
+    remove: removeProyect,
+  } = proyectStore();
 
   return {
     proyect,
@@ -25,6 +30,8 @@ const useProyect = () => {
     errorProyect,
     getAllProyect,
     createProyect,
+    updateProyect,
+    removeProyect,
   };
 };
 

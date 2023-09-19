@@ -2,5 +2,8 @@
   "dev": "cross-env APP_ENV=dev next dev -p 8000",
   "build": "next build",
   "start": "cross-env APP_ENV=prod next start -p 8000",
-  "lint": "next lint"
+  "lint": "next lint",
+  "email":"",
+  "password":""
+
 }

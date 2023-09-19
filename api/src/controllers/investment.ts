@@ -44,6 +44,7 @@ const create = async (req: Request, res: Response) => {
         error: result.error,
       });
       res.status(500).json({ success: false, data: null, error: result.error });
+      return;
     }
 
     const dataToSend = {
@@ -71,6 +72,7 @@ const getAll = async (req: Request, res: Response) => {
         error: result.error,
       });
       res.status(500).json({ success: false, data: null, error: result.error });
+      return;
     }
 
     res.status(200).json({ success: true, data: result.data, error: null });
@@ -95,6 +97,7 @@ const getById = async (req: Request, res: Response) => {
         error: result.error,
       });
       res.status(500).json({ success: false, data: null, error: result.error });
+      return;
     }
 
     res.status(200).json({ success: true, data: result.data, error: null });
@@ -162,4 +165,82 @@ const createInvestment = async (investment: IInvestment) => {
   }
   return result.data;
 };
-export { create, getAll, getById };
+
+const update = async (req: Request, res: Response) => {
+  try {
+    const {
+      id,
+      amount,
+      registrationdate,
+      months,
+      enddate,
+      returnpercentage,
+      interests,
+      monthpay,
+      retention,
+      subtotal,
+      total,
+      state,
+      proyect,
+    } = req.body;
+
+    const result = await InvestmentModels.update(
+      id,
+      amount,
+      registrationdate,
+      months,
+      enddate,
+      returnpercentage,
+      interests,
+      monthpay,
+      retention,
+      subtotal,
+      total,
+      state,
+      proyect
+    );
+
+    if (!result.success) {
+      createLogger.error({
+        model: "investmentDetail/update",
+        error: result.error,
+      });
+      res.status(500).json({ success: false, data: null, error: result.error });
+      return;
+    }
+
+    res.status(200).json({ success: true, data: result.data, error: null });
+  } catch (e) {
+    createLogger.error({
+      controller: "investmentDetail/update",
+      error: (e as Error).message,
+    });
+    res.status(500).json({ error: (e as Error).message });
+  }
+};
+
+const updateState = async (req: Request, res: Response) => {
+  try {
+    const { id, state } = req.body;
+
+    const result = await InvestmentModels.updateState(id, state);
+
+    if (!result.success) {
+      createLogger.error({
+        model: "investmentDetail/updateState",
+        error: result.error,
+      });
+      res.status(500).json({ success: false, data: null, error: result.error });
+      return;
+    }
+
+    res.status(200).json({ success: true, data: result.data, error: null });
+  } catch (e) {
+    createLogger.error({
+      controller: "investmentDetail/updateState",
+      error: (e as Error).message,
+    });
+    res.status(500).json({ error: (e as Error).message });
+  }
+};
+export { create, getAll, getById, update, updateState };

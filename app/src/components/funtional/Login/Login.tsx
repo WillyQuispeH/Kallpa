@@ -5,18 +5,21 @@ import { Column } from "@/components/layout/Generic/Generic";
 import Screen from "@/components/layout/Screen";
 import Button from "@/components/ui/Button";
 import InputText from "@/components/ui/Input";
-import Link from "@/components/ui/Link";
 import Logo from "@/components/ui/Logo";
+import { useUser } from "@/store/hooks";
+
+import styles from "./Login.module.scss";
 
 const Login = () => {
   const inicialForm = {
-    email: { value: "", isValid: true },
-    password: { value: "", isValid: true },
+    email: { value: "kallpa@gmail.com", isValid: true },
+    password: { value: "kallpa", isValid: true },
   };
 
   const router = useRouter();
-  const [isValidEmail, setIsValidEmail] = useState(true);
+  const [isValidForm, setIsValidForm] = useState(false);
   const [form, setForm] = useState(inicialForm);
+  const { validateUser, isLoadingUser } = useUser();
 
   const handleOnchange = (e: any) => {
     setForm({
@@ -28,14 +31,32 @@ const Login = () => {
     });
   };
 
+  useEffect(() => {
+    if (
+      form.password.isValid &&
+      form.password.value !== "" &&
+      form.email.isValid &&
+      form.password.value !== ""
+    ) {
+      setIsValidForm(true);
+    } else {
+      setIsValidForm(false);
+    }
+  }, [form]);
+
   const handleOnclickLogin = async () => {
-    router.push("/welcome");
+    if (isValidForm) {
+      validateUser(form.email.value, form.password.value);
+      router.push("/investments/welcome");
+    }
   };
 
   return (
     <Screen>
-      <Column gap="65px">
-        <Logo width="300px" height="205px" />
+      <Column gap="30px">
+        <div className={styles.logoLogin}>
+          <Logo width="250px" height="155px" />
+        </div>
         <Column gap="28px">
           <Column gap="5px">
             <InputText
@@ -57,14 +78,20 @@ const Login = () => {
               isValid={form.password.isValid}
             />
           </Column>
-          <Button
-            onClick={handleOnclickLogin}
-            valor="Ingresar"
-            width="200px"
-            height="40px"
-          />
-          <Link valor="Olvidé mi contraseña" />
+          <div className={styles.buttonLogin}>
+            <Button
+              onClick={handleOnclickLogin}
+              valor="Ingresar"
+              width="180px"
+              height="40px"
+              isLoading={isLoadingUser}
+              disabled={!isValidForm}
+            />
+          </div>
         </Column>
+        <div className={styles.developer}>
+          <img src="/developer.png" alt="gaman/Company" />
+        </div>
       </Column>
     </Screen>
   );

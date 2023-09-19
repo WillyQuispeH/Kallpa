@@ -13,9 +13,18 @@ const { Pool } = pg;
 //   port: 5432,
 //   keepAlive: true,
 // });
-const pool = new pg.Pool({
+
+const connectPro = {
   connectionString: config.database_connection,
-});
+};
+const connectDev = {
+  connectionString: config.database_connection,
+  ssl: true,
+};
+
+const pool = new pg.Pool(
+  config.NODE_ENV === "production" ? connectPro : connectDev
+);
 
 pool.connect(function (err) {
   if (err) {

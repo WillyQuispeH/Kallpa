@@ -14,6 +14,7 @@ const create = async (req: Request, res: Response) => {
         error: result.error,
       });
       res.status(500).json({ success: false, data: null, error: result.error });
+      return;
     }
 
     res.status(200).json({ success: true, data: result.data, error: null });
@@ -36,6 +37,7 @@ const getAll = async (req: Request, res: Response) => {
         error: result.error,
       });
       res.status(500).json({ success: false, data: null, error: result.error });
+      return;
     }
 
     res.status(200).json({ success: true, data: result.data, error: null });
@@ -48,4 +50,62 @@ const getAll = async (req: Request, res: Response) => {
   }
 };
 
-export { create, getAll };
+const remove = async (req: Request, res: Response) => {
+  try {
+    const { id } = req.body;
+
+    const result = await ProyectModel.remove(id);
+
+    const getAllResult = await ProyectModel.getAll();
+
+    if (!result.success) {
+      createLogger.error({
+        model: "proyect/remove",
+        error: result.error,
+      });
+      res.status(500).json({ success: false, data: null, error: result.error });
+      return;
+    }
+
+    res
+      .status(200)
+      .json({ success: true, data: getAllResult.data, error: null });
+  } catch (e) {
+    createLogger.error({
+      controller: "proyect/remove",
+      error: (e as Error).message,
+    });
+    res.status(500).json({ error: (e as Error).message });
+  }
+};
+
+const update = async (req: Request, res: Response) => {
+  try {
+    const { id, name, code, date } = req.body;
+
+    const result = await ProyectModel.update(id, name, code, date);
+
+    const getAllResult = await ProyectModel.getAll();
+
+    if (!result.success) {
+      createLogger.error({
+        model: "proyect/update",
+        error: result.error,
+      });
+      res.status(500).json({ success: false, data: null, error: result.error });
+      return;
+    }
+
+    res
+      .status(200)
+      .json({ success: true, data: getAllResult.data, error: null });
+  } catch (e) {
+    createLogger.error({
+      controller: "proyect/update",
+      error: (e as Error).message,
+    });
+    res.status(500).json({ error: (e as Error).message });
+  }
+};
+
+export { create, getAll, update, remove };
