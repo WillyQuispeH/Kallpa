@@ -54,11 +54,12 @@ const createCronsFunctions = async () => {
       maternalLastName: inversor.maternalLastName,
       email: inversor.email,
     };
-    // console.log(`0 */10 ${dia} ${mesNumero[mes]} *`);
+     console.log(`* */1 ${dia} ${mesNumero[mes]} *`);
     // console.log(`*/1 * ${dia} ${mesNumero[mes]} *`);
-    cron.schedule(`0 */10 ${dia} ${mesNumero[mes]} *`, async () => {
+    cron.schedule(`* */1 ${dia} ${mesNumero[mes]} *`, async () => {
       const result = await Email.send(mailOptions, []);
     });
+    
   }
 };
 

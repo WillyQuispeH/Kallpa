@@ -62,7 +62,7 @@ const send: any = async (
       from: config.email.emailFrom,
       to: mailOptions.email,
       subject: mailOptions.subject,
-      html: "micorreo",
+      html: "prueba de unas horas",
       attachments: attachmentsData,
     });
 
