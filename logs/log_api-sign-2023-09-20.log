@@ -1,0 +1,90 @@
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-19 18:29:10"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-19 18:29:11"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-19 18:35:22"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-19 18:35:23"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-19 18:35:53"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-19 18:35:59"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-19 18:36:55"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-19 18:36:56"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-19 18:37:17"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-19 18:37:19"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-19 18:37:24"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-19 18:37:25"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-19 18:58:43"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-19 18:58:44"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-19 18:59:11"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-19 18:59:12"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-19 18:59:18"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-19 18:59:19"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-19 18:59:34"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-19 18:59:35"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-19 19:00:30"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-19 19:00:31"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-19 19:01:08"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-19 19:01:09"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-19 19:01:33"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-19 19:01:34"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-19 19:04:56"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-19 19:04:57"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-19 19:28:21"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-19 19:28:22"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-19 19:28:49"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-19 19:28:50"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-19 19:29:09"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-19 19:29:10"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-19 19:35:27"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-19 19:35:28"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-19 19:37:13"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-19 19:37:14"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-19 19:37:23"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-19 19:37:24"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-19 19:38:27"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-19 19:38:28"}
+{"level":"info","message":{"body":{"email":"kallpa@gmail.com","password":"kallpa"},"method":"POST","params":"","query":"","url":"/user/validate"},"timestamp":"2023-09-19 19:39:02"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-19 19:39:03"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-19 19:39:03"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/user/getAll"},"timestamp":"2023-09-19 19:39:06"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/user/getAll"},"timestamp":"2023-09-19 19:39:07"}
+{"level":"info","message":{"body":{"address":"rivas 820","dni":"27.648.009-K","email":"quispeabadquispe@gmail.com","maternallastname":"Haumani","name":"Abad","paternallastname":"Quispe","phone":"963257415"},"method":"POST","params":"","query":"","url":"/person/create"},"timestamp":"2023-09-19 19:39:14"}
+{"level":"info","message":{"error":{"address":"rivas 820","dni":"27.648.009-K","email":"quispeabadquispe@gmail.com","id":"f8379224-b502-4c3d-a731-ef430b4504f9","maternallastname":"Haumani","name":"Abad","paternallastname":"Quispe","phone":"963257415"},"model":"person/create"},"timestamp":"2023-09-19 19:39:14"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-19 19:39:17"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-19 19:39:17"}
+{"level":"info","message":{"body":{"email":"kallpa@gmail.com","password":"kallpa"},"method":"POST","params":"","query":"","url":"/user/validate"},"timestamp":"2023-09-19 19:39:31"}
+{"level":"info","message":{"body":{"email":"quispeabadquispe@gmail.com","password":"kallpa"},"method":"POST","params":"","query":"","url":"/user/validate"},"timestamp":"2023-09-19 19:39:39"}
+{"level":"error","message":{"error":"Connection terminated unexpectedly","model":"validate/getByEmail"},"timestamp":"2023-09-19 19:39:39"}
+{"level":"info","message":{"body":{"email":"quispeabadquispe@gmail.com","password":"kallpa"},"method":"POST","params":"","query":"","url":"/user/validate"},"timestamp":"2023-09-19 19:39:40"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-19 19:39:41"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-19 19:39:41"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/user/getAll"},"timestamp":"2023-09-19 19:39:43"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/user/getAll"},"timestamp":"2023-09-19 19:39:44"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-19 19:42:05"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-19 19:42:06"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-19 19:44:07"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-19 19:44:08"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-19 19:45:01"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-19 19:45:02"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-19 19:46:52"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-19 19:46:53"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-19 19:48:55"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-19 19:48:56"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-19 19:50:23"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-19 19:50:24"}
+{"level":"info","message":{"data":"successful connection to Nodemailer","utils":"emailSender"},"timestamp":"2023-09-19 19:51:02"}
+{"level":"info","message":{"data":{"accepted":["quispeabadquispe@gmail.com"],"ehlo":["SIZE 35882577","8BITMIME","AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH","ENHANCEDSTATUSCODES","PIPELINING","CHUNKING","SMTPUTF8"],"envelope":{"from":"willypruebas6@gmail.com","to":["quispeabadquispe@gmail.com"]},"envelopeTime":861,"messageId":"<d98eb8a1-e68c-80ab-7d09-52a4f79c5e46@gmail.com>","messageSize":308,"messageTime":787,"rejected":[],"response":"250 2.0.0 OK  1695163864 l20-20020a0568301d7400b006c21f11dcecsm5624413oti.49 - gsmtp"},"utils":"emailSender"},"timestamp":"2023-09-19 19:51:03"}
+{"level":"info","message":{"controller":"send/emailSender","data":{"accepted":["quispeabadquispe@gmail.com"],"ehlo":["SIZE 35882577","8BITMIME","AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH","ENHANCEDSTATUSCODES","PIPELINING","CHUNKING","SMTPUTF8"],"envelope":{"from":"willypruebas6@gmail.com","to":["quispeabadquispe@gmail.com"]},"envelopeTime":861,"messageId":"<d98eb8a1-e68c-80ab-7d09-52a4f79c5e46@gmail.com>","messageSize":308,"messageTime":787,"rejected":[],"response":"250 2.0.0 OK  1695163864 l20-20020a0568301d7400b006c21f11dcecsm5624413oti.49 - gsmtp"}},"timestamp":"2023-09-19 19:51:03"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-19 19:51:30"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-19 19:51:31"}
+{"level":"info","message":{"data":"successful connection to Nodemailer","utils":"emailSender"},"timestamp":"2023-09-19 19:52:01"}
+{"level":"info","message":{"data":{"accepted":["quispeabadquispe@gmail.com"],"ehlo":["SIZE 35882577","8BITMIME","AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH","ENHANCEDSTATUSCODES","PIPELINING","CHUNKING","SMTPUTF8"],"envelope":{"from":"willypruebas6@gmail.com","to":["quispeabadquispe@gmail.com"]},"envelopeTime":580,"messageId":"<141d1f3b-1b67-00ca-b50c-2a4793e0f332@gmail.com>","messageSize":308,"messageTime":586,"rejected":[],"response":"250 2.0.0 OK  1695163923 c9-20020a056830000900b006ba864f5b37sm5462048otp.12 - gsmtp"},"utils":"emailSender"},"timestamp":"2023-09-19 19:52:02"}
+{"level":"info","message":{"data":"successful connection to Nodemailer","utils":"emailSender"},"timestamp":"2023-09-19 19:53:01"}
+{"level":"info","message":{"data":{"accepted":["quispeabadquispe@gmail.com"],"ehlo":["SIZE 35882577","8BITMIME","AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH","ENHANCEDSTATUSCODES","PIPELINING","CHUNKING","SMTPUTF8"],"envelope":{"from":"willypruebas6@gmail.com","to":["quispeabadquispe@gmail.com"]},"envelopeTime":583,"messageId":"<51a7bcef-16ad-9462-ae6a-f6c04ae23870@gmail.com>","messageSize":308,"messageTime":532,"rejected":[],"response":"250 2.0.0 OK  1695163983 a6-20020a056808098600b003a7000a54d7sm5377830oic.56 - gsmtp"},"utils":"emailSender"},"timestamp":"2023-09-19 19:53:02"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-19 20:37:11"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-19 20:37:12"}
+{"level":"info","message":{"data":"successful connection to Nodemailer","utils":"emailSender"},"timestamp":"2023-09-19 20:38:02"}
+{"level":"info","message":{"data":{"accepted":["quispeabadquispe@gmail.com"],"ehlo":["SIZE 35882577","8BITMIME","AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH","ENHANCEDSTATUSCODES","PIPELINING","CHUNKING","SMTPUTF8"],"envelope":{"from":"willypruebas6@gmail.com","to":["quispeabadquispe@gmail.com"]},"envelopeTime":634,"messageId":"<e8eaff55-d982-39d8-dbe4-93b3d7b9d4bc@gmail.com>","messageSize":308,"messageTime":837,"rejected":[],"response":"250 2.0.0 OK  1695166684 k4-20020a4ae284000000b0057b09c01282sm1810101oot.11 - gsmtp"},"utils":"emailSender"},"timestamp":"2023-09-19 20:38:03"}
+{"level":"info","message":{"data":"successful connection to Nodemailer","utils":"emailSender"},"timestamp":"2023-09-19 20:39:01"}
+{"level":"info","message":{"data":{"accepted":["quispeabadquispe@gmail.com"],"ehlo":["SIZE 35882577","8BITMIME","AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH","ENHANCEDSTATUSCODES","PIPELINING","CHUNKING","SMTPUTF8"],"envelope":{"from":"willypruebas6@gmail.com","to":["quispeabadquispe@gmail.com"]},"envelopeTime":580,"messageId":"<64adc7a7-8d16-449b-1802-7cf78e9af857@gmail.com>","messageSize":308,"messageTime":485,"rejected":[],"response":"250 2.0.0 OK  1695166743 ec1-20020a0568708c0100b001d4d8efa7f9sm6620208oab.4 - gsmtp"},"utils":"emailSender"},"timestamp":"2023-09-19 20:39:02"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-19 20:46:54"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-19 20:46:54"}
+{"level":"info","message":{"data":"successful connection to Nodemailer","utils":"emailSender"},"timestamp":"2023-09-19 20:47:01"}
+{"level":"info","message":{"data":{"accepted":["quispeabadquispe@gmail.com"],"ehlo":["SIZE 35882577","8BITMIME","AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH","ENHANCEDSTATUSCODES","PIPELINING","CHUNKING","SMTPUTF8"],"envelope":{"from":"willypruebas6@gmail.com","to":["quispeabadquispe@gmail.com"]},"envelopeTime":591,"messageId":"<2c6ed05c-9c49-8183-63c7-8efac360b67b@gmail.com>","messageSize":308,"messageTime":514,"rejected":[],"response":"250 2.0.0 OK  1695167223 22-20020aca1016000000b003a9baa79051sm679151oiq.11 - gsmtp"},"utils":"emailSender"},"timestamp":"2023-09-19 20:47:02"}

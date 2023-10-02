@@ -36,7 +36,7 @@ const create = async (req: Request, res: Response) => {
 
     createLogger.info({
       model: "person/create",
-      error: result.data,
+      data: result.data,
     });
 
     res.status(200).json({
@@ -71,7 +71,7 @@ const getByDni = async (req: Request, res: Response) => {
 
     createLogger.info({
       model: "person/getByDni",
-      error: result.data,
+      data: result.data,
     });
 
     res.status(200).json({

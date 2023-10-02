@@ -1,3 +1,5 @@
+@import "../../../styles/mixins.scss";
+
 .cardPanel {
   display: flex;
   align-items: center;
@@ -15,6 +17,9 @@
     height: 50px;
     width: 50px;
     font-size: 30px;
+  }
+
+  @include media-xl() {
   }
 }
 
@@ -45,16 +50,44 @@
   gap: 20px;
 }
 
+.contenMainGraps {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+
+  @include media-xl() {
+    flex-direction: column-reverse;
+  }
+}
+
 .contenCardPanel {
   display: flex;
   align-items: center;
   justify-content: flex-start;
+  flex-wrap: wrap;
   width: 100%;
   gap: 20px;
+
+  @include media-xl() {
+    justify-content: center;
+  }
 }
 .contenBarList {
   display: flex;
   align-items: center;
   justify-content: center;
   gap: 20px;
+}
+
+.contenListAmount {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-direction: column;
+  gap: 20px;
+
+  @include media-xl() {
+    align-items: center;
+    padding-top: 10px;
+  }
 }

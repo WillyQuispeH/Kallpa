@@ -79,7 +79,7 @@ const Proyect = () => {
     <>
       <Seccion title="Lista de Proyectos">
         <div className={styles.proyect}>
-          <Row gap="100px">
+          <div className={styles.contentData}>
             <Column gap="10px">
               <Title value="Nuevo proyecto" width="325px" />
               <Row gap="5px">
@@ -101,10 +101,17 @@ const Proyect = () => {
             </Column>
 
             <Column gap="10px">
-              <Title value="Lista de proyectos" width="600px" />
-              <TableProyect data={listProyect} />
+              <div className={styles.modeMovil}>
+                <Title value="Lista de proyectos" width="350px" />
+              </div>
+              <div className={styles.modePortal}>
+                <Title value="Lista de proyectos" width="600px" />
+              </div>
+              <div className={styles.contentTable}>
+                <TableProyect data={listProyect} />
+              </div>
             </Column>
-          </Row>
+          </div>
         </div>
       </Seccion>
       <SeccionFooter>

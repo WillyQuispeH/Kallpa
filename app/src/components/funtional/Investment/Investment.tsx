@@ -221,7 +221,7 @@ const Investment = () => {
   return (
     <>
       <Seccion title={`Modo edición`} titleRight={`ID : ${dataIn.id}`}>
-        <Row gap="126px">
+      <div className={styles.contentData}>
           <Column gap="5px">
             <Title value="Datos del inversionista" width="305px" />
             <CardPerson data={inversor} />
@@ -309,7 +309,7 @@ const Investment = () => {
               </Column>
             </Row>
           </Column>
-        </Row>
+          </div>
       </Seccion>
       <SeccionFooter>
         <Button

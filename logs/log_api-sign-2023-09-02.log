@@ -1,0 +1,247 @@
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-02 00:22:15"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-02 00:22:15"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:22:38"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:22:38"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/proyect/getAll"},"timestamp":"2023-09-02 00:23:30"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/proyect/getAll"},"timestamp":"2023-09-02 00:23:30"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:23:50"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:23:50"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/person/getByDni/27.648.009-K"},"timestamp":"2023-09-02 00:24:05"}
+{"level":"info","message":{"error":null,"model":"person/getByDni"},"timestamp":"2023-09-02 00:24:05"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/person/getByDni/27.648.009-K"},"timestamp":"2023-09-02 00:24:06"}
+{"level":"info","message":{"error":null,"model":"person/getByDni"},"timestamp":"2023-09-02 00:24:06"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/person/getByDni/27.648.009-k"},"timestamp":"2023-09-02 00:24:13"}
+{"level":"info","message":{"error":null,"model":"person/getByDni"},"timestamp":"2023-09-02 00:24:13"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/person/getByDni/27"},"timestamp":"2023-09-02 00:24:19"}
+{"level":"info","message":{"error":null,"model":"person/getByDni"},"timestamp":"2023-09-02 00:24:19"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/person/getByDni/91188323-6"},"timestamp":"2023-09-02 00:25:00"}
+{"level":"info","message":{"error":{"address":"San Lorenzo","dni":"91188323-6","email":"KarolFatima@gmail.com","id":"3a780a3c-a6c0-4faf-b259-e96bb940962f","maternallastname":"Marin","name":"Karol Fatima","paternallastname":"Pizarro","phone":"957902342"},"model":"person/getByDni"},"timestamp":"2023-09-02 00:25:00"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/person/getByDni/"},"timestamp":"2023-09-02 00:25:03"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/person/getByDni/91188323-6"},"timestamp":"2023-09-02 00:25:07"}
+{"level":"info","message":{"error":{"address":"San Lorenzo","dni":"91188323-6","email":"KarolFatima@gmail.com","id":"3a780a3c-a6c0-4faf-b259-e96bb940962f","maternallastname":"Marin","name":"Karol Fatima","paternallastname":"Pizarro","phone":"957902342"},"model":"person/getByDni"},"timestamp":"2023-09-02 00:25:07"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:25:18"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:25:18"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:25:38"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:25:38"}
+{"level":"info","message":{"body":{"id":"d91b821f-be16-4b79-964f-8c2374dc4755"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-09-02 00:25:42"}
+{"level":"info","message":{"body":{"id":"d91b821f-be16-4b79-964f-8c2374dc4755"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-09-02 00:25:42"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:25:49"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:25:49"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/proyect/getAll"},"timestamp":"2023-09-02 00:25:52"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/proyect/getAll"},"timestamp":"2023-09-02 00:25:52"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:25:59"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:25:59"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:26:08"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:26:08"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/person/getByDni/99983170-2"},"timestamp":"2023-09-02 00:27:57"}
+{"level":"info","message":{"error":null,"model":"person/getByDni"},"timestamp":"2023-09-02 00:27:58"}
+{"level":"info","message":{"body":{"invertor":{"address":"rivas258","dni":"99983170-2","email":"Quispeabadquispe@gmail.com","maternallastname":"Huamani","name":"Willy","paternallastname":"Qusispe","phone":"957422552"},"investment":{"amount":250000,"enddate":"02/09/2024","interests":50000,"monthpay":"SEPTIEMBRE","months":"12","proyect":"Sabandia","registrationdate":"02/09/2023","retention":2500,"returnpercentage":"20","subtotal":300000,"total":297500}},"method":"POST","params":"","query":"","url":"/api/investment/create"},"timestamp":"2023-09-02 00:29:39"}
+{"level":"info","message":{"error":{"address":"rivas258","dni":"99983170-2","email":"Quispeabadquispe@gmail.com","id":"9db8bae0-242c-4e5e-83a2-016a7cb25aa7","maternallastname":"Huamani","name":"Willy","paternallastname":"Qusispe","phone":"957422552"},"model":"person/create"},"timestamp":"2023-09-02 00:29:39"}
+{"level":"info","message":{"error":{"amount":"250000","enddate":"02/09/2024","id":"58d93084-284d-4273-a1c3-20bb5086c61c","interests":"50000","monthpay":"SEPTIEMBRE","months":"12","proyect":"Sabandia","registrationdate":"02/09/2023","retention":"2500","returnpercentage":"20","state":"Vigente","subtotal":"300000","total":"297500"},"model":"person/create"},"timestamp":"2023-09-02 00:29:39"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:29:44"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:29:44"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:29:49"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:29:49"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:30:14"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:30:14"}
+{"level":"info","message":{"body":{"id":"3e7a99b7-c385-4ba9-b0b2-2279a02e4ba2"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-09-02 00:30:19"}
+{"level":"info","message":{"body":{"id":"3e7a99b7-c385-4ba9-b0b2-2279a02e4ba2"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-09-02 00:30:19"}
+{"level":"info","message":{"body":{"id":"3e7a99b7-c385-4ba9-b0b2-2279a02e4ba2"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-09-02 00:30:38"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:30:41"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:30:41"}
+{"level":"info","message":{"body":{"id":"be2e2cc3-569a-4353-bf0e-193509c2828c"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-09-02 00:30:43"}
+{"level":"info","message":{"body":{"id":"be2e2cc3-569a-4353-bf0e-193509c2828c"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-09-02 00:30:43"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:30:44"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:30:44"}
+{"level":"info","message":{"body":{"id":"3e7a99b7-c385-4ba9-b0b2-2279a02e4ba2"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-09-02 00:30:45"}
+{"level":"info","message":{"body":{"id":"3e7a99b7-c385-4ba9-b0b2-2279a02e4ba2"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-09-02 00:30:45"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:30:46"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:30:46"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:30:52"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:30:52"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:32:27"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:32:27"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:32:27"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:32:28"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:32:28"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/person/getByDni/91188323-6"},"timestamp":"2023-09-02 00:33:20"}
+{"level":"info","message":{"error":{"address":"San Lorenzo","dni":"91188323-6","email":"KarolFatima@gmail.com","id":"3a780a3c-a6c0-4faf-b259-e96bb940962f","maternallastname":"Marin","name":"Karol Fatima","paternallastname":"Pizarro","phone":"957902342"},"model":"person/getByDni"},"timestamp":"2023-09-02 00:33:20"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/person/getByDni/91188323-6"},"timestamp":"2023-09-02 00:33:28"}
+{"level":"info","message":{"error":{"address":"San Lorenzo","dni":"91188323-6","email":"KarolFatima@gmail.com","id":"3a780a3c-a6c0-4faf-b259-e96bb940962f","maternallastname":"Marin","name":"Karol Fatima","paternallastname":"Pizarro","phone":"957902342"},"model":"person/getByDni"},"timestamp":"2023-09-02 00:33:28"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/person/getByDni/90398237-3"},"timestamp":"2023-09-02 00:33:34"}
+{"level":"info","message":{"error":null,"model":"person/getByDni"},"timestamp":"2023-09-02 00:33:34"}
+{"level":"info","message":{"body":{"invertor":{"address":"San Lorenzo","dni":"90398237-3","email":"quispeabadquisoe@gmail.com","maternallastname":"Marin","name":"Jeronimo","paternallastname":"Pizarro","phone":"957902342"},"investment":{"amount":250000,"enddate":"02/09/2024","interests":45000,"monthpay":"SEPTIEMBRE","months":"12","proyect":"Sabandia","registrationdate":"02/09/2023","retention":2250,"returnpercentage":"18","subtotal":295000,"total":292750}},"method":"POST","params":"","query":"","url":"/api/investment/create"},"timestamp":"2023-09-02 00:34:55"}
+{"level":"info","message":{"error":{"address":"San Lorenzo","dni":"90398237-3","email":"quispeabadquisoe@gmail.com","id":"c17cc738-5102-42e9-9c0e-8581d169713b","maternallastname":"Marin","name":"Jeronimo","paternallastname":"Pizarro","phone":"957902342"},"model":"person/create"},"timestamp":"2023-09-02 00:34:55"}
+{"level":"info","message":{"error":{"amount":"250000","enddate":"02/09/2024","id":"2f8675bb-fd5b-45bf-b5a6-3cf6cbf4cf00","interests":"45000","monthpay":"SEPTIEMBRE","months":"12","proyect":"Sabandia","registrationdate":"02/09/2023","retention":"2250","returnpercentage":"18","state":"Vigente","subtotal":"295000","total":"292750"},"model":"person/create"},"timestamp":"2023-09-02 00:34:55"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:35:01"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:35:01"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:35:14"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:35:14"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:35:32"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:35:32"}
+{"level":"info","message":{"body":{"id":"d91b821f-be16-4b79-964f-8c2374dc4755"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-09-02 00:35:37"}
+{"level":"info","message":{"body":{"id":"d91b821f-be16-4b79-964f-8c2374dc4755"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-09-02 00:35:37"}
+{"level":"info","message":{"body":{"id":"d91b821f-be16-4b79-964f-8c2374dc4755"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-09-02 00:35:40"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/proyect/getAll"},"timestamp":"2023-09-02 00:35:49"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/proyect/getAll"},"timestamp":"2023-09-02 00:35:50"}
+{"level":"info","message":{"body":{"code":"K0a1l2l3p4a5","date":"02/09/2023","name":"Kallpa"},"method":"POST","params":"","query":"","url":"/api/proyect/create"},"timestamp":"2023-09-02 00:36:07"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/proyect/getAll"},"timestamp":"2023-09-02 00:36:07"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:36:28"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:36:28"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:36:32"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:36:32"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:36:33"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:36:33"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/person/getByDni/95326247-9"},"timestamp":"2023-09-02 00:38:38"}
+{"level":"info","message":{"error":null,"model":"person/getByDni"},"timestamp":"2023-09-02 00:38:38"}
+{"level":"info","message":{"body":{"invertor":{"address":"rivas 2154","dni":"95326247-9","email":"quispeabadquispe@gmail.com","maternallastname":"Huamani","name":"Abad","paternallastname":"Quispe","phone":"965874121"},"investment":{"amount":300000,"enddate":"02/07/2024","interests":60000,"monthpay":"JULIO","months":"10","proyect":"Sabandia","registrationdate":"02/09/2023","retention":3000,"returnpercentage":"20","subtotal":360000,"total":357000}},"method":"POST","params":"","query":"","url":"/api/investment/create"},"timestamp":"2023-09-02 00:40:06"}
+{"level":"info","message":{"error":{"address":"rivas 2154","dni":"95326247-9","email":"quispeabadquispe@gmail.com","id":"27be6972-8a9c-4bb2-8744-4fa55e34b407","maternallastname":"Huamani","name":"Abad","paternallastname":"Quispe","phone":"965874121"},"model":"person/create"},"timestamp":"2023-09-02 00:40:06"}
+{"level":"info","message":{"error":{"amount":"300000","enddate":"02/07/2024","id":"9e332d7e-f836-46c6-b604-22f66c3f8e3d","interests":"60000","monthpay":"JULIO","months":"10","proyect":"Sabandia","registrationdate":"02/09/2023","retention":"3000","returnpercentage":"20","state":"Vigente","subtotal":"360000","total":"357000"},"model":"person/create"},"timestamp":"2023-09-02 00:40:06"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:40:13"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:40:13"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:40:21"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:40:21"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:40:38"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:40:38"}
+{"level":"info","message":{"body":{"id":"199d3b97-c116-411d-8ff1-af50e194db58"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-09-02 00:40:40"}
+{"level":"info","message":{"body":{"id":"199d3b97-c116-411d-8ff1-af50e194db58"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-09-02 00:40:40"}
+{"level":"info","message":{"body":{"id":"199d3b97-c116-411d-8ff1-af50e194db58"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-09-02 00:40:42"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:41:08"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:41:08"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/proyect/getAll"},"timestamp":"2023-09-02 00:41:11"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/proyect/getAll"},"timestamp":"2023-09-02 00:41:11"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:42:10"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:42:10"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/person/getByDni/"},"timestamp":"2023-09-02 00:49:46"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/person/getByDni/91359099-6"},"timestamp":"2023-09-02 00:49:55"}
+{"level":"info","message":{"error":null,"model":"person/getByDni"},"timestamp":"2023-09-02 00:49:55"}
+{"level":"info","message":{"body":{"invertor":{"address":"Rivas 20","dni":"91359099-6","email":"Quispeabadquispe@gmail.com","maternallastname":"Talpen","name":"Jorge","paternallastname":"Fuentes","phone":"965874122"},"investment":{"amount":350000,"enddate":"02/09/2025","interests":70000,"monthpay":"SEPTIEMBRE","months":"24","proyect":"Sabandia","registrationdate":"02/09/2023","retention":3500,"returnpercentage":"20","subtotal":420000,"total":416500}},"method":"POST","params":"","query":"","url":"/api/investment/create"},"timestamp":"2023-09-02 00:51:37"}
+{"level":"info","message":{"error":{"address":"Rivas 20","dni":"91359099-6","email":"Quispeabadquispe@gmail.com","id":"5b62c361-abfe-4d5c-9c09-a7c7f35a6694","maternallastname":"Talpen","name":"Jorge","paternallastname":"Fuentes","phone":"965874122"},"model":"person/create"},"timestamp":"2023-09-02 00:51:37"}
+{"level":"info","message":{"error":{"amount":"350000","enddate":"02/09/2025","id":"155792a2-aa42-45df-bc07-882f9cb71905","interests":"70000","monthpay":"SEPTIEMBRE","months":"24","proyect":"Sabandia","registrationdate":"02/09/2023","retention":"3500","returnpercentage":"20","state":"Vigente","subtotal":"420000","total":"416500"},"model":"person/create"},"timestamp":"2023-09-02 00:51:37"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:51:41"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:51:41"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:51:52"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:51:52"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:53:05"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:53:05"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/person/getByDni/91261087-k"},"timestamp":"2023-09-02 00:53:43"}
+{"level":"info","message":{"error":null,"model":"person/getByDni"},"timestamp":"2023-09-02 00:53:43"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/person/getByDni/91261087-K"},"timestamp":"2023-09-02 00:53:46"}
+{"level":"info","message":{"error":null,"model":"person/getByDni"},"timestamp":"2023-09-02 00:53:46"}
+{"level":"info","message":{"body":{"invertor":{"address":"Rivas 820","dni":"91261087-K","email":"Quispeabadquispe@gmail.com","maternallastname":"Lupe","name":"Marta","paternallastname":"Arguelles","phone":"957444444"},"investment":{"amount":400000,"enddate":"02/09/2025","interests":80000,"monthpay":"SEPTIEMBRE","months":"24","proyect":"Sabandia","registrationdate":"02/09/2023","retention":4000,"returnpercentage":"20","subtotal":480000,"total":476000}},"method":"POST","params":"","query":"","url":"/api/investment/create"},"timestamp":"2023-09-02 00:55:21"}
+{"level":"info","message":{"error":{"address":"Rivas 820","dni":"91261087-K","email":"Quispeabadquispe@gmail.com","id":"54d73bbf-f29f-4b01-865b-fb1009811830","maternallastname":"Lupe","name":"Marta","paternallastname":"Arguelles","phone":"957444444"},"model":"person/create"},"timestamp":"2023-09-02 00:55:21"}
+{"level":"info","message":{"error":{"amount":"400000","enddate":"02/09/2025","id":"0f581db0-6ab1-47ff-98ed-85ae4e305e9d","interests":"80000","monthpay":"SEPTIEMBRE","months":"24","proyect":"Sabandia","registrationdate":"02/09/2023","retention":"4000","returnpercentage":"20","state":"Vigente","subtotal":"480000","total":"476000"},"model":"person/create"},"timestamp":"2023-09-02 00:55:21"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:55:25"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:55:25"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:55:41"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:55:41"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:55:51"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:55:51"}
+{"level":"info","message":{"body":{"id":"199d3b97-c116-411d-8ff1-af50e194db58"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-09-02 00:55:54"}
+{"level":"info","message":{"body":{"id":"199d3b97-c116-411d-8ff1-af50e194db58"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-09-02 00:55:54"}
+{"level":"info","message":{"body":{"id":"199d3b97-c116-411d-8ff1-af50e194db58"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-09-02 00:55:57"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/proyect/getAll"},"timestamp":"2023-09-02 00:56:29"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/proyect/getAll"},"timestamp":"2023-09-02 00:56:29"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:58:57"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 00:58:57"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/person/getByDni/90979961-9"},"timestamp":"2023-09-02 00:59:19"}
+{"level":"info","message":{"error":null,"model":"person/getByDni"},"timestamp":"2023-09-02 00:59:19"}
+{"level":"info","message":{"body":{"invertor":{"address":"Rivas 820","dni":"90979961-9","email":"Quispeabadquispe@gmail.com","maternallastname":"Sellevalos","name":"Remy","paternallastname":"Quispe","phone":"957855544"},"investment":{"amount":360000,"enddate":"02/12/2024","interests":86400,"monthpay":"DICIEMBRE","months":"15","proyect":"Sabandia","registrationdate":"02/09/2023","retention":4320,"returnpercentage":"24","subtotal":446400,"total":442080}},"method":"POST","params":"","query":"","url":"/api/investment/create"},"timestamp":"2023-09-02 01:00:38"}
+{"level":"info","message":{"error":{"address":"Rivas 820","dni":"90979961-9","email":"Quispeabadquispe@gmail.com","id":"809f1508-e840-48ff-bd34-69a91c999104","maternallastname":"Sellevalos","name":"Remy","paternallastname":"Quispe","phone":"957855544"},"model":"person/create"},"timestamp":"2023-09-02 01:00:38"}
+{"level":"info","message":{"error":{"amount":"360000","enddate":"02/12/2024","id":"80f05f36-7666-4801-899c-6edc1534e4c6","interests":"86400","monthpay":"DICIEMBRE","months":"15","proyect":"Sabandia","registrationdate":"02/09/2023","retention":"4320","returnpercentage":"24","state":"Vigente","subtotal":"446400","total":"442080"},"model":"person/create"},"timestamp":"2023-09-02 01:00:38"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 01:00:51"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 01:00:51"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 01:01:03"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 01:01:03"}
+{"level":"info","message":{"body":{"id":"3e7a99b7-c385-4ba9-b0b2-2279a02e4ba2"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-09-02 01:01:04"}
+{"level":"info","message":{"body":{"id":"3e7a99b7-c385-4ba9-b0b2-2279a02e4ba2"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-09-02 01:01:04"}
+{"level":"info","message":{"body":{"id":"3e7a99b7-c385-4ba9-b0b2-2279a02e4ba2"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-09-02 01:01:07"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/proyect/getAll"},"timestamp":"2023-09-02 01:01:27"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/proyect/getAll"},"timestamp":"2023-09-02 01:01:27"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 01:08:51"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 01:08:51"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 01:09:09"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 01:09:09"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 01:09:13"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 01:09:13"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 01:09:22"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 01:09:22"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 01:10:28"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 01:10:28"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 01:10:32"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 01:10:32"}
+{"level":"info","message":{"body":{"id":"88c5090b-1843-4e22-8a4b-909c045a49de"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-09-02 01:10:37"}
+{"level":"info","message":{"body":{"id":"88c5090b-1843-4e22-8a4b-909c045a49de"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-09-02 01:10:37"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/person/getByDni/"},"timestamp":"2023-09-02 01:11:19"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 01:12:15"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 01:12:15"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/person/getByDni/98563457-2"},"timestamp":"2023-09-02 01:13:21"}
+{"level":"info","message":{"error":{"address":"Rock 567","dni":"98563457-2","email":"CeferinaTacuri@gmail.com","id":"c4e421a2-2167-432e-9a83-aca0da1cc8fd","maternallastname":"Tacury","name":"Ceferina Apolinaria","paternallastname":"Ramos","phone":"957902342"},"model":"person/getByDni"},"timestamp":"2023-09-02 01:13:21"}
+{"level":"info","message":{"body":{"invertor":{"address":"Rock 567","dni":"98563457-2","email":"CeferinaTacuri@gmail.com","maternallastname":"Tacury","name":"Ceferina Apolinaria","paternallastname":"Ramos","phone":"957902342"},"investment":{"amount":250000,"enddate":"02/03/2024","interests":37500,"monthpay":"MARZO","months":"6","proyect":"Sabandia","registrationdate":"02/09/2023","retention":1875,"returnpercentage":"15","subtotal":287500,"total":285625}},"method":"POST","params":"","query":"","url":"/api/investment/create"},"timestamp":"2023-09-02 01:13:30"}
+{"level":"info","message":{"error":{"address":"Rock 567","dni":"98563457-2","email":"CeferinaTacuri@gmail.com","id":"c4e421a2-2167-432e-9a83-aca0da1cc8fd","maternallastname":"Tacury","name":"Ceferina Apolinaria","paternallastname":"Ramos","phone":"957902342"},"model":"person/create"},"timestamp":"2023-09-02 01:13:30"}
+{"level":"info","message":{"error":{"amount":"250000","enddate":"02/03/2024","id":"1af200a6-3f71-4fec-8222-895f7ca1707f","interests":"37500","monthpay":"MARZO","months":"6","proyect":"Sabandia","registrationdate":"02/09/2023","retention":"1875","returnpercentage":"15","state":"Vigente","subtotal":"287500","total":"285625"},"model":"person/create"},"timestamp":"2023-09-02 01:13:30"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 01:13:33"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 01:13:33"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 01:13:40"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 01:13:40"}
+{"level":"info","message":{"body":{"id":"88c5090b-1843-4e22-8a4b-909c045a49de"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-09-02 01:13:43"}
+{"level":"info","message":{"body":{"id":"88c5090b-1843-4e22-8a4b-909c045a49de"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-09-02 01:13:43"}
+{"level":"info","message":{"body":{"id":"88c5090b-1843-4e22-8a4b-909c045a49de"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-09-02 01:13:47"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/person/getByDni/97858572-8"},"timestamp":"2023-09-02 01:13:50"}
+{"level":"info","message":{"error":{"address":"Rivas 820","dni":"97858572-8","email":"JuanGabriel@gmail.com","id":"46c2d570-78ad-4373-b9a8-3ff6d2827618","maternallastname":"Diaz","name":"Juan Gabriel","paternallastname":"Duran","phone":"957902342"},"model":"person/getByDni"},"timestamp":"2023-09-02 01:13:50"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 01:14:11"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 01:14:11"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/proyect/getAll"},"timestamp":"2023-09-02 01:14:15"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/proyect/getAll"},"timestamp":"2023-09-02 01:14:15"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 01:21:53"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 01:21:53"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/person/getByDni/98798387-6"},"timestamp":"2023-09-02 01:22:20"}
+{"level":"info","message":{"error":{"address":"Rock 567","dni":"98798387-6","email":"Whashington@gmail.com","id":"6b90ace0-5e54-4aee-8388-46c58f3f00f0","maternallastname":"Chambi","name":"Whashington","paternallastname":"Ortiz","phone":"957902342"},"model":"person/getByDni"},"timestamp":"2023-09-02 01:22:20"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 01:23:22"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 01:23:22"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/person/getByDni/"},"timestamp":"2023-09-02 01:23:45"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/person/getByDni/97676927-9"},"timestamp":"2023-09-02 01:23:48"}
+{"level":"info","message":{"error":{"address":"Provincial 101","dni":"97676927-9","email":"Vercelli@gmail.com","id":"0e9c29e4-fcde-4374-a7b0-e0749dc8a165","maternallastname":"Tacuri","name":"Vercelli Lidia","paternallastname":"Ramos","phone":"957902342"},"model":"person/getByDni"},"timestamp":"2023-09-02 01:23:49"}
+{"level":"info","message":{"body":{"invertor":{"address":"Provincial 101","dni":"97676927-9","email":"quispeabadquispe@gmail.com","maternallastname":"Tacuri","name":"Vercelli Lidia","paternallastname":"Ramos","phone":"957902342"},"investment":{"amount":2500000,"enddate":"02/09/2025","interests":500000,"monthpay":"SEPTIEMBRE","months":"24","proyect":"Tarpuy","registrationdate":"02/09/2023","retention":25000,"returnpercentage":"20","subtotal":3000000,"total":2975000}},"method":"POST","params":"","query":"","url":"/api/investment/create"},"timestamp":"2023-09-02 01:24:38"}
+{"level":"info","message":{"error":{"address":"Provincial 101","dni":"97676927-9","email":"quispeabadquispe@gmail.com","id":"0e9c29e4-fcde-4374-a7b0-e0749dc8a165","maternallastname":"Tacuri","name":"Vercelli Lidia","paternallastname":"Ramos","phone":"957902342"},"model":"person/create"},"timestamp":"2023-09-02 01:24:38"}
+{"level":"info","message":{"error":{"amount":"2500000","enddate":"02/09/2025","id":"8e307873-4316-4252-8c5a-9af619426e10","interests":"500000","monthpay":"SEPTIEMBRE","months":"24","proyect":"Tarpuy","registrationdate":"02/09/2023","retention":"25000","returnpercentage":"20","state":"Vigente","subtotal":"3000000","total":"2975000"},"model":"person/create"},"timestamp":"2023-09-02 01:24:38"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 01:24:41"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 01:24:41"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 01:24:53"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 01:24:53"}
+{"level":"info","message":{"body":{"id":"88c5090b-1843-4e22-8a4b-909c045a49de"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-09-02 01:24:57"}
+{"level":"info","message":{"body":{"id":"88c5090b-1843-4e22-8a4b-909c045a49de"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-09-02 01:24:57"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-02 01:25:10"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-02 01:25:10"}
+{"level":"info","message":{"body":{"id":"88c5090b-1843-4e22-8a4b-909c045a49de"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-09-02 01:25:16"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 01:25:32"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 01:25:32"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/proyect/getAll"},"timestamp":"2023-09-02 01:25:37"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/proyect/getAll"},"timestamp":"2023-09-02 01:25:37"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 01:27:30"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 01:27:30"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/person/getByDni/97858572-8"},"timestamp":"2023-09-02 01:27:49"}
+{"level":"info","message":{"error":{"address":"Rivas 820","dni":"97858572-8","email":"JuanGabriel@gmail.com","id":"46c2d570-78ad-4373-b9a8-3ff6d2827618","maternallastname":"Diaz","name":"Juan Gabriel","paternallastname":"Duran","phone":"957902342"},"model":"person/getByDni"},"timestamp":"2023-09-02 01:27:49"}
+{"level":"info","message":{"body":{"invertor":{"address":"Rivas 820","dni":"97858572-8","email":"JuanGabriel@gmail.com","maternallastname":"Diaz","name":"Juan Gabriel","paternallastname":"Duran","phone":"957902342"},"investment":{"amount":250000,"enddate":"02/09/2024","interests":50000,"monthpay":"SEPTIEMBRE","months":"12","proyect":"Sabandia","registrationdate":"02/09/2023","retention":2500,"returnpercentage":"20","subtotal":300000,"total":297500}},"method":"POST","params":"","query":"","url":"/api/investment/create"},"timestamp":"2023-09-02 01:28:15"}
+{"level":"info","message":{"error":{"address":"Rivas 820","dni":"97858572-8","email":"JuanGabriel@gmail.com","id":"46c2d570-78ad-4373-b9a8-3ff6d2827618","maternallastname":"Diaz","name":"Juan Gabriel","paternallastname":"Duran","phone":"957902342"},"model":"person/create"},"timestamp":"2023-09-02 01:28:15"}
+{"level":"info","message":{"error":{"amount":"250000","enddate":"02/09/2024","id":"34bb07db-b701-40e5-a13f-977be2a1a230","interests":"50000","monthpay":"SEPTIEMBRE","months":"12","proyect":"Sabandia","registrationdate":"02/09/2023","retention":"2500","returnpercentage":"20","state":"Vigente","subtotal":"300000","total":"297500"},"model":"person/create"},"timestamp":"2023-09-02 01:28:15"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 01:28:19"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 01:28:19"}
+{"level":"info","message":{"body":{"id":"d91b821f-be16-4b79-964f-8c2374dc4755"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-09-02 01:28:27"}
+{"level":"info","message":{"body":{"id":"d91b821f-be16-4b79-964f-8c2374dc4755"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-09-02 01:28:27"}
+{"level":"info","message":{"body":{"id":"d91b821f-be16-4b79-964f-8c2374dc4755"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-09-02 01:28:34"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-02 01:28:41"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-02 01:28:41"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 01:29:05"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 01:29:06"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/proyect/getAll"},"timestamp":"2023-09-02 01:29:08"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/proyect/getAll"},"timestamp":"2023-09-02 01:29:09"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 01:32:12"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 01:32:12"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/person/getByDni/"},"timestamp":"2023-09-02 01:32:32"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 01:33:12"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-02 01:33:12"}
+{"level":"info","message":{"body":{"id":"88c5090b-1843-4e22-8a4b-909c045a49de"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-09-02 01:33:17"}
+{"level":"info","message":{"body":{"id":"88c5090b-1843-4e22-8a4b-909c045a49de"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-09-02 01:33:17"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/person/getByDni/97858572-8"},"timestamp":"2023-09-02 01:33:24"}
+{"level":"info","message":{"error":{"address":"Rivas 820","dni":"97858572-8","email":"JuanGabriel@gmail.com","id":"46c2d570-78ad-4373-b9a8-3ff6d2827618","maternallastname":"Diaz","name":"Juan Gabriel","paternallastname":"Duran","phone":"957902342"},"model":"person/getByDni"},"timestamp":"2023-09-02 01:33:24"}

@@ -1,0 +1,116 @@
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-28 23:57:27"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-28 23:57:27"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-28 23:58:42"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-28 23:58:42"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-28 23:58:47"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-28 23:58:47"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-28 23:58:52"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-28 23:58:52"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-28 23:59:06"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-28 23:59:06"}
+{"level":"info","message":{"body":{"id":"ba7413f7-369d-4d80-b4bb-e2a63284aae5"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-08-28 23:59:25"}
+{"level":"info","message":{"body":{"id":"ba7413f7-369d-4d80-b4bb-e2a63284aae5"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-08-28 23:59:25"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-28 23:59:27"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-28 23:59:27"}
+{"level":"info","message":{"body":{"id":"84031ce1-f704-4752-a4bc-f3374644f801"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-08-28 23:59:28"}
+{"level":"info","message":{"body":{"id":"84031ce1-f704-4752-a4bc-f3374644f801"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-08-28 23:59:28"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-28 23:59:31"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-28 23:59:31"}
+{"level":"info","message":{"body":{"id":"f77b123c-3acd-4823-b721-b20611a71fe3"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-08-28 23:59:32"}
+{"level":"info","message":{"body":{"id":"f77b123c-3acd-4823-b721-b20611a71fe3"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-08-28 23:59:32"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-28 23:59:35"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-28 23:59:35"}
+{"level":"info","message":{"body":{"id":"d91b821f-be16-4b79-964f-8c2374dc4755"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-08-28 23:59:36"}
+{"level":"info","message":{"body":{"id":"d91b821f-be16-4b79-964f-8c2374dc4755"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-08-28 23:59:36"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-29 00:07:23"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-29 00:07:23"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-29 00:09:38"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-29 00:09:38"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-29 00:10:03"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-29 00:10:03"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-29 00:10:26"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-29 00:10:26"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-29 00:10:39"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-29 00:10:39"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-29 00:11:02"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-29 00:11:02"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-29 00:11:14"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-29 00:11:14"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-29 00:11:18"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-29 00:11:18"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-29 00:11:25"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-29 00:11:25"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-29 00:11:41"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-29 00:11:41"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-29 00:11:49"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-29 00:11:49"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-29 00:12:22"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-29 00:12:22"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-29 00:15:32"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-29 00:15:32"}
+{"level":"info","message":{"body":{},"method":"POST","params":"","query":"","url":"/api/person/getByDni/98798387-6"},"timestamp":"2023-08-29 00:16:53"}
+{"level":"info","message":{"error":null,"model":"person/getByDni"},"timestamp":"2023-08-29 00:16:53"}
+{"level":"info","message":{"body":{},"method":"POST","params":"","query":"","url":"/api/person/getByDni/98798387-6"},"timestamp":"2023-08-29 00:17:02"}
+{"level":"info","message":{"error":null,"model":"person/getByDni"},"timestamp":"2023-08-29 00:17:02"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/person/getByDni/98798387-6"},"timestamp":"2023-08-29 00:17:23"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-29 00:18:23"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-29 00:18:23"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-29 00:18:28"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-29 00:18:28"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/person/getByDni/98798387-6"},"timestamp":"2023-08-29 00:18:28"}
+{"level":"info","message":{"error":null,"model":"person/getByDni"},"timestamp":"2023-08-29 00:18:29"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-29 00:19:02"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-29 00:19:02"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/person/getByDni/98798387-6"},"timestamp":"2023-08-29 00:19:03"}
+{"level":"info","message":{"error":{"address":"Rock 567","dni":"98798387-6","email":"Whashington@gmail.com","id":"6b90ace0-5e54-4aee-8388-46c58f3f00f0","maternallastname":"Chambi","name":"Whashington","paternallastname":"Ortiz","phone":"957902342"},"model":"person/getByDni"},"timestamp":"2023-08-29 00:19:03"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/person/getByDni/98798387-6"},"timestamp":"2023-08-29 00:21:54"}
+{"level":"info","message":{"error":{"address":"Rock 567","dni":"98798387-6","email":"Whashington@gmail.com","id":"6b90ace0-5e54-4aee-8388-46c58f3f00f0","maternallastname":"Chambi","name":"Whashington","paternallastname":"Ortiz","phone":"957902342"},"model":"person/getByDni"},"timestamp":"2023-08-29 00:21:54"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/person/getByDni/98798387-6"},"timestamp":"2023-08-29 00:21:58"}
+{"level":"info","message":{"error":{"address":"Rock 567","dni":"98798387-6","email":"Whashington@gmail.com","id":"6b90ace0-5e54-4aee-8388-46c58f3f00f0","maternallastname":"Chambi","name":"Whashington","paternallastname":"Ortiz","phone":"957902342"},"model":"person/getByDni"},"timestamp":"2023-08-29 00:21:58"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/person/getByDni/91060164-4"},"timestamp":"2023-08-29 00:22:00"}
+{"level":"info","message":{"error":{"address":"Provincial 101","dni":"91060164-4","email":"Erenio@gmail.com","id":"9fa22fef-12a9-4912-af21-f7966fe89c87","maternallastname":"Cambilla","name":"Erenio","paternallastname":"Ramos","phone":"957902342"},"model":"person/getByDni"},"timestamp":"2023-08-29 00:22:00"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/person/getByDni/91060164-4"},"timestamp":"2023-08-29 00:26:02"}
+{"level":"info","message":{"error":{"address":"Provincial 101","dni":"91060164-4","email":"Erenio@gmail.com","id":"9fa22fef-12a9-4912-af21-f7966fe89c87","maternallastname":"Cambilla","name":"Erenio","paternallastname":"Ramos","phone":"957902342"},"model":"person/getByDni"},"timestamp":"2023-08-29 00:26:02"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/person/getByDni/91060164-4"},"timestamp":"2023-08-29 00:26:03"}
+{"level":"info","message":{"error":{"address":"Provincial 101","dni":"91060164-4","email":"Erenio@gmail.com","id":"9fa22fef-12a9-4912-af21-f7966fe89c87","maternallastname":"Cambilla","name":"Erenio","paternallastname":"Ramos","phone":"957902342"},"model":"person/getByDni"},"timestamp":"2023-08-29 00:26:03"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/person/getByDni/91060164-4"},"timestamp":"2023-08-29 00:26:05"}
+{"level":"info","message":{"error":{"address":"Provincial 101","dni":"91060164-4","email":"Erenio@gmail.com","id":"9fa22fef-12a9-4912-af21-f7966fe89c87","maternallastname":"Cambilla","name":"Erenio","paternallastname":"Ramos","phone":"957902342"},"model":"person/getByDni"},"timestamp":"2023-08-29 00:26:05"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/person/getByDni/91060164-4"},"timestamp":"2023-08-29 00:30:03"}
+{"level":"info","message":{"error":{"address":"Provincial 101","dni":"91060164-4","email":"Erenio@gmail.com","id":"9fa22fef-12a9-4912-af21-f7966fe89c87","maternallastname":"Cambilla","name":"Erenio","paternallastname":"Ramos","phone":"957902342"},"model":"person/getByDni"},"timestamp":"2023-08-29 00:30:03"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/person/getByDni/"},"timestamp":"2023-08-29 00:37:58"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/person/getByDni/97858572-8"},"timestamp":"2023-08-29 00:38:08"}
+{"level":"info","message":{"error":{"address":"Rivas 820","dni":"97858572-8","email":"JuanGabriel@gmail.com","id":"46c2d570-78ad-4373-b9a8-3ff6d2827618","maternallastname":"Diaz","name":"Juan Gabriel","paternallastname":"Duran","phone":"957902342"},"model":"person/getByDni"},"timestamp":"2023-08-29 00:38:08"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-29 00:49:30"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-29 00:49:30"}
+{"level":"info","message":{"body":{"id":"ba7413f7-369d-4d80-b4bb-e2a63284aae5"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-08-29 00:49:31"}
+{"level":"info","message":{"body":{"id":"ba7413f7-369d-4d80-b4bb-e2a63284aae5"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-08-29 00:49:31"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-29 00:57:27"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-29 00:57:27"}
+{"level":"info","message":{"body":{"id":"d91b821f-be16-4b79-964f-8c2374dc4755"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-08-29 00:57:30"}
+{"level":"info","message":{"body":{"id":"d91b821f-be16-4b79-964f-8c2374dc4755"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-08-29 00:57:30"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-29 00:57:33"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-29 00:57:33"}
+{"level":"info","message":{"body":{"id":"f77b123c-3acd-4823-b721-b20611a71fe3"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-08-29 00:57:34"}
+{"level":"info","message":{"body":{"id":"f77b123c-3acd-4823-b721-b20611a71fe3"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-08-29 00:57:34"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-29 01:01:28"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-29 01:01:28"}
+{"level":"info","message":{"body":{"id":"f77b123c-3acd-4823-b721-b20611a71fe3"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-08-29 01:01:29"}
+{"level":"info","message":{"body":{"id":"f77b123c-3acd-4823-b721-b20611a71fe3"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-08-29 01:01:29"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-29 01:01:31"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-29 01:01:31"}
+{"level":"info","message":{"body":{"id":"84031ce1-f704-4752-a4bc-f3374644f801"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-08-29 01:01:32"}
+{"level":"info","message":{"body":{"id":"84031ce1-f704-4752-a4bc-f3374644f801"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-08-29 01:01:32"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-29 01:04:56"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-29 01:04:56"}
+{"level":"info","message":{"body":{"id":"84031ce1-f704-4752-a4bc-f3374644f801"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-08-29 01:04:58"}
+{"level":"info","message":{"body":{"id":"84031ce1-f704-4752-a4bc-f3374644f801"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-08-29 01:04:58"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-29 01:05:32"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-29 01:05:33"}
+{"level":"info","message":{"body":{"id":"d91b821f-be16-4b79-964f-8c2374dc4755"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-08-29 01:05:36"}
+{"level":"info","message":{"body":{"id":"d91b821f-be16-4b79-964f-8c2374dc4755"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-08-29 01:05:36"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-29 01:05:40"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-29 01:05:40"}
+{"level":"info","message":{"body":{"id":"84031ce1-f704-4752-a4bc-f3374644f801"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-08-29 01:05:41"}
+{"level":"info","message":{"body":{"id":"84031ce1-f704-4752-a4bc-f3374644f801"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-08-29 01:05:41"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/person/getByDni/98798387-6"},"timestamp":"2023-08-29 01:07:19"}
+{"level":"info","message":{"error":{"address":"Rock 567","dni":"98798387-6","email":"Whashington@gmail.com","id":"6b90ace0-5e54-4aee-8388-46c58f3f00f0","maternallastname":"Chambi","name":"Whashington","paternallastname":"Ortiz","phone":"957902342"},"model":"person/getByDni"},"timestamp":"2023-08-29 01:07:19"}

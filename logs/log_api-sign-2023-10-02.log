@@ -1,0 +1,131 @@
+{"level":"info","message":"API listening port 4603","timestamp":"2023-10-02 00:53:25"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-10-02 00:53:26"}
+{"level":"info","message":{"body":{"email":"admin@gmail.com","password":"kallpa"},"method":"POST","params":"","query":"","url":"/user/validate"},"timestamp":"2023-10-02 00:53:46"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 00:53:47"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 00:53:47"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-10-02 00:56:52"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-10-02 00:56:53"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getByDni/90324023-7"},"timestamp":"2023-10-02 00:56:56"}
+{"level":"info","message":{"body":{"email":"admin@gmail.com","password":"kallpa"},"method":"POST","params":"","query":"","url":"/user/validate"},"timestamp":"2023-10-02 01:02:40"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 01:02:41"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 01:02:41"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getByDni/90324023-7"},"timestamp":"2023-10-02 01:02:57"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-10-02 01:16:37"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-10-02 01:16:38"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getByDni/91550351-9"},"timestamp":"2023-10-02 01:16:43"}
+{"level":"info","message":{"body":{"id":"c821e023-9b75-475b-9874-c072701ddc10"},"method":"POST","params":"","query":"","url":"/investment/getById"},"timestamp":"2023-10-02 01:16:47"}
+{"level":"info","message":{"body":{"id":"c821e023-9b75-475b-9874-c072701ddc10"},"method":"POST","params":"","query":"","url":"/investment/getById"},"timestamp":"2023-10-02 01:16:47"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-10-02 01:17:51"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-10-02 01:17:52"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 01:18:11"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 01:18:13"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getByDni/91550351-9"},"timestamp":"2023-10-02 01:18:29"}
+{"level":"info","message":{"body":{"email":"admin@gmail.com","password":"kallpa"},"method":"POST","params":"","query":"","url":"/user/validate"},"timestamp":"2023-10-02 01:19:22"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 01:19:23"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 01:19:24"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-10-02 01:21:02"}
+{"level":"info","message":{"body":{"email":"admin@gmail.com","password":"kallpa"},"method":"POST","params":"","query":"","url":"/user/validate"},"timestamp":"2023-10-02 01:21:02"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-10-02 01:21:02"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 01:21:04"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 01:21:04"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-10-02 01:21:24"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-10-02 01:21:25"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 01:21:29"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 01:21:29"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 01:24:57"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 01:27:18"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 01:27:19"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-10-02 01:30:04"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-10-02 01:30:05"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-10-02 01:30:11"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-10-02 01:30:11"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/user/getAll"},"timestamp":"2023-10-02 01:30:17"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/user/getAll"},"timestamp":"2023-10-02 01:30:18"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-10-02 01:30:20"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-10-02 01:30:21"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 01:30:51"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 01:30:52"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 01:31:09"}
+{"level":"info","message":{"body":{"email":"admin@gmail.com","password":"kallpa"},"method":"POST","params":"","query":"","url":"/user/validate"},"timestamp":"2023-10-02 01:31:19"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 01:31:19"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 01:31:19"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-10-02 01:34:17"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-10-02 01:34:18"}
+{"level":"info","message":{"body":{"email":"admin@gmail.com","password":"kallpa"},"method":"POST","params":"","query":"","url":"/user/validate"},"timestamp":"2023-10-02 01:34:19"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 01:34:20"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 01:34:20"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/user/getAll"},"timestamp":"2023-10-02 01:34:24"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/user/getAll"},"timestamp":"2023-10-02 01:34:24"}
+{"level":"info","message":{"body":{"email":"admin@gmail.com","password":"kallpa"},"method":"POST","params":"","query":"","url":"/user/validate"},"timestamp":"2023-10-02 01:35:32"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 01:35:34"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 01:35:34"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-10-02 01:36:22"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-10-02 01:36:24"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-10-02 02:24:04"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-10-02 02:24:05"}
+{"level":"info","message":{"body":{"email":"admin@gmail.com","password":"kallpa"},"method":"POST","params":"","query":"","url":"/user/validate"},"timestamp":"2023-10-02 02:24:11"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-10-02 02:24:11"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-10-02 02:24:12"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 02:24:12"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 02:24:12"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-10-02 03:11:03"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-10-02 03:11:04"}
+{"level":"info","message":{"body":{"email":"admin@gmail.com","password":"kallpa"},"method":"POST","params":"","query":"","url":"/user/validate"},"timestamp":"2023-10-02 03:11:07"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 03:11:08"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 03:11:08"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-10-02 03:18:19"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-10-02 03:18:20"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getByDni/93229427-3"},"timestamp":"2023-10-02 03:18:24"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getByDni/93229427-3"},"timestamp":"2023-10-02 03:18:38"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-10-02 03:18:57"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-10-02 03:18:58"}
+{"level":"info","message":{"body":{"id":"a9ed48e2-1b15-489d-97e7-9120583735cc"},"method":"POST","params":"","query":"","url":"/investment/getById"},"timestamp":"2023-10-02 03:19:06"}
+{"level":"info","message":{"body":{"id":"a9ed48e2-1b15-489d-97e7-9120583735cc"},"method":"POST","params":"","query":"","url":"/investment/getById"},"timestamp":"2023-10-02 03:19:06"}
+{"level":"info","message":{"body":{"email":"admin@gmail.com","password":"kallpa"},"method":"POST","params":"","query":"","url":"/user/validate"},"timestamp":"2023-10-02 03:28:42"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 03:28:43"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 03:28:44"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-10-02 03:28:51"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-10-02 03:28:51"}
+{"level":"info","message":{"body":{"code":"T0e1r2r3a4z5u6l7","date":"02/10/2023","name":"Terrazul"},"method":"POST","params":"","query":"","url":"/proyect/create"},"timestamp":"2023-10-02 03:30:38"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-10-02 03:30:38"}
+{"level":"info","message":{"body":{"code":"T0e1r2r3a4A5z6u7l8","date":"02/10/2023","name":"TerraAzul"},"method":"POST","params":"","query":"","url":"/proyect/create"},"timestamp":"2023-10-02 03:31:09"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-10-02 03:31:09"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 03:33:09"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 03:33:10"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 03:35:17"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 03:35:18"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 03:36:06"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-10-02 03:37:37"}
+{"level":"info","message":{"body":{"email":"admin@gmail.com","password":"kallpa"},"method":"POST","params":"","query":"","url":"/user/validate"},"timestamp":"2023-10-02 03:37:38"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-10-02 03:37:38"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 03:37:40"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 03:37:40"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-10-02 03:37:42"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-10-02 03:37:43"}
+{"level":"info","message":{"body":{"id":"b84d0a6b-409f-49da-863a-28b9fba6d427"},"method":"POST","params":"","query":"","url":"/proyect/remove"},"timestamp":"2023-10-02 03:38:03"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/user/getAll"},"timestamp":"2023-10-02 03:38:17"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/user/getAll"},"timestamp":"2023-10-02 03:38:19"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 03:39:55"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 03:39:57"}
+{"level":"info","message":{"body":{"id":"625c09c5-e6ad-408c-a4ef-3f3866799641"},"method":"POST","params":"","query":"","url":"/investment/getById"},"timestamp":"2023-10-02 03:39:57"}
+{"level":"info","message":{"body":{"id":"625c09c5-e6ad-408c-a4ef-3f3866799641"},"method":"POST","params":"","query":"","url":"/investment/getById"},"timestamp":"2023-10-02 03:39:57"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-10-02 03:40:17"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-10-02 03:40:18"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 03:40:23"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 03:40:24"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getByDni/93229427-3"},"timestamp":"2023-10-02 03:40:51"}
+{"level":"info","message":{"body":{"id":"a9ed48e2-1b15-489d-97e7-9120583735cc"},"method":"POST","params":"","query":"","url":"/investment/getById"},"timestamp":"2023-10-02 03:40:55"}
+{"level":"info","message":{"body":{"id":"a9ed48e2-1b15-489d-97e7-9120583735cc"},"method":"POST","params":"","query":"","url":"/investment/getById"},"timestamp":"2023-10-02 03:40:55"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 03:41:13"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 03:41:14"}
+{"level":"info","message":{"body":{"id":"9571263b-d00c-48a3-921d-4fa4a84a4b72"},"method":"POST","params":"","query":"","url":"/investment/getById"},"timestamp":"2023-10-02 03:41:19"}
+{"level":"info","message":{"body":{"id":"9571263b-d00c-48a3-921d-4fa4a84a4b72"},"method":"POST","params":"","query":"","url":"/investment/getById"},"timestamp":"2023-10-02 03:41:19"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 03:41:30"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 03:41:31"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-10-02 03:41:36"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-10-02 03:41:37"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-10-02 03:42:25"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-10-02 03:42:26"}
+{"level":"info","message":{"body":{"email":"admin@gmail.com","password":"kallpa"},"method":"POST","params":"","query":"","url":"/user/validate"},"timestamp":"2023-10-02 03:47:58"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 03:47:59"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 03:48:00"}

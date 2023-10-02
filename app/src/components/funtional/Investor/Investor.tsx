@@ -8,12 +8,14 @@ import InputData from "@/components/ui/InputData";
 import { Seccion, SeccionFooter } from "@/components/layout/Seccion";
 import Button from "@/components/ui/Button";
 import { usePerson } from "@/store/hooks";
-import { addMonths, format, parse } from "date-fns";
+import { addMonths, format, parse, isValid, isDate } from "date-fns";
 import { es } from "date-fns/locale";
 import Title from "@/components/ui/Title";
 import useInvestment from "@/store/hooks/useInvestment";
 import { isValidEmail, isValidPhone } from "@/utils/validate";
 import useProyect from "@/store/hooks/useProyect";
+
+import styles from "./Investor.module.scss";
 
 const Investor = () => {
   const formatter = new Intl.NumberFormat("es-PE", {
@@ -36,6 +38,44 @@ const Investor = () => {
         isValid: e.target.value !== "" ? true : false,
       },
     });
+  };
+  const handleOnchangeInvestorDate = (
+    e: React.ChangeEvent<HTMLInputElement>
+  ) => {
+    setFormInvestor({
+      ...formInvestor,
+      [e.target.name]: {
+        value: formatearFechaEnTiempoReal(e.target.value),
+        isValid: /^\d{2}\/\d{2}\/\d{4}$/.test(e.target.value?.trim()),
+      },
+    });
+  };
+
+  const handleOnBlurDate = (e: any) => {
+    setFormInvestor({
+      ...formInvestor,
+      registrationdate: {
+        value: formInvestor.registrationdate.value?.trim(),
+        isValid: isValid(parse(e.target.value, "dd/MM/yyyy", new Date())),
+      },
+    });
+  };
+
+  const formatearFechaEnTiempoReal = (valorInput: string): string => {
+    // Eliminar caracteres no numéricos
+    const valorLimpio = valorInput.replace(/[^0-9]/g, "");
+
+    // Aplicar el formato DD/MM/YYYY
+    let fechaFormateada = "";
+    for (let i = 0; i < valorLimpio.length; i++) {
+      if (i === 2 || i === 4) {
+        fechaFormateada += "/" + valorLimpio[i];
+      } else {
+        fechaFormateada += valorLimpio[i];
+      }
+    }
+
+    return fechaFormateada;
   };
 
   const handleOnBlurDni = (e: React.ChangeEvent<HTMLInputElement>) => {
@@ -300,7 +340,7 @@ const Investor = () => {
   return (
     <>
       <Seccion title="Nuevo inversionita">
-        <Row gap="126px">
+        <div className={styles.contentData}>
           <Column gap="5px">
             <Title value="Datos del inversionista" width="305px" />
             <Row gap="5px">
@@ -431,10 +471,21 @@ const Investor = () => {
                 />
               </Column>
               <Column gap="5px">
-                <InputData
+                {/* <InputData
                   label="Fecha de incripción"
                   width="130px"
                   value={formInvestor.registrationdate.value}
+                /> */}
+
+                <Input
+                  label="Fecha de incripción"
+                  type="text"
+                  name="registrationdate"
+                  width="130px"
+                  value={formInvestor.registrationdate.value}
+                  onChange={handleOnchangeInvestorDate}
+                  onBlur={handleOnBlurDate}
+                  isValid={formInvestor.registrationdate.isValid}
                 />
                 <InputData
                   label="Fecha de termino"
@@ -459,7 +510,7 @@ const Investor = () => {
               </Column>
             </Row>
           </Column>
-        </Row>
+        </div>
       </Seccion>
       <SeccionFooter>
         <Button

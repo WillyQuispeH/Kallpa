@@ -50,11 +50,22 @@ const getAll = async () => {
   }
 };
 
-const getById: any = async (id: string) => {
+const getById = async (id: string) => {
   try {
     const result = await pool.query(
       `SELECT app.get_by_id_investment($1)::jsonb AS "data";`,
       [id]
+    );
+    return { success: true, data: result.rows[0].data || null, error: false };
+  } catch (e) {
+    return { success: false, data: null, error: (e as Error).message };
+  }
+};
+const getByDni = async (dni: string) => {
+  try {
+    const result = await pool.query(
+      `SELECT app.get_by_dni($1)::jsonb AS "data";`,
+      [dni]
     );
     return { success: true, data: result.rows[0].data || null, error: false };
   } catch (e) {
@@ -112,10 +123,10 @@ const updateState = async (id: string, state: string) => {
        WHERE id=$1  RETURNING *;`,
       [id, state]
     );
-    return { success: true, data: result.rows[0].data || null, error: false };
+    return { success: true, data: result.rows[0] || null, error: false };
   } catch (e) {
     return { success: false, data: null, error: (e as Error).message };
   }
 };
 
-export { create, getAll, getById, update, updateState };
+export { create, getAll, getById, update, updateState, getByDni };

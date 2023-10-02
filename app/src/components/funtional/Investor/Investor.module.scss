@@ -1,0 +1,16 @@
+@import "../../../styles/mixins.scss";
+.contentData {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 126px;
+
+  @include media-xl() {
+    align-items: center;
+    padding: 70px 0 90px 0;
+
+    gap: 20px;
+  }
+
+}

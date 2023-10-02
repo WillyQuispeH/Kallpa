@@ -110,6 +110,31 @@ const getById = async (req: Request, res: Response) => {
   }
 };
 
+const getByDni = async (req: Request, res: Response) => {
+  try {
+    const { dni } = req.params;
+
+    const result = await InvestmentModels.getByDni(dni);
+
+    if (!result.success) {
+      createLogger.error({
+        model: "investmentDetail/getByDni",
+        error: result.error,
+      });
+      res.status(500).json({ success: false, data: null, error: result.error });
+      return;
+    }
+
+    res.status(200).json({ success: true, data: result.data, error: null });
+  } catch (e) {
+    createLogger.error({
+      controller: "investmentDetail/getByDni",
+      error: (e as Error).message,
+    });
+    res.status(500).json({ error: (e as Error).message });
+  }
+};
+
 const createPerson = async (invertor: IInvertor) => {
   const result = await PersonModels.create(
     invertor.dni,
@@ -243,4 +268,5 @@ const updateState = async (req: Request, res: Response) => {
     res.status(500).json({ error: (e as Error).message });
   }
 };
-export { create, getAll, getById, update, updateState };
+
+export { create, getAll, getById, update, updateState, getByDni };

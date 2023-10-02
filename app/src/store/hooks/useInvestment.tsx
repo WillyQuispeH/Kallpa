@@ -19,6 +19,7 @@ const useInvestment = () => {
     create: createInvestment,
     getAll: getAllInvestment,
     getById: getByIdInvestment,
+    getByDni: getByDniInvestment,
     update: updateInvestment,
     updateState: updateStateInvestment,
   } = investmentStore();
@@ -32,6 +33,7 @@ const useInvestment = () => {
     createInvestment,
     getAllInvestment,
     getByIdInvestment,
+    getByDniInvestment,
     updateInvestment,
     updateStateInvestment,
   };

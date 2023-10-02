@@ -1,3 +1,4 @@
+@import "../../../styles/mixins.scss";
 .seccion {
   width: 100vw;
   height: calc(100vh - 50px);
@@ -6,21 +7,43 @@
   justify-content: center;
   flex-direction: column;
   position: relative;
+  max-height: calc(100vh - 50px);
+  overflow: auto;
+
+  &::-webkit-scrollbar {
+    width: 2px;
+  }
+
+  &::-webkit-scrollbar-track {
+    background: #cccccc;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background: rgb(4, 73, 80, 0.7);
+  }
+
+  &::-webkit-scrollbar-thumb:hover {
+    background: #044950;
+  }
+
+  @include media-xl() {
+    justify-content: flex-start;
+  }
 }
 
 .headerSeccion {
-  position: absolute;
+  position: fixed;
   display: flex;
   align-items: center;
   height: 60px;
   width: 100%;
-  top: 0;
+  top: 50px;
   font-size: 22px;
   background: #d9d9d9;
   box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.25);
   padding: 0 5px;
+  z-index: 4;
 }
-
 
 .footerSeccion {
   display: flex;
@@ -30,5 +53,7 @@
   bottom: 0;
   height: 80px;
   width: 100%;
+  background: #d9d9d9;
+  z-index: 4;
   box-shadow: 0px -2px 4px 0px rgba(0, 0, 0, 0.25);
 }

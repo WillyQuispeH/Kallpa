@@ -2,7 +2,6 @@
   "name": "app",
   "version": "0.1.0",
   "private": true,
-
   "scripts": {
     "dev": "cross-env APP_ENV=dev next dev -p 4602",
     "build": "next build",
@@ -11,19 +10,20 @@
     "start-localhost": "next start"
   },
   "dependencies": {
-    "cross-env": "^7.0.3",
+    "@tanstack/react-query": "^4.35.3",
     "@types/node": "20.4.9",
     "@types/react": "18.2.20",
     "@types/react-dom": "18.2.7",
     "axios": "^1.4.0",
     "chart.js": "^4.3.3",
+    "cross-env": "^7.0.3",
     "date-fns": "^2.30.0",
     "eslint": "8.46.0",
     "eslint-config-next": "13.4.13",
     "next": "13.4.13",
-    "react": "18.2.0",
+    "react": "^18.2.0",
     "react-chartjs-2": "^5.2.0",
-    "react-dom": "18.2.0",
+    "react-dom": "^18.2.0",
     "sass": "^1.65.1",
     "typescript": "5.1.6",
     "zustand": "^4.4.1"

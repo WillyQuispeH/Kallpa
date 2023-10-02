@@ -43,10 +43,9 @@ function initializeRoutes(server: Express) {
   });
 }
 
-createCronsFunctions();
-
 const server = express();
 initializeMiddlewares(server);
 initializeRoutes(server);
+createCronsFunctions();
 
 export default server;

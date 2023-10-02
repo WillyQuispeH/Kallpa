@@ -1,0 +1,118 @@
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-30 20:17:10"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-30 20:17:11"}
+{"level":"info","message":{"body":{"email":"admin@gmail.com","password":"kallpa"},"method":"POST","params":"","query":"","url":"/user/validate"},"timestamp":"2023-09-30 21:14:19"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-30 21:14:21"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-30 21:14:21"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-30 21:14:24"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-09-30 21:14:30"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-09-30 21:14:31"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-30 21:14:32"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-30 21:14:32"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-30 21:41:23"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-30 21:41:24"}
+{"level":"info","message":{"body":{"id":"06dded2f-22c3-4ba4-9d88-220d5c6227bd"},"method":"POST","params":"","query":"","url":"/investment/getById"},"timestamp":"2023-09-30 21:41:26"}
+{"level":"info","message":{"body":{"id":"06dded2f-22c3-4ba4-9d88-220d5c6227bd"},"method":"POST","params":"","query":"","url":"/investment/getById"},"timestamp":"2023-09-30 21:41:26"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-30 21:41:41"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-30 21:41:42"}
+{"level":"info","message":{"body":{"email":"admin@gmail.com","password":"kallpa"},"method":"POST","params":"","query":"","url":"/user/validate"},"timestamp":"2023-09-30 21:42:54"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-30 21:42:56"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-30 21:42:56"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-09-30 21:45:08"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-09-30 21:45:09"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/user/getAll"},"timestamp":"2023-09-30 21:45:56"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/user/getAll"},"timestamp":"2023-09-30 21:45:57"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-09-30 21:46:03"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-09-30 21:46:03"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-30 21:46:07"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-30 21:46:08"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-30 22:14:24"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-30 22:14:25"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-30 22:14:42"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-30 22:14:43"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-09-30 22:14:53"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-09-30 22:14:53"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-30 22:14:54"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-30 22:14:54"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-09-30 22:16:45"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-09-30 22:16:46"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-09-30 22:16:47"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-30 22:16:49"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-30 22:16:49"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-30 22:18:51"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-30 22:18:52"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getByDni/asdasd"},"timestamp":"2023-09-30 22:32:09"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-30 22:32:41"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-30 22:32:42"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-30 22:33:02"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-30 22:33:02"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-30 22:33:10"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-30 22:33:11"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-30 22:33:28"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-30 22:33:29"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-30 22:33:32"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-30 22:33:33"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-30 22:33:38"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-30 22:33:39"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-30 22:33:46"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-30 22:33:47"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-30 22:34:04"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-30 22:34:05"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-30 22:34:56"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-30 22:34:57"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-30 22:35:11"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-30 22:35:15"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-30 22:35:16"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-30 22:35:23"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-30 22:35:24"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getByDni/asdasd"},"timestamp":"2023-09-30 22:35:46"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getByDni/asdasd"},"timestamp":"2023-09-30 22:36:06"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getByDni/asdasd"},"timestamp":"2023-09-30 22:36:15"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-30 22:36:18"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-30 22:36:18"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getByDni/asdasd"},"timestamp":"2023-09-30 22:36:19"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getByDni/asdasd"},"timestamp":"2023-09-30 22:36:23"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getByDni/asdasd"},"timestamp":"2023-09-30 22:36:37"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getByDni/asdasd"},"timestamp":"2023-09-30 22:37:38"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getByDni/asdasd"},"timestamp":"2023-09-30 22:37:50"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getByDni/asdasd"},"timestamp":"2023-09-30 22:37:52"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-10-01 02:53:48"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-10-01 02:53:49"}
+{"level":"info","message":{"data":"successful connection to Nodemailer","utils":"emailSender"},"timestamp":"2023-10-01 02:54:01"}
+{"level":"info","message":{"data":{"accepted":["kallpa@gmail.com"],"ehlo":["SIZE 35882577","8BITMIME","AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH","ENHANCEDSTATUSCODES","PIPELINING","CHUNKING","SMTPUTF8"],"envelope":{"from":"willypruebas6@gmail.com","to":["kallpa@gmail.com"]},"envelopeTime":842,"messageId":"<c85536c4-0699-7585-28c2-b2117137d6c8@gmail.com>","messageSize":310,"messageTime":979,"rejected":[],"response":"250 2.0.0 OK  1696139644 h20-20020a62b414000000b006883561b421sm6619814pfn.162 - gsmtp"},"utils":"emailSender"},"timestamp":"2023-10-01 02:54:03"}
+{"level":"info","message":{"data":"successful connection to Nodemailer","utils":"emailSender"},"timestamp":"2023-10-01 02:55:02"}
+{"level":"info","message":{"data":{"accepted":["kallpa@gmail.com"],"ehlo":["SIZE 35882577","8BITMIME","AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH","ENHANCEDSTATUSCODES","PIPELINING","CHUNKING","SMTPUTF8"],"envelope":{"from":"willypruebas6@gmail.com","to":["kallpa@gmail.com"]},"envelopeTime":561,"messageId":"<956b4c3e-c60a-93ec-3cb4-f46c8a8ecfcc@gmail.com>","messageSize":310,"messageTime":567,"rejected":[],"response":"250 2.0.0 OK  1696139703 14-20020a17090a19ce00b00277371fd346sm4406864pjj.30 - gsmtp"},"utils":"emailSender"},"timestamp":"2023-10-01 02:55:03"}
+{"level":"info","message":{"body":{"email":"admin@gmail.com","password":"kallpa"},"method":"POST","params":"","query":"","url":"/user/validate"},"timestamp":"2023-10-01 02:55:34"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-01 02:55:35"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-01 02:55:36"}
+{"level":"info","message":{"data":"successful connection to Nodemailer","utils":"emailSender"},"timestamp":"2023-10-01 02:56:01"}
+{"level":"info","message":{"data":{"accepted":["kallpa@gmail.com"],"ehlo":["SIZE 35882577","8BITMIME","AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH","ENHANCEDSTATUSCODES","PIPELINING","CHUNKING","SMTPUTF8"],"envelope":{"from":"willypruebas6@gmail.com","to":["kallpa@gmail.com"]},"envelopeTime":564,"messageId":"<a130c8c7-130f-4d98-9d11-65f8e4d426b8@gmail.com>","messageSize":310,"messageTime":560,"rejected":[],"response":"250 2.0.0 OK  1696139763 g2-20020a639f02000000b0058563287aedsm6254320pge.72 - gsmtp"},"utils":"emailSender"},"timestamp":"2023-10-01 02:56:02"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-10-01 03:03:22"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-10-01 03:03:25"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-10-01 03:11:11"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-10-01 03:11:12"}
+{"level":"info","message":{"body":{"email":"admin@gmail.com","password":"kallpa"},"method":"POST","params":"","query":"","url":"/user/validate"},"timestamp":"2023-10-01 03:11:13"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-01 03:11:14"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-01 03:11:14"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getByDni/ssdasdasd"},"timestamp":"2023-10-01 03:11:41"}
+{"level":"info","message":{"data":"successful connection to Nodemailer","utils":"emailSender"},"timestamp":"2023-10-01 03:12:01"}
+{"level":"info","message":{"data":{"accepted":["kallpa@gmail.com"],"ehlo":["SIZE 35882577","8BITMIME","AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH","ENHANCEDSTATUSCODES","PIPELINING","CHUNKING","SMTPUTF8"],"envelope":{"from":"willypruebas6@gmail.com","to":["kallpa@gmail.com"]},"envelopeTime":599,"messageId":"<7959b59a-40c8-2753-1c06-cec7b67cbae2@gmail.com>","messageSize":310,"messageTime":565,"rejected":[],"response":"250 2.0.0 OK  1696140723 p6-20020a056a000b4600b00692754580f0sm16516474pfo.187 - gsmtp"},"utils":"emailSender"},"timestamp":"2023-10-01 03:12:03"}
+{"level":"info","message":{"data":"successful connection to Nodemailer","utils":"emailSender"},"timestamp":"2023-10-01 03:13:01"}
+{"level":"info","message":{"data":{"accepted":["kallpa@gmail.com"],"ehlo":["SIZE 35882577","8BITMIME","AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH","ENHANCEDSTATUSCODES","PIPELINING","CHUNKING","SMTPUTF8"],"envelope":{"from":"willypruebas6@gmail.com","to":["kallpa@gmail.com"]},"envelopeTime":560,"messageId":"<32cdbd9c-1920-995a-70ac-885e7204785d@gmail.com>","messageSize":310,"messageTime":543,"rejected":[],"response":"250 2.0.0 OK  1696140783 x4-20020a170902ec8400b001c5f62a639asm15818794plg.196 - gsmtp"},"utils":"emailSender"},"timestamp":"2023-10-01 03:13:02"}
+{"level":"info","message":{"data":"successful connection to Nodemailer","utils":"emailSender"},"timestamp":"2023-10-01 03:14:01"}
+{"level":"info","message":{"data":{"accepted":["kallpa@gmail.com"],"ehlo":["SIZE 35882577","8BITMIME","AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH","ENHANCEDSTATUSCODES","PIPELINING","CHUNKING","SMTPUTF8"],"envelope":{"from":"willypruebas6@gmail.com","to":["kallpa@gmail.com"]},"envelopeTime":562,"messageId":"<918b2342-ef19-df85-3981-1527729b7a00@gmail.com>","messageSize":310,"messageTime":500,"rejected":[],"response":"250 2.0.0 OK  1696140842 e1-20020aa78c41000000b006934a1c69f8sm5454215pfd.24 - gsmtp"},"utils":"emailSender"},"timestamp":"2023-10-01 03:14:02"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-10-01 03:16:32"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-10-01 03:16:33"}
+{"level":"info","message":{"data":"successful connection to Nodemailer","utils":"emailSender"},"timestamp":"2023-10-01 03:17:02"}
+{"level":"info","message":{"data":{"accepted":["kallpa@gmail.com"],"ehlo":["SIZE 35882577","8BITMIME","AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH","ENHANCEDSTATUSCODES","PIPELINING","CHUNKING","SMTPUTF8"],"envelope":{"from":"willypruebas6@gmail.com","to":["kallpa@gmail.com"]},"envelopeTime":564,"messageId":"<1264c196-f7ca-ab4f-7405-d1dec5e1e94d@gmail.com>","messageSize":310,"messageTime":514,"rejected":[],"response":"250 2.0.0 OK  1696141023 g23-20020aa78197000000b0066a31111cc5sm17410533pfi.152 - gsmtp"},"utils":"emailSender"},"timestamp":"2023-10-01 03:17:03"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-10-01 03:17:17"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-10-01 03:17:17"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-10-01 03:17:21"}
+{"level":"info","message":{"body":{"email":"admin@gmail.com","password":"kallpa"},"method":"POST","params":"","query":"","url":"/user/validate"},"timestamp":"2023-10-01 03:17:21"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-10-01 03:17:22"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-01 03:17:23"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-01 03:17:24"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getByDni/93003173-9"},"timestamp":"2023-10-01 03:17:45"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-10-01 03:29:36"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-10-01 03:29:37"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getByDni/91608508-7"},"timestamp":"2023-10-01 03:29:41"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getByDni/93003173-9"},"timestamp":"2023-10-01 03:30:04"}

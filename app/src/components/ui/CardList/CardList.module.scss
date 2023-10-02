@@ -25,6 +25,25 @@
   align-items: center;
   justify-content: flex-start;
   flex-direction: column;
+
+  overflow: auto;
+  max-height: 370px;
+
+  &::-webkit-scrollbar {
+    width: 2px;
+  }
+
+  &::-webkit-scrollbar-track {
+    background: #cccccc;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background: rgb(4, 73, 80, 0.7);
+  }
+
+  &::-webkit-scrollbar-thumb:hover {
+    background: #044950;
+  }
 }
 
 .itemCardList {

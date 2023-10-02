@@ -1,3 +1,4 @@
+@import "../../../styles/mixins.scss";
 .barGraph {
   width: 750px;
   height: 420px;
@@ -8,6 +9,11 @@
   align-items: center;
   justify-content: center;
   flex-direction: column;
+
+  @include media-xl() {
+    display: none;
+  }
+
   h1 {
     height: 50px;
     font-size: 16px;

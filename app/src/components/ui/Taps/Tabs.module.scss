@@ -4,6 +4,11 @@
   display: flex;
   flex-direction: column;
   height: 70vh;
+  margin-top: 70px;
+
+  @include media-xl() {
+    width: 350px;
+  }
 }
 
 .tabMenu {
@@ -94,6 +99,6 @@
   }
 
   @include media-xl() {
-    width: 450px;
+    width: 350px;
   }
 }

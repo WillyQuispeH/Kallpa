@@ -12,7 +12,7 @@ import styles from "./Login.module.scss";
 
 const Login = () => {
   const inicialForm = {
-    email: { value: "kallpa@gmail.com", isValid: true },
+    email: { value: "admin@gmail.com", isValid: true },
     password: { value: "kallpa", isValid: true },
   };
 

@@ -13,7 +13,7 @@ const CardPerson = ({ data }: ICardPerson) => {
     <div className={styles.cardPerson}>
       <Column gap="5px">
         <Row gap="5px">
-          <InputData value="DNI" width="200px" label={data.dni} />
+          <InputData value={data.dni} width="200px" label="DNI" />
           <ClaimType width="100px" />
         </Row>
         <InputData label="Nombre" width="305px" value={data.name} />

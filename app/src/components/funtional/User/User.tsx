@@ -115,7 +115,7 @@ const User = () => {
   return (
     <>
       <Seccion title="Usuario">
-        <Row gap="100px">
+        <div className={styles.contentData}>
           <CardUser
             email={user.email}
             alias={user.status}
@@ -186,7 +186,7 @@ const User = () => {
             <Title value="Lista de usuarios" width="350px" />
             <ListUser data={listUser} />
           </Column>
-        </Row>
+        </div>
       </Seccion>
       <SeccionFooter>
         <Button

@@ -8,12 +8,6 @@ const PageInvestor = () => {
   const { getAllProyect } = useProyect();
   const router = useRouter();
 
-  useEffect(() => {
-    if (2 === 2) {
-      getAllProyect();
-    }
-  }, [router]);
-
   if (router.isReady) return <Investor />;
 };
 

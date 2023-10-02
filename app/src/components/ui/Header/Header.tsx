@@ -24,20 +24,20 @@ const Header = () => {
     <div className={styles.header}>
       <ButtonIcon onClick={hanOnclickSideBar} typeButton="square" icon="menu" />
       <Row gap="10px">
-        <ButtonIcon
+        {/* <ButtonIcon
           onClick={() => handleClickOption("/investments/settings")}
           typeButton="square"
           icon="settings"
-        />
+        /> */}
         <ButtonIcon
           onClick={() => handleClickOption("/investments/welcome")}
           typeButton="square"
           icon="monitoring"
         />
         <ButtonIcon
-          onClick={() => handleClickOption("/investments/welcome")}
+          onClick={() => handleClickOption("/proyect/search")}
           typeButton="square"
-          icon="qr_code_2"
+          icon="manage_search"
         />
         <ButtonIcon
           onClick={() => handleClickOption("/investments/investor")}

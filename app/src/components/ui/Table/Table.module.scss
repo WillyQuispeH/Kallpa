@@ -1,3 +1,4 @@
+@import "../../../styles/mixins.scss";
 .tableClaimMain {
   display: flex;
   overflow: auto;
@@ -18,9 +19,12 @@
   &::-webkit-scrollbar-thumb:hover {
     background: #044950;
   }
+
+ 
 }
 .table {
   text-align: center;
+  border-collapse: separate;
   background-color: rgb(255, 255, 255);
   thead {
     background-color: rgba(255, 255, 255);
@@ -29,6 +33,23 @@
       height: 40px;
       th {
         color: white;
+        @include media-xl() {
+          font-size: 14px;
+
+          &:nth-child(5) {
+            width: 100px !important;
+          }
+
+          &:nth-child(1) {
+            display: none;
+          }
+          &:nth-child(4) {
+            display: none;
+          }
+          &:nth-child(5) {
+            display: none;
+          }
+        }
       }
     }
   }
@@ -42,6 +63,21 @@
 
       td {
         text-align: center;
+
+        @include media-xl() {
+          font-size: 14px;
+
+          &:nth-child(1) {
+            display: none;
+          }
+          &:nth-child(4) {
+            display: none;
+          }
+          &:nth-child(5) {
+            display: none;
+          }
+        }
+
         span {
           display: flex;
           align-items: center;

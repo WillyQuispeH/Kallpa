@@ -1,9 +1,1001 @@
-{
-  "dev": "cross-env APP_ENV=dev next dev -p 8000",
-  "build": "next build",
-  "start": "cross-env APP_ENV=prod next start -p 8000",
-  "lint": "next lint",
-  "email":"",
-  "password":""
-
-}
+[
+  {
+    "inversor": {
+      "id": "fd23900d-34c9-4e6e-b215-ae1090c1e5ac",
+      "dni": "96055184-2",
+      "name": "ABELL",
+      "email": "kallpa@gmail.com",
+      "phone": "957902342",
+      "address": "Condor117",
+      "maternallastname": " ALCCAHUAMAN",
+      "paternallastname": " LLANLLAYA"
+    },
+    "investment": {
+      "id": "874dc90d-6565-4c67-b1cd-0cc543e61ead",
+      "state": "Caducado",
+      "total": "77100",
+      "amount": "60000",
+      "months": "12",
+      "enddate": "21/03/2023",
+      "proyect": "Tarpuy",
+      "monthpay": "MARZO",
+      "subtotal": "78000",
+      "interests": "18000",
+      "retention": "900",
+      "registrationdate": "21/03/2022",
+      "returnpercentage": "30"
+    }
+  },
+  {
+    "inversor": {
+      "id": "a63476a3-798f-4486-b80f-8c0e3ecaa58a",
+      "dni": "96172744-8",
+      "name": "MIRIAN",
+      "email": "kallpa@gmail.com",
+      "phone": "957902342",
+      "address": "Condor117",
+      "maternallastname": " LAZARO ",
+      "paternallastname": "CACERES"
+    },
+    "investment": {
+      "id": "8aba9ef1-e97d-4856-9667-4b50e98f3da1",
+      "state": "Caducado",
+      "total": "30937.5",
+      "amount": "25000",
+      "months": "12",
+      "enddate": "08/09/2023",
+      "proyect": "Tarpuy",
+      "monthpay": "SEPTIEMBRE",
+      "subtotal": "31250",
+      "interests": "6250",
+      "retention": "312.5",
+      "registrationdate": "08/09/2022",
+      "returnpercentage": "25"
+    }
+  },
+  {
+    "inversor": {
+      "id": "96992277-6786-4450-871d-01249deca24c",
+      "dni": "90428086-0",
+      "name": "JUAN GABRIEL",
+      "email": "kallpa@gmail.com",
+      "phone": "957902342",
+      "address": "Condor117",
+      "maternallastname": "DIAZ",
+      "paternallastname": "DURAN"
+    },
+    "investment": {
+      "id": "158f1072-5741-4f9a-a4da-ff00fa92c801",
+      "state": "Caducado",
+      "total": "34275",
+      "amount": "30000",
+      "months": "6",
+      "enddate": "06/03/2023",
+      "proyect": "Tarpuy",
+      "monthpay": "MARZO",
+      "subtotal": "34500",
+      "interests": "4500",
+      "retention": "225",
+      "registrationdate": "06/09/2022",
+      "returnpercentage": "15"
+    }
+  },
+  {
+    "inversor": {
+      "id": "7c3b58ca-7b26-4023-82d2-abe0450f86b6",
+      "dni": "90840535-8",
+      "name": "JOEL",
+      "email": "kallpa@gmail.com",
+      "phone": "957902342",
+      "address": "Condor117",
+      "maternallastname": " HUAMANI",
+      "paternallastname": "QUISPE"
+    },
+    "investment": {
+      "id": "8838a333-dbf7-4b8c-bf1d-a5b7306bd727",
+      "state": "Caducado",
+      "total": "310562.5",
+      "amount": "250000",
+      "months": "12",
+      "enddate": "13/09/2023",
+      "proyect": "Tarpuy",
+      "monthpay": "SEPTIEMBRE",
+      "subtotal": "313750",
+      "interests": "63750",
+      "retention": "3187.5",
+      "registrationdate": "13/09/2022",
+      "returnpercentage": "25.5"
+    }
+  },
+  {
+    "inversor": {
+      "id": "a9d9bd30-f639-42a5-947f-8e199a1caa06",
+      "dni": "97588554-2",
+      "name": "HAÑARY MARIA",
+      "email": "kallpa@gmail.com",
+      "phone": "957902342",
+      "address": "Condor117",
+      "maternallastname": "VIUDA ",
+      "paternallastname": "CATACORA "
+    },
+    "investment": {
+      "id": "66b3682a-7cb9-44ab-86f2-8e83703458fb",
+      "state": "Caducado",
+      "total": "64250",
+      "amount": "50000",
+      "months": "12",
+      "enddate": "23/08/2023",
+      "proyect": "Tarpuy",
+      "monthpay": "AGOSTO",
+      "subtotal": "65000",
+      "interests": "15000",
+      "retention": "750",
+      "registrationdate": "23/08/2022",
+      "returnpercentage": "30"
+    }
+  },
+  {
+    "inversor": {
+      "id": "dfbc7a5f-a4b8-4bb7-aa19-738aada8ac6d",
+      "dni": "93003173-9",
+      "name": "ALONSO MACARIO ",
+      "email": "kallpa@gmail.com",
+      "phone": "965874123",
+      "address": "Condor11",
+      "maternallastname": "CACERES",
+      "paternallastname": "PERALTA "
+    },
+    "investment": {
+      "id": "625c09c5-e6ad-408c-a4ef-3f3866799641",
+      "state": "Vigente",
+      "total": "13090",
+      "amount": "11000",
+      "months": "12",
+      "enddate": "04/01/2024",
+      "proyect": "Tarpuy",
+      "monthpay": "ENERO",
+      "subtotal": "13200",
+      "interests": "2200",
+      "retention": "110",
+      "registrationdate": "04/01/2023",
+      "returnpercentage": "20"
+    }
+  },
+  {
+    "inversor": {
+      "id": "54393cf0-8d36-4b8b-b485-5aa06f242993",
+      "dni": "98027072-6",
+      "name": "CEFERINA APOLINARIA",
+      "email": "kallpa@gmail.com",
+      "phone": "957902342",
+      "address": "Condor117",
+      "maternallastname": " TACURI",
+      "paternallastname": "RAMOS"
+    },
+    "investment": {
+      "id": "4bcb936a-d22f-4e34-8abe-820554bae98b",
+      "state": "Vigente",
+      "total": "71400",
+      "amount": "60000",
+      "months": "12",
+      "enddate": "06/07/2024",
+      "proyect": "Sabandia",
+      "monthpay": "JULIO",
+      "subtotal": "72000",
+      "interests": "12000",
+      "retention": "600",
+      "registrationdate": "06/07/2023",
+      "returnpercentage": "20"
+    }
+  },
+  {
+    "inversor": {
+      "id": "7c31688d-17b6-4bd9-b670-3009e86cb2bb",
+      "dni": "94037161-9",
+      "name": "VERCELLI LIDIA",
+      "email": "kallpa@gmail.com",
+      "phone": "957902342",
+      "address": "Condor117",
+      "maternallastname": "TACURI",
+      "paternallastname": "RAMOS "
+    },
+    "investment": {
+      "id": "d0e80425-69ee-4334-a897-e599d489b35b",
+      "state": "Vigente",
+      "total": "71400",
+      "amount": "60000",
+      "months": "12",
+      "enddate": "06/07/2024",
+      "proyect": "Tarpuy",
+      "monthpay": "JULIO",
+      "subtotal": "72000",
+      "interests": "12000",
+      "retention": "600",
+      "registrationdate": "06/07/2023",
+      "returnpercentage": "20"
+    }
+  },
+  {
+    "inversor": {
+      "id": "ad5c2b09-cefc-47d4-a2f4-81b71d94e23e",
+      "dni": "99905386-6",
+      "name": "MAGDALENA YAQUELIN",
+      "email": "kallpa@gmail.com",
+      "phone": "957902342",
+      "address": "Condor117",
+      "maternallastname": "TEJADA",
+      "paternallastname": "AROTAYPE"
+    },
+    "investment": {
+      "id": "f4b97f19-3a4d-4392-ac70-1ead0aa7bb6e",
+      "state": "Vigente",
+      "total": "42840",
+      "amount": "36000",
+      "months": "12",
+      "enddate": "22/01/2024",
+      "proyect": "Tarpuy",
+      "monthpay": "ENERO",
+      "subtotal": "43200",
+      "interests": "7200",
+      "retention": "360",
+      "registrationdate": "22/01/2023",
+      "returnpercentage": "20"
+    }
+  },
+  {
+    "inversor": {
+      "id": "93a380b0-ea03-4186-b18c-6f0b4e8e9cf4",
+      "dni": "93669563-9",
+      "name": "ALIDA",
+      "email": "kallpa@gmail.com",
+      "phone": "957902342",
+      "address": "Condor117",
+      "maternallastname": "SURCO",
+      "paternallastname": "MERMA"
+    },
+    "investment": {
+      "id": "e58f603b-f7c9-4fa2-b255-51728adcdffb",
+      "state": "Vigente",
+      "total": "21420",
+      "amount": "18000",
+      "months": "12",
+      "enddate": "01/02/2024",
+      "proyect": "Tarpuy",
+      "monthpay": "FEBRERO",
+      "subtotal": "21600",
+      "interests": "3600",
+      "retention": "180",
+      "registrationdate": "01/02/2023",
+      "returnpercentage": "20"
+    }
+  },
+  {
+    "inversor": {
+      "id": "bb2fe748-e60f-4a1b-a4b3-aec5afbd742d",
+      "dni": "93990056-k",
+      "name": "EDGAR JESUS ",
+      "email": "kallpa@gmail.com",
+      "phone": "957902342",
+      "address": "Condor117",
+      "maternallastname": " HUARCUSI",
+      "paternallastname": "SEVILLANO"
+    },
+    "investment": {
+      "id": "82bcd025-b6db-408b-b1ed-9cf915633e7b",
+      "state": "Vigente",
+      "total": "152250",
+      "amount": "100000",
+      "months": "24",
+      "enddate": "04/11/2023",
+      "proyect": "Tarpuy",
+      "monthpay": "NOVIEMBRE",
+      "subtotal": "155000",
+      "interests": "55000",
+      "retention": "2750",
+      "registrationdate": "04/11/2021",
+      "returnpercentage": "55"
+    }
+  },
+  {
+    "inversor": {
+      "id": "cded9230-ca1d-4dbe-8dd7-b277aaeb3824",
+      "dni": "91887948-k",
+      "name": "LIPSON YASMANI ",
+      "email": "kallpa@gmail.com",
+      "phone": "957902342",
+      "address": "Condor117",
+      "maternallastname": " MAQUITO",
+      "paternallastname": "SARAYASI"
+    },
+    "investment": {
+      "id": "06dded2f-22c3-4ba4-9d88-220d5c6227bd",
+      "state": "Vigente",
+      "total": "15225",
+      "amount": "10000",
+      "months": "24",
+      "enddate": "23/11/2023",
+      "proyect": "Tarpuy",
+      "monthpay": "NOVIEMBRE",
+      "subtotal": "15500",
+      "interests": "5500",
+      "retention": "275",
+      "registrationdate": "23/11/2021",
+      "returnpercentage": "55"
+    }
+  },
+  {
+    "inversor": {
+      "id": "72c7b220-e19b-4a89-bf77-9382f0e22210",
+      "dni": "93173282-k",
+      "name": "MARIA",
+      "email": "kallpa@gmail.com",
+      "phone": "957902342",
+      "address": "Condor117",
+      "maternallastname": "VENTURA ",
+      "paternallastname": "CARI "
+    },
+    "investment": {
+      "id": "ec6936fe-77df-4b45-93fe-0cd035cd5589",
+      "state": "Vigente",
+      "total": "23800",
+      "amount": "20000",
+      "months": "12",
+      "enddate": "24/01/2024",
+      "proyect": "Tarpuy",
+      "monthpay": "ENERO",
+      "subtotal": "24000",
+      "interests": "4000",
+      "retention": "200",
+      "registrationdate": "24/01/2023",
+      "returnpercentage": "20"
+    }
+  },
+  {
+    "inversor": {
+      "id": "e6a61f75-ef49-4e28-933b-946ae8751a19",
+      "dni": "91230936-3",
+      "name": "OLLACHICA ",
+      "email": "kallpa@gmail.com",
+      "phone": "957902342",
+      "address": "Condor117",
+      "maternallastname": "HUMBERTO",
+      "paternallastname": "HACHA "
+    },
+    "investment": {
+      "id": "131ee851-2b7b-4afa-a6a0-41cdf727fc86",
+      "state": "Vigente",
+      "total": "23800",
+      "amount": "20000",
+      "months": "12",
+      "enddate": "18/01/2024",
+      "proyect": "Tarpuy",
+      "monthpay": "ENERO",
+      "subtotal": "24000",
+      "interests": "4000",
+      "retention": "200",
+      "registrationdate": "18/01/2023",
+      "returnpercentage": "20"
+    }
+  },
+  {
+    "inversor": {
+      "id": "0e8927d8-3fc3-47ca-9da0-8dc4673a5c12",
+      "dni": "90775134-1",
+      "name": "LUIS",
+      "email": "kallpa@gmail.com",
+      "phone": "957902342",
+      "address": "Condor117",
+      "maternallastname": "LAZARO ",
+      "paternallastname": "RANILLA "
+    },
+    "investment": {
+      "id": "f527264c-1fe9-44bc-a452-b1cc10abcd32",
+      "state": "Vigente",
+      "total": "32226.98",
+      "amount": "26042",
+      "months": "12",
+      "enddate": "27/01/2024",
+      "proyect": "Tarpuy",
+      "monthpay": "ENERO",
+      "subtotal": "32552.5",
+      "interests": "6510.5",
+      "retention": "325.53",
+      "registrationdate": "27/01/2023",
+      "returnpercentage": "25"
+    }
+  },
+  {
+    "inversor": {
+      "id": "e32fadef-436c-4e0e-8194-0d6bca569c4b",
+      "dni": "98088907-6",
+      "name": "ROSMERY ELIDA",
+      "email": "kallpa@gmail.com",
+      "phone": "957902342",
+      "address": "Condor117",
+      "maternallastname": "QUINO",
+      "paternallastname": " BERRIO"
+    },
+    "investment": {
+      "id": "0db140d0-4396-4196-9e79-33940da065a5",
+      "state": "Caducado",
+      "total": "65700",
+      "amount": "60000",
+      "months": "6",
+      "enddate": "02/08/2023",
+      "proyect": "Tarpuy",
+      "monthpay": "AGOSTO",
+      "subtotal": "66000",
+      "interests": "6000",
+      "retention": "300",
+      "registrationdate": "02/02/2023",
+      "returnpercentage": "10"
+    }
+  },
+  {
+    "inversor": {
+      "id": "ca9d1c31-ed66-4feb-8beb-908443522d84",
+      "dni": "97614720-0",
+      "name": "WHASHINGTON",
+      "email": "kallpa@gmail.com",
+      "phone": "957902342",
+      "address": "Condor117",
+      "maternallastname": " CHAMBI",
+      "paternallastname": "ORTIZ"
+    },
+    "investment": {
+      "id": "bdd97308-9ab0-4461-b10d-cb776eb49690",
+      "state": "Caducado",
+      "total": "16710",
+      "amount": "15000",
+      "months": "6",
+      "enddate": "27/06/2023",
+      "proyect": "Tarpuy",
+      "monthpay": "JUNIO",
+      "subtotal": "16800",
+      "interests": "1800",
+      "retention": "90",
+      "registrationdate": "27/12/2022",
+      "returnpercentage": "12"
+    }
+  },
+  {
+    "inversor": {
+      "id": "5553c24b-ac1a-4178-b98c-6a19389e3306",
+      "dni": "92648497-4",
+      "name": "KAROL FATIMA ",
+      "email": "kallpa@gmail.com",
+      "phone": "965874123",
+      "address": "condor117",
+      "maternallastname": "MARIN",
+      "paternallastname": "PIZARRO "
+    },
+    "investment": {
+      "id": "7c3de9cb-965b-44db-a09c-079e04dd7317",
+      "state": "Caducado",
+      "total": "11900",
+      "amount": "10000",
+      "months": "12",
+      "enddate": "14/05/2022",
+      "proyect": "Tarpuy",
+      "monthpay": "MAYO",
+      "subtotal": "12000",
+      "interests": "2000",
+      "retention": "100",
+      "registrationdate": "14/05/2021",
+      "returnpercentage": "20"
+    }
+  },
+  {
+    "inversor": {
+      "id": "6857a14b-2710-45c1-8c98-dcdeff9aada2",
+      "dni": "96400576-1",
+      "name": "VANESA XIOMARA ",
+      "email": "kallpa@gmail.com",
+      "phone": "957902342",
+      "address": "Condor117",
+      "maternallastname": "DEL CARPIO",
+      "paternallastname": "LAUTA"
+    },
+    "investment": {
+      "id": "90c69c2d-2df3-4e60-90d3-0f7b6e1cbd79",
+      "state": "Caducado",
+      "total": "41650",
+      "amount": "35000",
+      "months": "12",
+      "enddate": "26/08/2023",
+      "proyect": "Tarpuy",
+      "monthpay": "AGOSTO",
+      "subtotal": "42000",
+      "interests": "7000",
+      "retention": "350",
+      "registrationdate": "26/08/2022",
+      "returnpercentage": "20"
+    }
+  },
+  {
+    "inversor": {
+      "id": "dfbc7a5f-a4b8-4bb7-aa19-738aada8ac6d",
+      "dni": "93003173-9",
+      "name": "ALONSO MACARIO ",
+      "email": "kallpa@gmail.com",
+      "phone": "965874123",
+      "address": "Condor11",
+      "maternallastname": "CACERES",
+      "paternallastname": "PERALTA "
+    },
+    "investment": {
+      "id": "38a93bbb-2d8a-4079-8c3c-cc918d9cbedd",
+      "state": "Caducado",
+      "total": "34540.8",
+      "amount": "26880",
+      "months": "12",
+      "enddate": "13/09/2023",
+      "proyect": "Tarpuy",
+      "monthpay": "SEPTIEMBRE",
+      "subtotal": "34944",
+      "interests": "8064",
+      "retention": "403.2",
+      "registrationdate": "13/09/2022",
+      "returnpercentage": "30"
+    }
+  },
+  {
+    "inversor": {
+      "id": "1511c0f0-a34b-47a7-aa8a-fa4d99cc4337",
+      "dni": "99576695-7",
+      "name": "DESARANAYHUA  ",
+      "email": "kallpa@gmail.com",
+      "phone": "957902342",
+      "address": "Condor117",
+      "maternallastname": "TRIVEÑOS",
+      "paternallastname": "NOA "
+    },
+    "investment": {
+      "id": "2211acae-00e3-46bd-92bf-85779ca3d06e",
+      "state": "Caducado",
+      "total": "24750",
+      "amount": "20000",
+      "months": "12",
+      "enddate": "06/09/2023",
+      "proyect": "Tarpuy",
+      "monthpay": "SEPTIEMBRE",
+      "subtotal": "25000",
+      "interests": "5000",
+      "retention": "250",
+      "registrationdate": "06/09/2022",
+      "returnpercentage": "25"
+    }
+  },
+  {
+    "inversor": {
+      "id": "64429803-2d59-43c0-9e43-2dd31eef083f",
+      "dni": "93229427-3",
+      "name": "HECTOR DAVID",
+      "email": "kallpa@gmail.com",
+      "phone": "957902342",
+      "address": "Condor117",
+      "maternallastname": " TACO",
+      "paternallastname": "QUISPE"
+    },
+    "investment": {
+      "id": "a9ed48e2-1b15-489d-97e7-9120583735cc",
+      "state": "Caducado",
+      "total": "70675",
+      "amount": "55000",
+      "months": "12",
+      "enddate": "17/05/2023",
+      "proyect": "Tarpuy",
+      "monthpay": "MAYO",
+      "subtotal": "71500",
+      "interests": "16500",
+      "retention": "825",
+      "registrationdate": "17/05/2022",
+      "returnpercentage": "30"
+    }
+  },
+  {
+    "inversor": {
+      "id": "148ae35b-e4f3-4a92-a423-78059f42852d",
+      "dni": "94881111-1",
+      "name": "RODRIGO",
+      "email": "kallpa@gmail.com",
+      "phone": "957902342",
+      "address": "Condor117",
+      "maternallastname": "CCORA",
+      "paternallastname": "VILLALBA"
+    },
+    "investment": {
+      "id": "065f7c21-ce47-4a7d-a5a1-53258473830f",
+      "state": "Caducado",
+      "total": "142350",
+      "amount": "130000",
+      "months": "6",
+      "enddate": "01/10/2023",
+      "proyect": "Tarpuy",
+      "monthpay": "OCTUBRE",
+      "subtotal": "143000",
+      "interests": "13000",
+      "retention": "650",
+      "registrationdate": "01/04/2023",
+      "returnpercentage": "10"
+    }
+  },
+  {
+    "inversor": {
+      "id": "6b610067-bffc-46d8-acf6-e7bcf5248489",
+      "dni": "96772705-9",
+      "name": "CRISTOBAL",
+      "email": "kallpa@gmail.com",
+      "phone": "965874123",
+      "address": "condor117",
+      "maternallastname": " FLORES",
+      "paternallastname": "OCORURO"
+    },
+    "investment": {
+      "id": "e69abc43-9455-4414-92c6-0024a9bacb9b",
+      "state": "Caducado",
+      "total": "108749.55",
+      "amount": "84630",
+      "months": "12",
+      "enddate": "18/05/2023",
+      "proyect": "Sabandia",
+      "monthpay": "MAYO",
+      "subtotal": "110019",
+      "interests": "25389",
+      "retention": "1269.45",
+      "registrationdate": "18/05/2022",
+      "returnpercentage": "30"
+    }
+  },
+  {
+    "inversor": {
+      "id": "58afc6af-4b07-41ed-bf4d-037b664377c4",
+      "dni": "90324023-7",
+      "name": "DINA MARTINA",
+      "email": "kallpa@gmail.com",
+      "phone": "957902342",
+      "address": "Condor117",
+      "maternallastname": " QUISPE",
+      "paternallastname": "CACERES"
+    },
+    "investment": {
+      "id": "883656e1-a9d6-4d94-acef-112803f5a027",
+      "state": "Caducado",
+      "total": "12850",
+      "amount": "10000",
+      "months": "12",
+      "enddate": "11/05/2023",
+      "proyect": "Tarpuy",
+      "monthpay": "MAYO",
+      "subtotal": "13000",
+      "interests": "3000",
+      "retention": "150",
+      "registrationdate": "11/05/2022",
+      "returnpercentage": "30"
+    }
+  },
+  {
+    "inversor": {
+      "id": "58afc6af-4b07-41ed-bf4d-037b664377c4",
+      "dni": "90324023-7",
+      "name": "DINA MARTINA",
+      "email": "kallpa@gmail.com",
+      "phone": "957902342",
+      "address": "Condor117",
+      "maternallastname": " QUISPE",
+      "paternallastname": "CACERES"
+    },
+    "investment": {
+      "id": "f6f6fafa-fb18-492b-bc1e-751d7c385bd2",
+      "state": "Caducado",
+      "total": "19275",
+      "amount": "15000",
+      "months": "12",
+      "enddate": "15/09/2023",
+      "proyect": "Tarpuy",
+      "monthpay": "SEPTIEMBRE",
+      "subtotal": "19500",
+      "interests": "4500",
+      "retention": "225",
+      "registrationdate": "15/09/2022",
+      "returnpercentage": "30"
+    }
+  },
+  {
+    "inversor": {
+      "id": "2c8fc22e-7171-4b2c-a943-f5c147e792d2",
+      "dni": "96248782-3",
+      "name": "ALFONSO LUIYI",
+      "email": "kallpa@gmail.com",
+      "phone": "957902342",
+      "address": "Condor117",
+      "maternallastname": "CARDENAS",
+      "paternallastname": "RANILLA "
+    },
+    "investment": {
+      "id": "117ab862-7f16-4ddf-aef3-7a1c4cd5d0cf",
+      "state": "Caducado",
+      "total": "12850",
+      "amount": "10000",
+      "months": "12",
+      "enddate": "21/01/2023",
+      "proyect": "Tarpuy",
+      "monthpay": "ENERO",
+      "subtotal": "13000",
+      "interests": "3000",
+      "retention": "150",
+      "registrationdate": "21/01/2022",
+      "returnpercentage": "30"
+    }
+  },
+  {
+    "inversor": {
+      "id": "58afc6af-4b07-41ed-bf4d-037b664377c4",
+      "dni": "90324023-7",
+      "name": "DINA MARTINA",
+      "email": "kallpa@gmail.com",
+      "phone": "957902342",
+      "address": "Condor117",
+      "maternallastname": " QUISPE",
+      "paternallastname": "CACERES"
+    },
+    "investment": {
+      "id": "be58e70f-b3e9-414c-a31c-689e95d3c22c",
+      "state": "Caducado",
+      "total": "42705",
+      "amount": "39000",
+      "months": "6",
+      "enddate": "01/08/2023",
+      "proyect": "Tarpuy",
+      "monthpay": "AGOSTO",
+      "subtotal": "42900",
+      "interests": "3900",
+      "retention": "195",
+      "registrationdate": "01/02/2023",
+      "returnpercentage": "10"
+    }
+  },
+  {
+    "inversor": {
+      "id": "9c5ddb2d-2b1a-419b-aeed-368c63f19e19",
+      "dni": "91550351-9",
+      "name": "MARIA ANTONIETA",
+      "email": "kallpa@gmail.com",
+      "phone": "957902342",
+      "address": "Condor117",
+      "maternallastname": "GUZMAN",
+      "paternallastname": "CHALCO "
+    },
+    "investment": {
+      "id": "c821e023-9b75-475b-9874-c072701ddc10",
+      "state": "Caducado",
+      "total": "11425",
+      "amount": "10000",
+      "months": "6",
+      "enddate": "21/07/2022",
+      "proyect": "Tarpuy",
+      "monthpay": "JULIO",
+      "subtotal": "11500",
+      "interests": "1500",
+      "retention": "75",
+      "registrationdate": "21/01/2022",
+      "returnpercentage": "15"
+    }
+  },
+  {
+    "inversor": {
+      "id": "d4db9b1e-6ba8-4e71-91e8-1486961b595b",
+      "dni": "90790015-0",
+      "name": "REMY ABEL",
+      "email": "kallpa@gmail.com",
+      "phone": "957902342",
+      "address": "Condor117",
+      "maternallastname": " HUAMANI",
+      "paternallastname": " QUISPE"
+    },
+    "investment": {
+      "id": "930847d8-c352-4864-a2be-e95398c0e847",
+      "state": "Caducado",
+      "total": "42840",
+      "amount": "36000",
+      "months": "12",
+      "enddate": "08/05/2023",
+      "proyect": "Tarpuy",
+      "monthpay": "MAYO",
+      "subtotal": "43200",
+      "interests": "7200",
+      "retention": "360",
+      "registrationdate": "08/05/2022",
+      "returnpercentage": "20"
+    }
+  },
+  {
+    "inversor": {
+      "id": "baf78cc9-88df-4288-9383-fddfee2a28da",
+      "dni": "94980803-3",
+      "name": "LUIS",
+      "email": "kallpa@gmail.com",
+      "phone": "957902342",
+      "address": "Condor117",
+      "maternallastname": " SALAS ",
+      "paternallastname": "CACERES"
+    },
+    "investment": {
+      "id": "7e569bfe-54bd-432a-b5d5-776b3e98e808",
+      "state": "Caducado",
+      "total": "19275",
+      "amount": "15000",
+      "months": "12",
+      "enddate": "02/03/2023",
+      "proyect": "Tarpuy",
+      "monthpay": "MARZO",
+      "subtotal": "19500",
+      "interests": "4500",
+      "retention": "225",
+      "registrationdate": "02/03/2022",
+      "returnpercentage": "30"
+    }
+  },
+  {
+    "inversor": {
+      "id": "6857a14b-2710-45c1-8c98-dcdeff9aada2",
+      "dni": "96400576-1",
+      "name": "VANESA XIOMARA ",
+      "email": "kallpa@gmail.com",
+      "phone": "957902342",
+      "address": "Condor117",
+      "maternallastname": "DEL CARPIO",
+      "paternallastname": "LAUTA"
+    },
+    "investment": {
+      "id": "e39793eb-978c-4e61-9803-2ea501f7c6ba",
+      "state": "Caducado",
+      "total": "71175",
+      "amount": "65000",
+      "months": "6",
+      "enddate": "18/07/2023",
+      "proyect": "Tarpuy",
+      "monthpay": "JULIO",
+      "subtotal": "71500",
+      "interests": "6500",
+      "retention": "325",
+      "registrationdate": "18/01/2023",
+      "returnpercentage": "10"
+    }
+  },
+  {
+    "inversor": {
+      "id": "a9d9bd30-f639-42a5-947f-8e199a1caa06",
+      "dni": "97588554-2",
+      "name": "HAÑARY MARIA",
+      "email": "kallpa@gmail.com",
+      "phone": "957902342",
+      "address": "Condor117",
+      "maternallastname": "VIUDA ",
+      "paternallastname": "CATACORA "
+    },
+    "investment": {
+      "id": "1bda8ee4-8adc-4d0e-8b1e-b452a26d1803",
+      "state": "Caducado",
+      "total": "25700",
+      "amount": "20000",
+      "months": "12",
+      "enddate": "19/09/2023",
+      "proyect": "Sabandia",
+      "monthpay": "SEPTIEMBRE",
+      "subtotal": "26000",
+      "interests": "6000",
+      "retention": "300",
+      "registrationdate": "19/09/2022",
+      "returnpercentage": "30"
+    }
+  },
+  {
+    "inversor": {
+      "id": "b3ce432c-43d3-4b1d-a629-c19c838acade",
+      "dni": "96801701-2",
+      "name": "MARLENI SOLEDAD ",
+      "email": "kallpa@gmail.com",
+      "phone": "957902342",
+      "address": "Condor117",
+      "maternallastname": " CAHUANA",
+      "paternallastname": "OVIEDO"
+    },
+    "investment": {
+      "id": "818f4aa6-15d3-4c97-a1a9-aab83f73993f",
+      "state": "Caducado",
+      "total": "50115",
+      "amount": "39000",
+      "months": "12",
+      "enddate": "08/05/2023",
+      "proyect": "Tarpuy",
+      "monthpay": "MAYO",
+      "subtotal": "50700",
+      "interests": "11700",
+      "retention": "585",
+      "registrationdate": "08/05/2022",
+      "returnpercentage": "30"
+    }
+  },
+  {
+    "inversor": {
+      "id": "e8b63e0b-e25e-4e2b-b275-d5b6b6c4e28a",
+      "dni": "95037810-7",
+      "name": "BRIGGITE DENNIS",
+      "email": "kallpa@gmail.com",
+      "phone": "957902342",
+      "address": "Condor117",
+      "maternallastname": "AYALA ",
+      "paternallastname": "MARINO "
+    },
+    "investment": {
+      "id": "9571263b-d00c-48a3-921d-4fa4a84a4b72",
+      "state": "Caducado",
+      "total": "42705",
+      "amount": "39000",
+      "months": "6",
+      "enddate": "29/07/2023",
+      "proyect": "Tarpuy",
+      "monthpay": "JULIO",
+      "subtotal": "42900",
+      "interests": "3900",
+      "retention": "195",
+      "registrationdate": "29/01/2023",
+      "returnpercentage": "10"
+    }
+  },
+  {
+    "inversor": {
+      "id": "b7ad09a8-ec92-4d24-8a4e-aa91735a8563",
+      "dni": "91608508-7",
+      "name": "ERENIO",
+      "email": "kallpa@gmail.com",
+      "phone": "957902342",
+      "address": "Condor117",
+      "maternallastname": " CHAMBILLA",
+      "paternallastname": "RAMOS"
+    },
+    "investment": {
+      "id": "db261f5c-e751-40d0-875e-bdf682fecc8f",
+      "state": "Caducado",
+      "total": "71400",
+      "amount": "60000",
+      "months": "12",
+      "enddate": "03/12/2022",
+      "proyect": "Tarpuy",
+      "monthpay": "DICIEMBRE",
+      "subtotal": "72000",
+      "interests": "12000",
+      "retention": "600",
+      "registrationdate": "03/12/2021",
+      "returnpercentage": "20"
+    }
+  },
+  {
+    "inversor": {
+      "id": "6b610067-bffc-46d8-acf6-e7bcf5248489",
+      "dni": "96772705-9",
+      "name": "CRISTOBAL",
+      "email": "kallpa@gmail.com",
+      "phone": "965874123",
+      "address": "condor117",
+      "maternallastname": " FLORES",
+      "paternallastname": "OCORURO"
+    },
+    "investment": {
+      "id": "ee52ca21-6410-4820-ae82-13277f12ab3d",
+      "state": "Caducado",
+      "total": "19275",
+      "amount": "15000",
+      "months": "12",
+      "enddate": "18/05/2023",
+      "proyect": "Sabandia",
+      "monthpay": "MAYO",
+      "subtotal": "19500",
+      "interests": "4500",
+      "retention": "225",
+      "registrationdate": "18/05/2022",
+      "returnpercentage": "30"
+    }
+  }
+]

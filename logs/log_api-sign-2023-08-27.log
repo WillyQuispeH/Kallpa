@@ -1,0 +1,357 @@
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:01:20"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:01:20"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:03:22"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:03:22"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:03:27"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:03:27"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:04:51"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:04:51"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:05:27"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:05:27"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:05:38"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:05:38"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:05:50"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:05:50"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:06:28"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:06:28"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:06:36"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:06:37"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:06:42"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:06:42"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:06:55"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:06:56"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:07:07"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:07:07"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:07:19"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:07:19"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:07:28"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:07:29"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:07:36"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:07:36"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:07:47"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:07:47"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:08:18"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:08:18"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:10:37"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:10:37"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:10:47"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:10:47"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:11:15"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:11:15"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:13:03"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:13:03"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:13:23"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:13:24"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:13:33"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:13:34"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:13:39"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:13:39"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:13:41"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:13:41"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:13:45"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:13:45"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:14:01"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:14:01"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:14:38"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:14:38"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:15:07"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:15:07"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:15:17"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:15:17"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:15:22"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:15:22"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:15:24"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:15:25"}
+{"level":"info","message":{"body":{},"method":"POST","params":"","query":"","url":"/api/person/create"},"timestamp":"2023-08-26 16:21:27"}
+{"level":"error","message":{"error":{"address":null,"dni":null,"email":null,"id":"c53d6b1d-4a11-4336-bff5-62b3c4969574","maternallastname":null,"name":null,"paternallastname":null,"phone":null},"model":"person/create"},"timestamp":"2023-08-26 16:21:27"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:22:00"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:22:00"}
+{"level":"info","message":{"body":{},"method":"POST","params":"","query":"","url":"/api/person/create"},"timestamp":"2023-08-26 16:22:44"}
+{"level":"error","message":{"error":{"address":null,"dni":null,"email":null,"id":"652c4f32-2453-4fec-99b6-d35e9e1a2fc2","maternallastname":null,"name":null,"paternallastname":null,"phone":null},"model":"person/create"},"timestamp":"2023-08-26 16:22:44"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:23:39"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:23:40"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:23:47"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:23:47"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:23:51"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:23:51"}
+{"level":"info","message":{"body":{},"method":"POST","params":"","query":"","url":"/api/investment/create"},"timestamp":"2023-08-26 16:24:43"}
+{"level":"info","message":{"error":null,"model":"investment/create"},"timestamp":"2023-08-26 16:24:43"}
+{"level":"info","message":{"error":{"amount":null,"enddate":null,"id":"851507da-5d22-4722-ab48-51ead916bb5a","interests":null,"investment_id":null,"monthpay":null,"months":null,"proyect":null,"registrationdate":null,"retention":null,"returnpercentage":null,"state":null,"subtotal":null,"total":null},"model":"investmentDetail/create"},"timestamp":"2023-08-26 16:24:43"}
+{"level":"info","message":{"body":{},"method":"POST","params":"","query":"","url":"/api/investment/create"},"timestamp":"2023-08-26 16:27:26"}
+{"level":"info","message":{"error":null,"model":"investment/create"},"timestamp":"2023-08-26 16:27:26"}
+{"level":"info","message":{"error":{"amount":null,"enddate":null,"id":"1c3fa92c-24f1-4beb-93b5-fe912a4cbdb2","interests":null,"investment_id":null,"monthpay":null,"months":null,"proyect":null,"registrationdate":null,"retention":null,"returnpercentage":null,"state":null,"subtotal":null,"total":null},"model":"investmentDetail/create"},"timestamp":"2023-08-26 16:27:26"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:27:45"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:27:45"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:28:23"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:28:23"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:28:33"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:28:33"}
+{"level":"info","message":{"body":{},"method":"POST","params":"","query":"","url":"/api/investment/create"},"timestamp":"2023-08-26 16:28:34"}
+{"level":"info","message":{"error":null,"model":"investment/create"},"timestamp":"2023-08-26 16:28:34"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:29:11"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:29:11"}
+{"level":"info","message":{"body":{},"method":"POST","params":"","query":"","url":"/api/investment/create"},"timestamp":"2023-08-26 16:29:11"}
+{"level":"info","message":{"body":{},"method":"POST","params":"","query":"","url":"/api/investment/create"},"timestamp":"2023-08-26 16:29:11"}
+{"level":"info","message":{"error":{"id":"d0e456cb-331c-4182-8ce2-a3c91ff03b0e"},"model":"investment/create"},"timestamp":"2023-08-26 16:29:11"}
+{"level":"info","message":{"error":{"id":"89949a98-0168-4652-bd88-ccf1bc1adfef"},"model":"investment/create"},"timestamp":"2023-08-26 16:29:11"}
+{"level":"info","message":{"body":{},"method":"POST","params":"","query":"","url":"/api/investment/create"},"timestamp":"2023-08-26 16:29:30"}
+{"level":"info","message":{"error":{"id":"3e7ae388-851a-45b7-be84-ab5fc33a3f48"},"model":"investment/create"},"timestamp":"2023-08-26 16:29:30"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:30:30"}
+{"level":"info","message":{"body":{},"method":"POST","params":"","query":"","url":"/api/investment/create"},"timestamp":"2023-08-26 16:30:30"}
+{"level":"info","message":{"body":{},"method":"POST","params":"","query":"","url":"/api/investment/create"},"timestamp":"2023-08-26 16:30:30"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:30:30"}
+{"level":"info","message":{"error":{"id":"12536ccc-fef8-483c-9191-0a27109d260f"},"model":"investment/create"},"timestamp":"2023-08-26 16:30:30"}
+{"level":"info","message":{"error":{"id":"a7e34011-6fd1-4876-a1c5-b8f69c28cc47"},"model":"investment/create"},"timestamp":"2023-08-26 16:30:30"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:32:07"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:32:07"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:38:10"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:38:10"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:38:37"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:38:37"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:38:43"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:38:43"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:39:08"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:39:08"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:39:38"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:39:38"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:39:56"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:39:56"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:40:00"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:40:00"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:40:09"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:40:09"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:40:19"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:40:19"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:40:22"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:40:22"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:40:49"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:40:49"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:41:24"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:41:25"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:41:29"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:41:29"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:41:46"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:41:46"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:42:05"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:42:05"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:42:11"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:42:11"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:44:12"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:44:12"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:44:27"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:44:27"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 16:45:19"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 16:45:20"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 17:20:06"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 17:20:06"}
+{"level":"info","message":{"body":{"invertor":{"address":"Provincial 101","dni":"27.648.009-K","email":"Quispeabadquispe@gmail.com","maternallastname":"Huamani","name":"Matias","paternallasname":"Quispe","phone":"957902342"},"investment":{"amount":"S/ 250,000.00","enddate":"26/08/2024","interests":"S/ 50,000.00","monthpay":"AGOSTO","months":"12","proyect":"Tarpuy","registrationdate":"26/08/2023","retention":"S/ 2,500.00","returnpercentage":"20","subtotal":"S/ 300,000.00","total":"S/ 297,500.00"}},"method":"POST","params":"","query":"","url":"/api/investment/create"},"timestamp":"2023-08-26 17:20:13"}
+{"level":"info","message":{"error":{"address":"Provincial 101","dni":"27.648.009-K","email":"Quispeabadquispe@gmail.com","id":"23be5c3e-922f-4660-a5cd-081190b52f11","maternallastname":"Huamani","name":"Matias","paternallastname":null,"phone":"957902342"},"model":"person/create"},"timestamp":"2023-08-26 17:20:13"}
+{"level":"info","message":{"error":{"amount":"S/ 250,000.00","enddate":"26/08/2024","id":"eaedcc42-f392-45bc-8f32-1bb2428e741c","interests":"S/ 50,000.00","monthpay":"AGOSTO","months":"12","proyect":"Tarpuy","registrationdate":"26/08/2023","retention":"S/ 2,500.00","returnpercentage":"20","state":"Vigente","subtotal":"S/ 300,000.00","total":"S/ 297,500.00"},"model":"person/create"},"timestamp":"2023-08-26 17:20:13"}
+{"level":"info","message":{"body":{"invertor":{"address":"Provincial 101","dni":"27.648.009-K","email":"Quispeabadquispe@gmail.com","maternallastname":"Huamani","name":"Matias","paternallastname":"Quispe","phone":"957902342"},"investment":{"amount":250000.5,"enddate":"26/08/2024","interests":50000.1,"monthpay":"AGOSTO","months":"12","proyect":"Tarpuy","registrationdate":"26/08/2023","retention":2500.01,"returnpercentage":"20","subtotal":300000.6,"total":297500.6}},"method":"POST","params":"","query":"","url":"/api/investment/create"},"timestamp":"2023-08-26 17:26:33"}
+{"level":"info","message":{"error":{"address":"Provincial 101","dni":"27.648.009-K","email":"Quispeabadquispe@gmail.com","id":"23be5c3e-922f-4660-a5cd-081190b52f11","maternallastname":"Huamani","name":"Matias","paternallastname":"Quispe","phone":"957902342"},"model":"person/create"},"timestamp":"2023-08-26 17:26:33"}
+{"level":"info","message":{"error":{"amount":"250000.5","enddate":"26/08/2024","id":"40ab5376-9cde-41f8-94b4-48018e7ee0bc","interests":"50000.1","monthpay":"AGOSTO","months":"12","proyect":"Tarpuy","registrationdate":"26/08/2023","retention":"2500.01","returnpercentage":"20","state":"Vigente","subtotal":"300000.6","total":"297500.6"},"model":"person/create"},"timestamp":"2023-08-26 17:26:33"}
+{"level":"info","message":{"body":{"invertor":{"address":"Provincial 101","dni":"27.648.009-K","email":"Quispeabadquispe@gmail.com","maternallastname":"Huamani","name":"Matias","paternallastname":"Quispe","phone":"957902342"},"investment":{"amount":250,"enddate":"26/08/2024","interests":50,"monthpay":"AGOSTO","months":"12","proyect":"Tarpuy","registrationdate":"26/08/2023","retention":2.5,"returnpercentage":"20","subtotal":300,"total":297.5}},"method":"POST","params":"","query":"","url":"/api/investment/create"},"timestamp":"2023-08-26 17:28:33"}
+{"level":"info","message":{"error":{"address":"Provincial 101","dni":"27.648.009-K","email":"Quispeabadquispe@gmail.com","id":"23be5c3e-922f-4660-a5cd-081190b52f11","maternallastname":"Huamani","name":"Matias","paternallastname":"Quispe","phone":"957902342"},"model":"person/create"},"timestamp":"2023-08-26 17:28:33"}
+{"level":"info","message":{"error":{"amount":"250","enddate":"26/08/2024","id":"c6c85d27-c2d4-478f-8da4-1a5f8ea774c3","interests":"50","monthpay":"AGOSTO","months":"12","proyect":"Tarpuy","registrationdate":"26/08/2023","retention":"2.5","returnpercentage":"20","state":"Vigente","subtotal":"300","total":"297.5"},"model":"person/create"},"timestamp":"2023-08-26 17:28:33"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 19:04:12"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 19:04:13"}
+{"level":"info","message":{"body":{"invertor":{"address":"Provincial 101","dni":"62.688.636-K","email":"portalfirma@gmail.com","maternallastname":"Lujan","name":"Jorge","paternallastname":"montero","phone":"957902342"},"investment":{"amount":500000,"enddate":"26/08/2024","interests":100000,"monthpay":"AGOSTO","months":"12","proyect":"Suyay","registrationdate":"26/08/2023","retention":5000,"returnpercentage":"20","subtotal":600000,"total":595000}},"method":"POST","params":"","query":"","url":"/api/investment/create"},"timestamp":"2023-08-26 19:05:50"}
+{"level":"info","message":{"error":{"address":"Provincial 101","dni":"62.688.636-K","email":"portalfirma@gmail.com","id":"0354a803-d2ea-465e-94ea-1953072b32e8","maternallastname":"Lujan","name":"Jorge","paternallastname":"montero","phone":"957902342"},"model":"person/create"},"timestamp":"2023-08-26 19:05:50"}
+{"level":"info","message":{"error":{"amount":"500000","enddate":"26/08/2024","id":"c1ddca7b-5910-497a-af28-5427327df750","interests":"100000","monthpay":"AGOSTO","months":"12","proyect":"Suyay","registrationdate":"26/08/2023","retention":"5000","returnpercentage":"20","state":"Caducado","subtotal":"600000","total":"595000"},"model":"person/create"},"timestamp":"2023-08-26 19:05:50"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 19:12:01"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 19:12:01"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 19:12:08"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 19:12:08"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 19:12:13"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 19:12:13"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 19:12:31"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 19:12:31"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 19:13:12"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 19:13:12"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 19:13:23"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 19:13:23"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 19:13:39"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 19:13:39"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 19:13:44"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 19:13:44"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 19:13:48"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 19:13:48"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/cgetAll"},"timestamp":"2023-08-26 19:18:32"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/cgetAll"},"timestamp":"2023-08-26 19:18:32"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/cgetAll"},"timestamp":"2023-08-26 19:18:32"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/cgetAll"},"timestamp":"2023-08-26 19:18:57"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/cgetAll"},"timestamp":"2023-08-26 19:18:58"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 19:19:16"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 19:21:21"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 19:21:21"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 19:21:28"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 19:21:28"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 19:22:00"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 19:22:00"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 19:22:08"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 19:22:08"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 19:22:29"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 19:22:30"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 19:22:57"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 19:23:02"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 19:23:05"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 19:23:05"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 19:23:54"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 19:23:54"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 19:23:58"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 19:23:58"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 19:24:11"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 19:24:11"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 19:24:16"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 19:24:16"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 19:24:37"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 19:24:37"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 19:24:51"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 19:24:51"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 19:25:09"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 19:25:09"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 19:25:13"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 19:25:13"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 19:25:17"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 19:25:17"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 19:25:20"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 19:25:20"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 19:25:45"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 19:26:13"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 19:26:13"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 19:26:15"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 19:26:15"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 19:47:22"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 19:47:22"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 19:48:55"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 19:48:55"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 19:49:46"}
+{"level":"info","message":{"body":{"invertor":{"address":"Provincial 101","dni":"62.688.636-K","email":"Quispeabadquispe@gmail.com","maternallastname":"Huamani","name":"Alexander","paternallastname":"montero","phone":"957902342"},"investment":{"amount":520000,"enddate":"26/08/2024","interests":67600,"monthpay":"AGOSTO","months":"12","proyect":"Suyay","registrationdate":"26/08/2023","retention":3380,"returnpercentage":"13","subtotal":587600,"total":584220}},"method":"POST","params":"","query":"","url":"/api/investment/create"},"timestamp":"2023-08-26 19:58:18"}
+{"level":"info","message":{"error":{"address":"Provincial 101","dni":"62.688.636-K","email":"Quispeabadquispe@gmail.com","id":"0354a803-d2ea-465e-94ea-1953072b32e8","maternallastname":"Huamani","name":"Alexander","paternallastname":"montero","phone":"957902342"},"model":"person/create"},"timestamp":"2023-08-26 19:58:18"}
+{"level":"info","message":{"error":{"amount":"520000","enddate":"26/08/2024","id":"8e489a32-e0a6-47ed-a40f-a7832fbe00ba","interests":"67600","monthpay":"AGOSTO","months":"12","proyect":"Suyay","registrationdate":"26/08/2023","retention":"3380","returnpercentage":"13","state":"Caducado","subtotal":"587600","total":"584220"},"model":"person/create"},"timestamp":"2023-08-26 19:58:18"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 19:58:24"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 19:58:24"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 20:27:42"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 20:27:42"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 20:27:46"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 20:27:46"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-26 23:05:12"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-26 23:05:12"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 23:23:42"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 23:23:42"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 23:23:57"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 23:23:57"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 23:25:14"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 23:25:14"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 23:32:30"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 23:32:30"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 23:39:10"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 23:39:10"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 23:46:09"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 23:46:09"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 23:46:12"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 23:46:12"}
+{"level":"info","message":{"body":{"invertor":{"address":"Provincial 101","dni":"26.648.001-8","email":"quispeabadquispe@gmail.com","maternallastname":"Huamani","name":"Matias","paternallastname":"Quispe","phone":"957902342"},"investment":{"amount":150000,"enddate":"26/11/2024","interests":30000,"monthpay":"NOVIEMBRE","months":"15","proyect":"Sabandia","registrationdate":"26/08/2023","retention":1500,"returnpercentage":"20","subtotal":180000,"total":178500}},"method":"POST","params":"","query":"","url":"/api/investment/create"},"timestamp":"2023-08-26 23:50:43"}
+{"level":"info","message":{"error":{"address":"Provincial 101","dni":"26.648.001-8","email":"quispeabadquispe@gmail.com","id":"ddffaf06-2cb1-4b62-95ed-731ae0bfd3e4","maternallastname":"Huamani","name":"Matias","paternallastname":"Quispe","phone":"957902342"},"model":"person/create"},"timestamp":"2023-08-26 23:50:43"}
+{"level":"info","message":{"error":{"amount":"150000","enddate":"26/11/2024","id":"deea3c43-267a-49be-9397-83cd3e438a49","interests":"30000","monthpay":"NOVIEMBRE","months":"15","proyect":"Sabandia","registrationdate":"26/08/2023","retention":"1500","returnpercentage":"20","state":"Caducado","subtotal":"180000","total":"178500"},"model":"person/create"},"timestamp":"2023-08-26 23:50:43"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 23:50:48"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 23:50:48"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 23:50:54"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 23:50:54"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 23:51:01"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 23:51:01"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 23:55:48"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 23:55:48"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 23:56:24"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 23:56:24"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 23:59:03"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-26 23:59:03"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 00:20:28"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 00:20:28"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 00:47:06"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 00:47:06"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 00:47:26"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 00:47:26"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 00:47:36"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 00:47:36"}
+{"level":"info","message":{"body":{"invertor":{"address":"Miraflores 11","dni":"11.111.111-K","email":"AlonzoPeralta@gmail.com","maternallastname":"Caceres","name":"Alonzo Macario","paternallastname":"Peralta","phone":"957902342"},"investment":{"amount":11000,"enddate":"26/08/2024","interests":2200,"monthpay":"AGOSTO","months":"12","proyect":"ninguno","registrationdate":"26/08/2023","retention":110,"returnpercentage":"20","subtotal":13200,"total":13090}},"method":"POST","params":"","query":"","url":"/api/investment/create"},"timestamp":"2023-08-27 00:53:18"}
+{"level":"info","message":{"error":{"address":"Miraflores 11","dni":"11.111.111-K","email":"AlonzoPeralta@gmail.com","id":"84692bd9-3f35-4619-aadd-ebfdb8261739","maternallastname":"Caceres","name":"Alonzo Macario","paternallastname":"Peralta","phone":"957902342"},"model":"person/create"},"timestamp":"2023-08-27 00:53:18"}
+{"level":"info","message":{"error":{"amount":"11000","enddate":"26/08/2024","id":"3e7a99b7-c385-4ba9-b0b2-2279a02e4ba2","interests":"2200","monthpay":"AGOSTO","months":"12","proyect":"ninguno","registrationdate":"26/08/2023","retention":"110","returnpercentage":"20","state":"Caducado","subtotal":"13200","total":"13090"},"model":"person/create"},"timestamp":"2023-08-27 00:53:18"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 00:53:21"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 00:53:21"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 00:53:31"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 00:53:31"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-27 00:53:51"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-27 00:53:51"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 00:53:58"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 00:53:58"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 00:54:14"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 00:54:14"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 00:56:40"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 00:56:40"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:00:49"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:00:49"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:01:19"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:01:19"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:03:08"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:03:09"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:04:16"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:04:16"}
+{"level":"info","message":{"body":{"invertor":{"address":"Miraflores 11","dni":"11.111.111-K","email":"AlonzoPeralta@gmail.com","maternallastname":"Caceres","name":"Alonzo Macario","paternallastname":"Peralta","phone":"957902342"},"investment":{"amount":26880,"enddate":"27/08/2024","interests":8064,"monthpay":"AGOSTO","months":"12","proyect":"ninguno","registrationdate":"27/08/2023","retention":403.2,"returnpercentage":"30","subtotal":34944,"total":34540.8}},"method":"POST","params":"","query":"","url":"/api/investment/create"},"timestamp":"2023-08-27 01:06:07"}
+{"level":"info","message":{"error":{"address":"Miraflores 11","dni":"11.111.111-K","email":"AlonzoPeralta@gmail.com","id":"84692bd9-3f35-4619-aadd-ebfdb8261739","maternallastname":"Caceres","name":"Alonzo Macario","paternallastname":"Peralta","phone":"957902342"},"model":"person/create"},"timestamp":"2023-08-27 01:06:07"}
+{"level":"info","message":{"error":{"amount":"26880","enddate":"27/08/2024","id":"3899dee7-43ca-4cdc-b63a-891694b09120","interests":"8064","monthpay":"AGOSTO","months":"12","proyect":"ninguno","registrationdate":"27/08/2023","retention":"403.2","returnpercentage":"30","state":"Vigente","subtotal":"34944","total":"34540.8"},"model":"person/create"},"timestamp":"2023-08-27 01:06:07"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:06:11"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:06:11"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:15:59"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:15:59"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-08-27 01:17:36"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-08-27 01:17:36"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:19:06"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:20:56"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:20:56"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:21:16"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:21:17"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:21:17"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:22:04"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:22:06"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:22:06"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:22:12"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:22:13"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:22:13"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:22:33"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:22:34"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:22:34"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:22:54"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:22:54"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:23:02"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:23:03"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:24:42"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:24:42"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:24:43"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:24:51"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:24:53"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:24:53"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:24:55"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:25:01"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:25:01"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:31:30"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:31:30"}
+{"level":"info","message":{"body":{"invertor":{"address":"Provincial 101","dni":"96998684-1","email":"CristobalOcoruro@gmail.com","maternallastname":"Flores","name":"Cristobal","paternallastname":"Ocoruro","phone":"963258741"},"investment":{"amount":84630,"enddate":"27/08/2024","interests":25389,"monthpay":"AGOSTO","months":"12","proyect":"ninguno","registrationdate":"27/08/2023","retention":1269.45,"returnpercentage":"30","subtotal":110019,"total":108749.55}},"method":"POST","params":"","query":"","url":"/api/investment/create"},"timestamp":"2023-08-27 01:34:14"}
+{"level":"info","message":{"error":{"address":"Provincial 101","dni":"96998684-1","email":"CristobalOcoruro@gmail.com","id":"3b9b73f0-1bf8-40ce-ba57-fa1e684c9737","maternallastname":"Flores","name":"Cristobal","paternallastname":"Ocoruro","phone":"963258741"},"model":"person/create"},"timestamp":"2023-08-27 01:34:14"}
+{"level":"info","message":{"error":{"amount":"84630","enddate":"27/08/2024","id":"d91b821f-be16-4b79-964f-8c2374dc4755","interests":"25389","monthpay":"AGOSTO","months":"12","proyect":"ninguno","registrationdate":"27/08/2023","retention":"1269.45","returnpercentage":"30","state":"Caducado","subtotal":"110019","total":"108749.55"},"model":"person/create"},"timestamp":"2023-08-27 01:34:14"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:34:18"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:34:18"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:41:10"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:41:10"}
+{"level":"info","message":{"body":{"invertor":{"address":"Provincial 101","dni":"96998684-1","email":"CristobalOcoruro@gmail.com","maternallastname":"Flores","name":"Cristobal","paternallastname":"Ocoruro","phone":"957902342"},"investment":{"amount":15000,"enddate":"27/08/2024","interests":4500,"monthpay":"AGOSTO","months":"12","proyect":"ninguno","registrationdate":"27/08/2023","retention":225,"returnpercentage":"30","subtotal":19500,"total":19275}},"method":"POST","params":"","query":"","url":"/api/investment/create"},"timestamp":"2023-08-27 01:43:07"}
+{"level":"info","message":{"error":{"address":"Provincial 101","dni":"96998684-1","email":"CristobalOcoruro@gmail.com","id":"3b9b73f0-1bf8-40ce-ba57-fa1e684c9737","maternallastname":"Flores","name":"Cristobal","paternallastname":"Ocoruro","phone":"957902342"},"model":"person/create"},"timestamp":"2023-08-27 01:43:07"}
+{"level":"info","message":{"error":{"amount":"15000","enddate":"27/08/2024","id":"199d3b97-c116-411d-8ff1-af50e194db58","interests":"4500","monthpay":"AGOSTO","months":"12","proyect":"ninguno","registrationdate":"27/08/2023","retention":"225","returnpercentage":"30","state":"Caducado","subtotal":"19500","total":"19275"},"model":"person/create"},"timestamp":"2023-08-27 01:43:07"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:44:39"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:44:39"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:44:42"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:44:42"}
+{"level":"info","message":{"body":{"invertor":{"address":"San Lorenzo","dni":"91188323-6","email":"KarolFatima@gmail.com","maternallastname":"Marin","name":"Karol Fatima","paternallastname":"Pizarro","phone":"957902342"},"investment":{"amount":10000,"enddate":"27/08/2024","interests":2000,"monthpay":"AGOSTO","months":"12","proyect":"ninguno","registrationdate":"27/08/2023","retention":100,"returnpercentage":"20","subtotal":12000,"total":11900}},"method":"POST","params":"","query":"","url":"/api/investment/create"},"timestamp":"2023-08-27 01:47:03"}
+{"level":"info","message":{"error":{"address":"San Lorenzo","dni":"91188323-6","email":"KarolFatima@gmail.com","id":"3a780a3c-a6c0-4faf-b259-e96bb940962f","maternallastname":"Marin","name":"Karol Fatima","paternallastname":"Pizarro","phone":"957902342"},"model":"person/create"},"timestamp":"2023-08-27 01:47:03"}
+{"level":"info","message":{"error":{"amount":"10000","enddate":"27/08/2024","id":"f77b123c-3acd-4823-b721-b20611a71fe3","interests":"2000","monthpay":"AGOSTO","months":"12","proyect":"ninguno","registrationdate":"27/08/2023","retention":"100","returnpercentage":"20","state":"Caducado","subtotal":"12000","total":"11900"},"model":"person/create"},"timestamp":"2023-08-27 01:47:03"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:48:30"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-08-27 01:48:30"}

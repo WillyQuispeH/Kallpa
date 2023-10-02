@@ -14,6 +14,7 @@ const dataFormInvestor = {
   amount: { value: "", isValid: true },
   registrationdate: {
     value: format(new Date(), "dd/MM/yyyy"),
+
     isValid: true,
   },
   months: { value: "", isValid: true },

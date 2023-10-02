@@ -18,12 +18,6 @@ const menuOpcion = [
         text: "Lista de inversion",
         path: "/investments/investorsList",
       },
-
-      {
-        name: "investment",
-        text: "Ultima inversion revisada",
-        path: "/investments/investment",
-      },
     ],
   },
 
@@ -36,70 +30,70 @@ const menuOpcion = [
         text: "Lista de proyectos",
         path: "/proyect/proyect",
       },
-      {
-        name: "factoryOutlet",
-        text: "Salida de fábrica",
-        path: "/proyect/factoryOutlet",
-      },
-      {
-        name: "pickupTruckReview",
-        text: "Revisión en camioneta",
-        path: "/workflow/pickupTruckReview",
-      },
-      {
-        name: "dispatch",
-        text: "Despacho",
-        path: "/workflow/dispatch",
-      },
-      {
-        name: "customerDelivery",
-        text: "Entrega al cliente",
-        path: "/workflow/customerDelivery",
-      },
+      // {
+      //   name: "factoryOutlet",
+      //   text: "Salida de fábrica",
+      //   path: "/proyect/factoryOutlet",
+      // },
+      // {
+      //   name: "pickupTruckReview",
+      //   text: "Revisión en camioneta",
+      //   path: "/workflow/pickupTruckReview",
+      // },
+      // {
+      //   name: "dispatch",
+      //   text: "Despacho",
+      //   path: "/workflow/dispatch",
+      // },
+      // {
+      //   name: "customerDelivery",
+      //   text: "Entrega al cliente",
+      //   path: "/workflow/customerDelivery",
+      // },
     ],
   },
-  {
-    sectionName: "processes",
-    sectionText: "Procesos",
-    options: [
-      {
-        name: "specialOrders",
-        text: "Pedidos especiales",
-        path: "/processes/specialOrders",
-      },
-      {
-        name: "surplusrecord",
-        text: "Registro de sobrantes",
-        path: "/processes/surplusrecord",
-      },
-      {
-        name: "stockReview",
-        text: "Revisión de Stock",
-        path: "/processes/stockReview",
-      },
-    ],
-  },
-  {
-    sectionName: "processes",
-    sectionText: "Procesos",
-    options: [
-      {
-        name: "specialOrders",
-        text: "Pedidos especiales",
-        path: "/processes/specialOrders",
-      },
-      {
-        name: "surplusrecord",
-        text: "Registro de sobrantes",
-        path: "/processes/surplusrecord",
-      },
-      {
-        name: "stockReview",
-        text: "Revisión de Stock",
-        path: "/processes/stockReview",
-      },
-    ],
-  },
+  // {
+  //   sectionName: "processes",
+  //   sectionText: "Procesos",
+  //   options: [
+  //     {
+  //       name: "specialOrders",
+  //       text: "Pedidos especiales",
+  //       path: "/processes/specialOrders",
+  //     },
+  //     {
+  //       name: "surplusrecord",
+  //       text: "Registro de sobrantes",
+  //       path: "/processes/surplusrecord",
+  //     },
+  //     {
+  //       name: "stockReview",
+  //       text: "Revisión de Stock",
+  //       path: "/processes/stockReview",
+  //     },
+  //   ],
+  // },
+  // {
+  //   sectionName: "processes",
+  //   sectionText: "Procesos",
+  //   options: [
+  //     {
+  //       name: "specialOrders",
+  //       text: "Pedidos especiales",
+  //       path: "/processes/specialOrders",
+  //     },
+  //     {
+  //       name: "surplusrecord",
+  //       text: "Registro de sobrantes",
+  //       path: "/processes/surplusrecord",
+  //     },
+  //     {
+  //       name: "stockReview",
+  //       text: "Revisión de Stock",
+  //       path: "/processes/stockReview",
+  //     },
+  //   ],
+  // },
 ];
 
 const menuOpcionAdmin = [
@@ -122,12 +116,6 @@ const menuOpcionAdmin = [
         text: "Lista de inversion",
         path: "/investments/investorsList",
       },
-
-      {
-        name: "investment",
-        text: "Ultima inversion revisada",
-        path: "/investments/investment",
-      },
     ],
   },
 
@@ -142,28 +130,28 @@ const menuOpcionAdmin = [
       },
     ],
   },
-  {
-    sectionName: "processes",
-    sectionText: "Procesos",
-    options: [
-      {
-        name: "specialOrders",
-        text: "Pedidos especiales",
-        path: "/processes/specialOrders",
-      },
-    ],
-  },
-  {
-    sectionName: "processes",
-    sectionText: "Procesos",
-    options: [
-      {
-        name: "specialOrders",
-        text: "Pedidos especiales",
-        path: "/processes/specialOrders",
-      },
-    ],
-  },
+  // {
+  //   sectionName: "processes",
+  //   sectionText: "Procesos",
+  //   options: [
+  //     {
+  //       name: "specialOrders",
+  //       text: "Pedidos especiales",
+  //       path: "/processes/specialOrders",
+  //     },
+  //   ],
+  // },
+  // {
+  //   sectionName: "processes",
+  //   sectionText: "Procesos",
+  //   options: [
+  //     {
+  //       name: "specialOrders",
+  //       text: "Pedidos especiales",
+  //       path: "/processes/specialOrders",
+  //     },
+  //   ],
+  // },
 ];
 
 export { menuOpcion, menuOpcionAdmin };

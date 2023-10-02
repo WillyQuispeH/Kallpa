@@ -1,0 +1,254 @@
+{"level":"info","message":{"error":{"address":"Condor117","dni":"93990056-k","email":"kallpa@gmail.com","id":"bb2fe748-e60f-4a1b-a4b3-aec5afbd742d","maternallastname":" HUARCUSI","name":"EDGAR JESUS ","paternallastname":"SEVILLANO","phone":"957902342"},"model":"person/create"},"timestamp":"2023-09-25 00:32:42"}
+{"level":"info","message":{"error":{"amount":"100000","enddate":"04/11/2023","id":"82bcd025-b6db-408b-b1ed-9cf915633e7b","interests":"55000","monthpay":"NOVIEMBRE","months":"24","proyect":"Tarpuy","registrationdate":"04/11/2021","retention":"2750","returnpercentage":"55","state":"Vigente","subtotal":"155000","total":"152250"},"model":"person/create"},"timestamp":"2023-09-25 00:32:42"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 00:32:45"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 00:32:46"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-09-25 00:32:47"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-09-25 00:32:47"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-25 00:34:34"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-25 00:34:35"}
+{"level":"info","message":{"body":{"invertor":{"address":"Condor117","dni":"91887948-k","email":"kallpa@gmail.com","maternallastname":" MAQUITO","name":"LIPSON YASMANI ","paternallastname":"SARAYASI","phone":"957902342"},"investment":{"amount":10000,"enddate":"23/11/2023","interests":5500,"monthpay":"NOVIEMBRE","months":"24","proyect":"Tarpuy","registrationdate":"23/11/2021","retention":275,"returnpercentage":"55","subtotal":15500,"total":15225}},"method":"POST","params":"","query":"","url":"/investment/create"},"timestamp":"2023-09-25 00:34:37"}
+{"level":"info","message":{"error":{"address":"Condor117","dni":"91887948-k","email":"kallpa@gmail.com","id":"cded9230-ca1d-4dbe-8dd7-b277aaeb3824","maternallastname":" MAQUITO","name":"LIPSON YASMANI ","paternallastname":"SARAYASI","phone":"957902342"},"model":"person/create"},"timestamp":"2023-09-25 00:34:37"}
+{"level":"info","message":{"error":{"amount":"10000","enddate":"23/11/2023","id":"06dded2f-22c3-4ba4-9d88-220d5c6227bd","interests":"5500","monthpay":"NOVIEMBRE","months":"24","proyect":"Tarpuy","registrationdate":"23/11/2021","retention":"275","returnpercentage":"55","state":"Vigente","subtotal":"15500","total":"15225"},"model":"person/create"},"timestamp":"2023-09-25 00:34:37"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 00:34:38"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 00:34:38"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-09-25 00:34:40"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-09-25 00:34:40"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-25 00:35:10"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-25 00:35:11"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/person/getByDni/90324023-7"},"timestamp":"2023-09-25 00:35:15"}
+{"level":"info","message":{"data":{"address":"Condor117","dni":"90324023-7","email":"kallpa@gmail.com","id":"58afc6af-4b07-41ed-bf4d-037b664377c4","maternallastname":" QUISPE","name":"DINA MARTINA","paternallastname":"CACERES","phone":"957902342"},"model":"person/getByDni"},"timestamp":"2023-09-25 00:35:15"}
+{"level":"info","message":{"body":{"invertor":{"address":"Condor117","dni":"90324023-7","email":"kallpa@gmail.com","maternallastname":" QUISPE","name":"DINA MARTINA","paternallastname":"CACERES","phone":"957902342"},"investment":{"amount":10000,"enddate":"11/05/2023","interests":3000,"monthpay":"MAYO","months":"12","proyect":"Tarpuy","registrationdate":"11/05/2022","retention":150,"returnpercentage":"30","subtotal":13000,"total":12850}},"method":"POST","params":"","query":"","url":"/investment/create"},"timestamp":"2023-09-25 00:36:11"}
+{"level":"info","message":{"error":{"address":"Condor117","dni":"90324023-7","email":"kallpa@gmail.com","id":"58afc6af-4b07-41ed-bf4d-037b664377c4","maternallastname":" QUISPE","name":"DINA MARTINA","paternallastname":"CACERES","phone":"957902342"},"model":"person/create"},"timestamp":"2023-09-25 00:36:12"}
+{"level":"info","message":{"error":{"amount":"10000","enddate":"11/05/2023","id":"883656e1-a9d6-4d94-acef-112803f5a027","interests":"3000","monthpay":"MAYO","months":"12","proyect":"Tarpuy","registrationdate":"11/05/2022","retention":"150","returnpercentage":"30","state":"Vigente","subtotal":"13000","total":"12850"},"model":"person/create"},"timestamp":"2023-09-25 00:36:12"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 00:36:14"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 00:36:14"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-09-25 00:36:15"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-09-25 00:36:15"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/person/getByDni/96248782-3"},"timestamp":"2023-09-25 00:36:44"}
+{"level":"info","message":{"data":null,"model":"person/getByDni"},"timestamp":"2023-09-25 00:36:45"}
+{"level":"info","message":{"body":{"invertor":{"address":"Condor117","dni":"96248782-3","email":"kallpa@gmail.com","maternallastname":"CARDENAS","name":"ALFONSO LUIYI","paternallastname":"RANILLA ","phone":"957902342"},"investment":{"amount":10000,"enddate":"21/01/2023","interests":3000,"monthpay":"ENERO","months":"12","proyect":"Tarpuy","registrationdate":"21/01/2022","retention":150,"returnpercentage":"30","subtotal":13000,"total":12850}},"method":"POST","params":"","query":"","url":"/investment/create"},"timestamp":"2023-09-25 00:37:31"}
+{"level":"info","message":{"error":{"address":"Condor117","dni":"96248782-3","email":"kallpa@gmail.com","id":"2c8fc22e-7171-4b2c-a943-f5c147e792d2","maternallastname":"CARDENAS","name":"ALFONSO LUIYI","paternallastname":"RANILLA ","phone":"957902342"},"model":"person/create"},"timestamp":"2023-09-25 00:37:32"}
+{"level":"info","message":{"error":{"amount":"10000","enddate":"21/01/2023","id":"117ab862-7f16-4ddf-aef3-7a1c4cd5d0cf","interests":"3000","monthpay":"ENERO","months":"12","proyect":"Tarpuy","registrationdate":"21/01/2022","retention":"150","returnpercentage":"30","state":"Vigente","subtotal":"13000","total":"12850"},"model":"person/create"},"timestamp":"2023-09-25 00:37:32"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 00:37:33"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 00:37:33"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-09-25 00:37:34"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-09-25 00:37:34"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/person/getByDni/91550351-9"},"timestamp":"2023-09-25 00:37:48"}
+{"level":"info","message":{"data":null,"model":"person/getByDni"},"timestamp":"2023-09-25 00:37:49"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/person/getByDni/91550351-9"},"timestamp":"2023-09-25 00:37:55"}
+{"level":"info","message":{"data":null,"model":"person/getByDni"},"timestamp":"2023-09-25 00:37:55"}
+{"level":"info","message":{"body":{"invertor":{"address":"Condor117","dni":"91550351-9","email":"kallpa@gmail.com","maternallastname":"GUZMAN","name":"MARIA ANTONIETA","paternallastname":"CHALCO ","phone":"957902342"},"investment":{"amount":10000,"enddate":"21/07/2022","interests":1500,"monthpay":"JULIO","months":"6","proyect":"Tarpuy","registrationdate":"21/01/2022","retention":75,"returnpercentage":"15","subtotal":11500,"total":11425}},"method":"POST","params":"","query":"","url":"/investment/create"},"timestamp":"2023-09-25 00:39:56"}
+{"level":"info","message":{"error":{"address":"Condor117","dni":"91550351-9","email":"kallpa@gmail.com","id":"9c5ddb2d-2b1a-419b-aeed-368c63f19e19","maternallastname":"GUZMAN","name":"MARIA ANTONIETA","paternallastname":"CHALCO ","phone":"957902342"},"model":"person/create"},"timestamp":"2023-09-25 00:39:57"}
+{"level":"info","message":{"error":{"amount":"10000","enddate":"21/07/2022","id":"c821e023-9b75-475b-9874-c072701ddc10","interests":"1500","monthpay":"JULIO","months":"6","proyect":"Tarpuy","registrationdate":"21/01/2022","retention":"75","returnpercentage":"15","state":"Vigente","subtotal":"11500","total":"11425"},"model":"person/create"},"timestamp":"2023-09-25 00:39:57"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 00:39:59"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 00:40:00"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-09-25 00:40:00"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-09-25 00:40:00"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/person/getByDni/90790015-0"},"timestamp":"2023-09-25 00:40:18"}
+{"level":"info","message":{"data":null,"model":"person/getByDni"},"timestamp":"2023-09-25 00:40:19"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/person/getByDni/90790015-0"},"timestamp":"2023-09-25 00:40:21"}
+{"level":"info","message":{"data":null,"model":"person/getByDni"},"timestamp":"2023-09-25 00:40:22"}
+{"level":"info","message":{"body":{"invertor":{"address":"Condor117","dni":"90790015-0","email":"kallpa@gmail.com","maternallastname":" HUAMANI","name":"REMY ABEL","paternallastname":" QUISPE","phone":"957902342"},"investment":{"amount":36000,"enddate":"08/05/2023","interests":7200,"monthpay":"MAYO","months":"12","proyect":"Tarpuy","registrationdate":"08/05/2022","retention":360,"returnpercentage":"20","subtotal":43200,"total":42840}},"method":"POST","params":"","query":"","url":"/investment/create"},"timestamp":"2023-09-25 00:41:21"}
+{"level":"info","message":{"error":{"address":"Condor117","dni":"90790015-0","email":"kallpa@gmail.com","id":"d4db9b1e-6ba8-4e71-91e8-1486961b595b","maternallastname":" HUAMANI","name":"REMY ABEL","paternallastname":" QUISPE","phone":"957902342"},"model":"person/create"},"timestamp":"2023-09-25 00:41:22"}
+{"level":"info","message":{"error":{"amount":"36000","enddate":"08/05/2023","id":"930847d8-c352-4864-a2be-e95398c0e847","interests":"7200","monthpay":"MAYO","months":"12","proyect":"Tarpuy","registrationdate":"08/05/2022","retention":"360","returnpercentage":"20","state":"Vigente","subtotal":"43200","total":"42840"},"model":"person/create"},"timestamp":"2023-09-25 00:41:22"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 00:41:23"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 00:41:23"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-09-25 00:41:24"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-09-25 00:41:24"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/person/getByDni/96801701-2"},"timestamp":"2023-09-25 00:41:59"}
+{"level":"info","message":{"data":null,"model":"person/getByDni"},"timestamp":"2023-09-25 00:42:00"}
+{"level":"info","message":{"body":{"invertor":{"address":"Condor117","dni":"96801701-2","email":"kallpa@gmail.com","maternallastname":" CAHUANA","name":"MARLENI SOLEDAD ","paternallastname":"OVIEDO","phone":"957902342"},"investment":{"amount":39000,"enddate":"08/05/2023","interests":11700,"monthpay":"MAYO","months":"12","proyect":"Tarpuy","registrationdate":"08/05/2022","retention":585,"returnpercentage":"30","subtotal":50700,"total":50115}},"method":"POST","params":"","query":"","url":"/investment/create"},"timestamp":"2023-09-25 00:43:02"}
+{"level":"info","message":{"error":{"address":"Condor117","dni":"96801701-2","email":"kallpa@gmail.com","id":"b3ce432c-43d3-4b1d-a629-c19c838acade","maternallastname":" CAHUANA","name":"MARLENI SOLEDAD ","paternallastname":"OVIEDO","phone":"957902342"},"model":"person/create"},"timestamp":"2023-09-25 00:43:03"}
+{"level":"info","message":{"error":{"amount":"39000","enddate":"08/05/2023","id":"818f4aa6-15d3-4c97-a1a9-aab83f73993f","interests":"11700","monthpay":"MAYO","months":"12","proyect":"Tarpuy","registrationdate":"08/05/2022","retention":"585","returnpercentage":"30","state":"Vigente","subtotal":"50700","total":"50115"},"model":"person/create"},"timestamp":"2023-09-25 00:43:03"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 00:43:04"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 00:43:04"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-09-25 00:43:05"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-09-25 00:43:05"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/person/getByDni/93229427-3"},"timestamp":"2023-09-25 00:43:26"}
+{"level":"info","message":{"data":null,"model":"person/getByDni"},"timestamp":"2023-09-25 00:43:27"}
+{"level":"info","message":{"body":{"invertor":{"address":"Condor117","dni":"93229427-3","email":"kallpa@gmail.com","maternallastname":" TACO","name":"HECTOR DAVID","paternallastname":"QUISPE","phone":"957902342"},"investment":{"amount":55000,"enddate":"17/05/2023","interests":16500,"monthpay":"MAYO","months":"12","proyect":"Tarpuy","registrationdate":"17/05/2022","retention":825,"returnpercentage":"30","subtotal":71500,"total":70675}},"method":"POST","params":"","query":"","url":"/investment/create"},"timestamp":"2023-09-25 00:44:04"}
+{"level":"info","message":{"error":{"address":"Condor117","dni":"93229427-3","email":"kallpa@gmail.com","id":"64429803-2d59-43c0-9e43-2dd31eef083f","maternallastname":" TACO","name":"HECTOR DAVID","paternallastname":"QUISPE","phone":"957902342"},"model":"person/create"},"timestamp":"2023-09-25 00:44:05"}
+{"level":"info","message":{"error":{"amount":"55000","enddate":"17/05/2023","id":"a9ed48e2-1b15-489d-97e7-9120583735cc","interests":"16500","monthpay":"MAYO","months":"12","proyect":"Tarpuy","registrationdate":"17/05/2022","retention":"825","returnpercentage":"30","state":"Vigente","subtotal":"71500","total":"70675"},"model":"person/create"},"timestamp":"2023-09-25 00:44:06"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 00:44:06"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 00:44:07"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-09-25 00:44:07"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-09-25 00:44:07"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/person/getByDni/97588554-2"},"timestamp":"2023-09-25 00:44:24"}
+{"level":"info","message":{"data":null,"model":"person/getByDni"},"timestamp":"2023-09-25 00:44:25"}
+{"level":"info","message":{"body":{"invertor":{"address":"Condor117","dni":"97588554-2","email":"kallpa@gmail.com","maternallastname":"VIUDA ","name":"HAÑARY MARIA","paternallastname":"CATACORA ","phone":"957902342"},"investment":{"amount":50000,"enddate":"23/08/2023","interests":15000,"monthpay":"AGOSTO","months":"12","proyect":"Tarpuy","registrationdate":"23/08/2022","retention":750,"returnpercentage":"30","subtotal":65000,"total":64250}},"method":"POST","params":"","query":"","url":"/investment/create"},"timestamp":"2023-09-25 00:45:27"}
+{"level":"info","message":{"error":{"address":"Condor117","dni":"97588554-2","email":"kallpa@gmail.com","id":"a9d9bd30-f639-42a5-947f-8e199a1caa06","maternallastname":"VIUDA ","name":"HAÑARY MARIA","paternallastname":"CATACORA ","phone":"957902342"},"model":"person/create"},"timestamp":"2023-09-25 00:45:28"}
+{"level":"info","message":{"error":{"amount":"50000","enddate":"23/08/2023","id":"66b3682a-7cb9-44ab-86f2-8e83703458fb","interests":"15000","monthpay":"AGOSTO","months":"12","proyect":"Tarpuy","registrationdate":"23/08/2022","retention":"750","returnpercentage":"30","state":"Vigente","subtotal":"65000","total":"64250"},"model":"person/create"},"timestamp":"2023-09-25 00:45:28"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 00:45:30"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 00:45:30"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-09-25 00:45:30"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-09-25 00:45:31"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/person/getByDni/97588554-2"},"timestamp":"2023-09-25 00:46:00"}
+{"level":"info","message":{"data":{"address":"Condor117","dni":"97588554-2","email":"kallpa@gmail.com","id":"a9d9bd30-f639-42a5-947f-8e199a1caa06","maternallastname":"VIUDA ","name":"HAÑARY MARIA","paternallastname":"CATACORA ","phone":"957902342"},"model":"person/getByDni"},"timestamp":"2023-09-25 00:46:01"}
+{"level":"info","message":{"body":{"invertor":{"address":"Condor117","dni":"97588554-2","email":"kallpa@gmail.com","maternallastname":"VIUDA ","name":"HAÑARY MARIA","paternallastname":"CATACORA ","phone":"957902342"},"investment":{"amount":20000,"enddate":"19/09/2023","interests":6000,"monthpay":"SEPTIEMBRE","months":"12","proyect":"Sabandia","registrationdate":"19/09/2022","retention":300,"returnpercentage":"30","subtotal":26000,"total":25700}},"method":"POST","params":"","query":"","url":"/investment/create"},"timestamp":"2023-09-25 00:46:34"}
+{"level":"info","message":{"error":{"address":"Condor117","dni":"97588554-2","email":"kallpa@gmail.com","id":"a9d9bd30-f639-42a5-947f-8e199a1caa06","maternallastname":"VIUDA ","name":"HAÑARY MARIA","paternallastname":"CATACORA ","phone":"957902342"},"model":"person/create"},"timestamp":"2023-09-25 00:46:35"}
+{"level":"info","message":{"error":{"amount":"20000","enddate":"19/09/2023","id":"1bda8ee4-8adc-4d0e-8b1e-b452a26d1803","interests":"6000","monthpay":"SEPTIEMBRE","months":"12","proyect":"Sabandia","registrationdate":"19/09/2022","retention":"300","returnpercentage":"30","state":"Vigente","subtotal":"26000","total":"25700"},"model":"person/create"},"timestamp":"2023-09-25 00:46:35"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 00:46:37"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 00:46:37"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-09-25 00:46:38"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-09-25 00:46:38"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/person/getByDni/96172744-8"},"timestamp":"2023-09-25 00:46:53"}
+{"level":"info","message":{"data":null,"model":"person/getByDni"},"timestamp":"2023-09-25 00:46:54"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/person/getByDni/96172744-8"},"timestamp":"2023-09-25 00:47:38"}
+{"level":"info","message":{"data":null,"model":"person/getByDni"},"timestamp":"2023-09-25 00:47:39"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/person/getByDni/96172744-8"},"timestamp":"2023-09-25 00:47:44"}
+{"level":"info","message":{"data":null,"model":"person/getByDni"},"timestamp":"2023-09-25 00:47:45"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/person/getByDni/96172744-8"},"timestamp":"2023-09-25 00:47:46"}
+{"level":"info","message":{"body":{"invertor":{"address":"Condor117","dni":"96172744-8","email":"kallpa@gmail.com","maternallastname":" LAZARO ","name":"MIRIAN","paternallastname":"CACERES","phone":"957902342"},"investment":{"amount":25000,"enddate":"08/09/2023","interests":6250,"monthpay":"SEPTIEMBRE","months":"12","proyect":"Tarpuy","registrationdate":"08/09/2022","retention":312.5,"returnpercentage":"25","subtotal":31250,"total":30937.5}},"method":"POST","params":"","query":"","url":"/investment/create"},"timestamp":"2023-09-25 00:47:46"}
+{"level":"info","message":{"data":null,"model":"person/getByDni"},"timestamp":"2023-09-25 00:47:46"}
+{"level":"info","message":{"error":{"address":"Condor117","dni":"96172744-8","email":"kallpa@gmail.com","id":"a63476a3-798f-4486-b80f-8c0e3ecaa58a","maternallastname":" LAZARO ","name":"MIRIAN","paternallastname":"CACERES","phone":"957902342"},"model":"person/create"},"timestamp":"2023-09-25 00:47:47"}
+{"level":"info","message":{"error":{"amount":"25000","enddate":"08/09/2023","id":"8aba9ef1-e97d-4856-9667-4b50e98f3da1","interests":"6250","monthpay":"SEPTIEMBRE","months":"12","proyect":"Tarpuy","registrationdate":"08/09/2022","retention":"312.5","returnpercentage":"25","state":"Vigente","subtotal":"31250","total":"30937.5"},"model":"person/create"},"timestamp":"2023-09-25 00:47:47"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 00:48:01"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 00:48:02"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-09-25 00:48:04"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-09-25 00:48:04"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/person/getByDni/99576695-7"},"timestamp":"2023-09-25 00:48:11"}
+{"level":"info","message":{"data":null,"model":"person/getByDni"},"timestamp":"2023-09-25 00:48:11"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/person/getByDni/99576695-7"},"timestamp":"2023-09-25 00:48:14"}
+{"level":"info","message":{"data":null,"model":"person/getByDni"},"timestamp":"2023-09-25 00:48:14"}
+{"level":"info","message":{"body":{"invertor":{"address":"Condor117","dni":"99576695-7","email":"kallpa@gmail.com","maternallastname":"TRIVEÑOS","name":"DESARANAYHUA  ","paternallastname":"NOA ","phone":"957902342"},"investment":{"amount":20000,"enddate":"06/09/2023","interests":5000,"monthpay":"SEPTIEMBRE","months":"12","proyect":"Tarpuy","registrationdate":"06/09/2022","retention":250,"returnpercentage":"25","subtotal":25000,"total":24750}},"method":"POST","params":"","query":"","url":"/investment/create"},"timestamp":"2023-09-25 00:48:57"}
+{"level":"info","message":{"error":{"address":"Condor117","dni":"99576695-7","email":"kallpa@gmail.com","id":"1511c0f0-a34b-47a7-aa8a-fa4d99cc4337","maternallastname":"TRIVEÑOS","name":"DESARANAYHUA  ","paternallastname":"NOA ","phone":"957902342"},"model":"person/create"},"timestamp":"2023-09-25 00:48:58"}
+{"level":"info","message":{"error":{"amount":"20000","enddate":"06/09/2023","id":"2211acae-00e3-46bd-92bf-85779ca3d06e","interests":"5000","monthpay":"SEPTIEMBRE","months":"12","proyect":"Tarpuy","registrationdate":"06/09/2022","retention":"250","returnpercentage":"25","state":"Vigente","subtotal":"25000","total":"24750"},"model":"person/create"},"timestamp":"2023-09-25 00:48:58"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 00:49:01"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 00:49:02"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-09-25 00:49:02"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-09-25 00:49:03"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/person/getByDni/95037810-7"},"timestamp":"2023-09-25 00:49:32"}
+{"level":"info","message":{"data":null,"model":"person/getByDni"},"timestamp":"2023-09-25 00:49:33"}
+{"level":"info","message":{"body":{"invertor":{"address":"Condor117","dni":"95037810-7","email":"kallpa@gmail.com","maternallastname":"AYALA ","name":"BRIGGITE DENNIS","paternallastname":"MARINO ","phone":"957902342"},"investment":{"amount":39000,"enddate":"29/07/2023","interests":3900,"monthpay":"JULIO","months":"6","proyect":"Tarpuy","registrationdate":"29/01/2023","retention":195,"returnpercentage":"10","subtotal":42900,"total":42705}},"method":"POST","params":"","query":"","url":"/investment/create"},"timestamp":"2023-09-25 00:50:19"}
+{"level":"info","message":{"error":{"address":"Condor117","dni":"95037810-7","email":"kallpa@gmail.com","id":"e8b63e0b-e25e-4e2b-b275-d5b6b6c4e28a","maternallastname":"AYALA ","name":"BRIGGITE DENNIS","paternallastname":"MARINO ","phone":"957902342"},"model":"person/create"},"timestamp":"2023-09-25 00:50:20"}
+{"level":"info","message":{"error":{"amount":"39000","enddate":"29/07/2023","id":"9571263b-d00c-48a3-921d-4fa4a84a4b72","interests":"3900","monthpay":"JULIO","months":"6","proyect":"Tarpuy","registrationdate":"29/01/2023","retention":"195","returnpercentage":"10","state":"Vigente","subtotal":"42900","total":"42705"},"model":"person/create"},"timestamp":"2023-09-25 00:50:21"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 00:50:21"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 00:50:22"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-09-25 00:50:22"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-09-25 00:50:23"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/person/getByDni/90840535-8"},"timestamp":"2023-09-25 00:50:43"}
+{"level":"info","message":{"data":null,"model":"person/getByDni"},"timestamp":"2023-09-25 00:50:44"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/person/getByDni/90840535-8"},"timestamp":"2023-09-25 00:50:45"}
+{"level":"info","message":{"data":null,"model":"person/getByDni"},"timestamp":"2023-09-25 00:50:46"}
+{"level":"info","message":{"body":{"invertor":{"address":"Condor117","dni":"90840535-8","email":"kallpa@gmail.com","maternallastname":" HUAMANI","name":"JOEL","paternallastname":"QUISPE","phone":"957902342"},"investment":{"amount":250000,"enddate":"13/09/2023","interests":63750,"monthpay":"SEPTIEMBRE","months":"12","proyect":"Tarpuy","registrationdate":"13/09/2022","retention":3187.5,"returnpercentage":"25.5","subtotal":313750,"total":310562.5}},"method":"POST","params":"","query":"","url":"/investment/create"},"timestamp":"2023-09-25 00:51:34"}
+{"level":"info","message":{"error":{"address":"Condor117","dni":"90840535-8","email":"kallpa@gmail.com","id":"7c3b58ca-7b26-4023-82d2-abe0450f86b6","maternallastname":" HUAMANI","name":"JOEL","paternallastname":"QUISPE","phone":"957902342"},"model":"person/create"},"timestamp":"2023-09-25 00:51:35"}
+{"level":"info","message":{"error":{"amount":"250000","enddate":"13/09/2023","id":"8838a333-dbf7-4b8c-bf1d-a5b7306bd727","interests":"63750","monthpay":"SEPTIEMBRE","months":"12","proyect":"Tarpuy","registrationdate":"13/09/2022","retention":"3187.5","returnpercentage":"25.5","state":"Vigente","subtotal":"313750","total":"310562.5"},"model":"person/create"},"timestamp":"2023-09-25 00:51:35"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 00:51:35"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 00:51:36"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-09-25 00:51:37"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-09-25 00:51:37"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/person/getByDni/93173282-k"},"timestamp":"2023-09-25 00:52:03"}
+{"level":"info","message":{"data":null,"model":"person/getByDni"},"timestamp":"2023-09-25 00:52:04"}
+{"level":"info","message":{"body":{"invertor":{"address":"Condor117","dni":"93173282-k","email":"kallpa@gmail.com","maternallastname":"VENTURA ","name":"MARIA","paternallastname":"CARI ","phone":"957902342"},"investment":{"amount":20000,"enddate":"24/01/2024","interests":4000,"monthpay":"ENERO","months":"12","proyect":"Tarpuy","registrationdate":"24/01/2023","retention":200,"returnpercentage":"20","subtotal":24000,"total":23800}},"method":"POST","params":"","query":"","url":"/investment/create"},"timestamp":"2023-09-25 00:52:56"}
+{"level":"info","message":{"error":{"address":"Condor117","dni":"93173282-k","email":"kallpa@gmail.com","id":"72c7b220-e19b-4a89-bf77-9382f0e22210","maternallastname":"VENTURA ","name":"MARIA","paternallastname":"CARI ","phone":"957902342"},"model":"person/create"},"timestamp":"2023-09-25 00:52:57"}
+{"level":"info","message":{"error":{"amount":"20000","enddate":"24/01/2024","id":"ec6936fe-77df-4b45-93fe-0cd035cd5589","interests":"4000","monthpay":"ENERO","months":"12","proyect":"Tarpuy","registrationdate":"24/01/2023","retention":"200","returnpercentage":"20","state":"Vigente","subtotal":"24000","total":"23800"},"model":"person/create"},"timestamp":"2023-09-25 00:52:57"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 00:52:59"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 00:53:00"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-09-25 00:53:00"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-09-25 00:53:00"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/person/getByDni/91230936-3"},"timestamp":"2023-09-25 00:53:58"}
+{"level":"info","message":{"data":null,"model":"person/getByDni"},"timestamp":"2023-09-25 00:53:59"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/person/getByDni/91230936-3"},"timestamp":"2023-09-25 00:54:01"}
+{"level":"info","message":{"data":null,"model":"person/getByDni"},"timestamp":"2023-09-25 00:54:01"}
+{"level":"info","message":{"body":{"invertor":{"address":"Condor117","dni":"91230936-3","email":"kallpa@gmail.com","maternallastname":"HUMBERTO","name":"OLLACHICA ","paternallastname":"HACHA ","phone":"957902342"},"investment":{"amount":20000,"enddate":"18/01/2024","interests":4000,"monthpay":"ENERO","months":"12","proyect":"Tarpuy","registrationdate":"18/01/2023","retention":200,"returnpercentage":"20","subtotal":24000,"total":23800}},"method":"POST","params":"","query":"","url":"/investment/create"},"timestamp":"2023-09-25 00:54:35"}
+{"level":"info","message":{"error":{"address":"Condor117","dni":"91230936-3","email":"kallpa@gmail.com","id":"e6a61f75-ef49-4e28-933b-946ae8751a19","maternallastname":"HUMBERTO","name":"OLLACHICA ","paternallastname":"HACHA ","phone":"957902342"},"model":"person/create"},"timestamp":"2023-09-25 00:54:36"}
+{"level":"info","message":{"error":{"amount":"20000","enddate":"18/01/2024","id":"131ee851-2b7b-4afa-a6a0-41cdf727fc86","interests":"4000","monthpay":"ENERO","months":"12","proyect":"Tarpuy","registrationdate":"18/01/2023","retention":"200","returnpercentage":"20","state":"Vigente","subtotal":"24000","total":"23800"},"model":"person/create"},"timestamp":"2023-09-25 00:54:36"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 00:54:37"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 00:54:38"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-09-25 00:54:38"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-09-25 00:54:38"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/person/getByDni/90775134-1"},"timestamp":"2023-09-25 00:55:47"}
+{"level":"info","message":{"data":null,"model":"person/getByDni"},"timestamp":"2023-09-25 00:55:48"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/person/getByDni/90775134-1"},"timestamp":"2023-09-25 00:55:50"}
+{"level":"info","message":{"data":null,"model":"person/getByDni"},"timestamp":"2023-09-25 00:55:51"}
+{"level":"info","message":{"body":{"invertor":{"address":"Condor117","dni":"90775134-1","email":"kallpa@gmail.com","maternallastname":"LAZARO ","name":"LUIS","paternallastname":"RANILLA ","phone":"957902342"},"investment":{"amount":26042,"enddate":"27/01/2024","interests":6510.5,"monthpay":"ENERO","months":"12","proyect":"Tarpuy","registrationdate":"27/01/2023","retention":325.53,"returnpercentage":"25","subtotal":32552.5,"total":32226.98}},"method":"POST","params":"","query":"","url":"/investment/create"},"timestamp":"2023-09-25 00:56:46"}
+{"level":"info","message":{"error":{"address":"Condor117","dni":"90775134-1","email":"kallpa@gmail.com","id":"0e8927d8-3fc3-47ca-9da0-8dc4673a5c12","maternallastname":"LAZARO ","name":"LUIS","paternallastname":"RANILLA ","phone":"957902342"},"model":"person/create"},"timestamp":"2023-09-25 00:56:47"}
+{"level":"info","message":{"error":{"amount":"26042","enddate":"27/01/2024","id":"f527264c-1fe9-44bc-a452-b1cc10abcd32","interests":"6510.5","monthpay":"ENERO","months":"12","proyect":"Tarpuy","registrationdate":"27/01/2023","retention":"325.53","returnpercentage":"25","state":"Vigente","subtotal":"32552.5","total":"32226.98"},"model":"person/create"},"timestamp":"2023-09-25 00:56:47"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 00:56:51"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 00:56:51"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 00:58:06"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 00:58:07"}
+{"level":"info","message":{"body":{"email":"quispeabadquispe@gmail.com","password":"kallpa"},"method":"POST","params":"","query":"","url":"/user/validate"},"timestamp":"2023-09-25 00:58:29"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 00:58:30"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 00:58:31"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 00:58:33"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 00:58:33"}
+{"level":"info","message":{"body":{"id":"38a93bbb-2d8a-4079-8c3c-cc918d9cbedd"},"method":"POST","params":"","query":"","url":"/investment/getById"},"timestamp":"2023-09-25 00:58:35"}
+{"level":"info","message":{"body":{"id":"38a93bbb-2d8a-4079-8c3c-cc918d9cbedd"},"method":"POST","params":"","query":"","url":"/investment/getById"},"timestamp":"2023-09-25 00:58:35"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 00:58:59"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 00:59:00"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-25 01:01:56"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-25 01:01:57"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-25 01:02:33"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-25 01:02:34"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-25 01:08:02"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-25 01:08:03"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-25 01:08:28"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-25 01:08:29"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-25 01:12:23"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-25 01:12:24"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-25 01:14:13"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-25 01:14:13"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-25 01:16:29"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-25 01:16:30"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-25 01:18:45"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-25 01:18:46"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-25 01:19:10"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-25 01:19:11"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-25 01:19:31"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-25 01:19:32"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-25 01:22:18"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-25 01:22:19"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-25 01:23:07"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-25 01:23:08"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 01:23:20"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 01:23:20"}
+{"level":"info","message":{"body":{"id":"158f1072-5741-4f9a-a4da-ff00fa92c801"},"method":"POST","params":"","query":"","url":"/investment/getById"},"timestamp":"2023-09-25 01:23:28"}
+{"level":"info","message":{"body":{"id":"158f1072-5741-4f9a-a4da-ff00fa92c801"},"method":"POST","params":"","query":"","url":"/investment/getById"},"timestamp":"2023-09-25 01:23:28"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 01:23:35"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 01:23:35"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-25 02:42:43"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-25 02:42:44"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 02:43:06"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 02:43:07"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 02:43:22"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 02:43:23"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-25 02:51:32"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-25 02:51:33"}
+{"level":"info","message":{"body":{"email":"quispeabadquispe@gmail.com","password":"kallpa"},"method":"POST","params":"","query":"","url":"/user/validate"},"timestamp":"2023-09-25 02:51:41"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 02:51:41"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 02:51:41"}
+{"level":"info","message":{"body":{"email":"quispeabadquispe@gmail.com","password":"kallpa"},"method":"POST","params":"","query":"","url":"/user/validate"},"timestamp":"2023-09-25 02:51:53"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 02:51:54"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 02:51:55"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 02:51:56"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 02:52:41"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 02:52:42"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 02:52:47"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 02:52:47"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-25 02:55:33"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 02:55:34"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-25 02:55:34"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 02:55:35"}
+{"level":"info","message":{"body":{"id":"d0e80425-69ee-4334-a897-e599d489b35b"},"method":"POST","params":"","query":"","url":"/investment/getById"},"timestamp":"2023-09-25 02:55:36"}
+{"level":"info","message":{"body":{"id":"d0e80425-69ee-4334-a897-e599d489b35b"},"method":"POST","params":"","query":"","url":"/investment/getById"},"timestamp":"2023-09-25 02:55:36"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 02:55:37"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 02:55:37"}
+{"level":"info","message":{"body":{"id":"558f7744-106d-49c5-8545-080f0ecb1971"},"method":"POST","params":"","query":"","url":"/investment/getById"},"timestamp":"2023-09-25 02:55:38"}
+{"level":"info","message":{"body":{"id":"558f7744-106d-49c5-8545-080f0ecb1971"},"method":"POST","params":"","query":"","url":"/investment/getById"},"timestamp":"2023-09-25 02:55:38"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 02:57:30"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 02:57:31"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 03:07:56"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 03:07:57"}
+{"level":"info","message":{"body":{"id":"558f7744-106d-49c5-8545-080f0ecb1971"},"method":"POST","params":"","query":"","url":"/investment/getById"},"timestamp":"2023-09-25 03:08:05"}
+{"level":"info","message":{"body":{"id":"558f7744-106d-49c5-8545-080f0ecb1971"},"method":"POST","params":"","query":"","url":"/investment/getById"},"timestamp":"2023-09-25 03:08:05"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 03:08:38"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 03:08:39"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 03:08:47"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 03:08:48"}
+{"level":"info","message":{"body":{"id":"da86c0bf-132c-408d-a833-9fb7ca55e7dd"},"method":"POST","params":"","query":"","url":"/investment/getById"},"timestamp":"2023-09-25 03:09:11"}
+{"level":"info","message":{"body":{"id":"da86c0bf-132c-408d-a833-9fb7ca55e7dd"},"method":"POST","params":"","query":"","url":"/investment/getById"},"timestamp":"2023-09-25 03:09:11"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 03:10:00"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 03:10:01"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 03:10:04"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-25 03:10:04"}

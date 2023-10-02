@@ -2,7 +2,6 @@ import { create } from "zustand";
 import apiInstance from "@/utils/api";
 import IDataInvetment, { initData } from "@/interfaces/dataInvestment";
 import IPerson from "@/interfaces/person";
-import { da } from "date-fns/locale";
 import IInvestment from "@/interfaces/investment";
 
 type investmentState = {
@@ -14,6 +13,7 @@ type investmentState = {
   create: (invertor: object, investment: object) => void;
   getAll: () => void;
   getById: (id: string) => void;
+  getByDni: (dni: string) => void;
   update: (investment: IInvestment) => void;
   updateState: (id: string, state: string) => void;
 };
@@ -97,6 +97,34 @@ export const investmentStore = create<investmentState>((set, get) => ({
       set((state) => ({
         ...state,
         investment: data.data ? data.data : initData,
+        isLoading: false,
+        isError: false,
+        error: "",
+      }));
+    } catch (e) {
+      set((state) => ({
+        ...state,
+        isLoading: false,
+        isError: true,
+        error: (e as Error).message,
+      }));
+    }
+  },
+
+  getByDni: async (dni: string) => {
+    try {
+      set((state) => ({
+        ...state,
+        isLoading: true,
+        isError: false,
+        error: "",
+      }));
+
+      const { data } = await apiInstance.get("/investment/getByDni/" + dni);
+
+      set((state) => ({
+        ...state,
+        investmentList: data.data ? data.data : initData,
         isLoading: false,
         isError: false,
         error: "",

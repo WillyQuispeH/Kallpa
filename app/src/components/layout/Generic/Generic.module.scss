@@ -1,9 +1,11 @@
 .Row {
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
 }
 
 .Column {
   display: flex;
   flex-direction: column;
+  flex-wrap: wrap;
 }

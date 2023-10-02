@@ -1,0 +1,41 @@
+@import "../../../styles/mixins.scss";
+.contentTable {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  height: 400px;
+  min-height: 400px;
+  background-color: rgb(255, 255, 255);
+
+  @include media-xl() {
+    width: 350px;
+  }
+}
+
+.contentData {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 126px;
+
+  @include media-xl() {
+    align-items: center;
+    padding: 70px 0 90px 0;
+
+    gap: 20px;
+  }
+}
+
+.modePortal {
+  display: flex;
+  @include media-xl() {
+    display: none;
+  }
+}
+.modeMovil {
+  display: none;
+  @include media-xl() {
+    display: flex;
+  }
+}

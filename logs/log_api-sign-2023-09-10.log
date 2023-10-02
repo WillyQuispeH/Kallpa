@@ -1,0 +1,26 @@
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-09 18:49:35"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-09 18:49:35"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-09 18:50:15"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-09 18:50:15"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-09 18:51:00"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/person/getByDni/"},"timestamp":"2023-09-09 18:54:05"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-09 18:54:08"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-09 18:54:08"}
+{"level":"info","message":{"body":{"id":"d91b821f-be16-4b79-964f-8c2374dc4755"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-09-09 18:54:11"}
+{"level":"info","message":{"body":{"id":"d91b821f-be16-4b79-964f-8c2374dc4755"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-09-09 18:54:11"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/person/getByDni/96998684-1"},"timestamp":"2023-09-09 18:54:15"}
+{"level":"info","message":{"error":{"address":"Provincial 101","dni":"96998684-1","email":"CristobalOcoruro@gmail.com","id":"3b9b73f0-1bf8-40ce-ba57-fa1e684c9737","maternallastname":"Flores","name":"Cristobal","paternallastname":"Ocoruro","phone":"957902342"},"model":"person/getByDni"},"timestamp":"2023-09-09 18:54:15"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-09 18:54:16"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-09 18:54:16"}
+{"level":"info","message":{"body":{"id":"199d3b97-c116-411d-8ff1-af50e194db58"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-09-09 18:54:17"}
+{"level":"info","message":{"body":{"id":"199d3b97-c116-411d-8ff1-af50e194db58"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-09-09 18:54:17"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-09 18:54:18"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-09 18:54:18"}
+{"level":"info","message":{"body":{"id":"f77b123c-3acd-4823-b721-b20611a71fe3"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-09-09 18:54:19"}
+{"level":"info","message":{"body":{"id":"f77b123c-3acd-4823-b721-b20611a71fe3"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-09-09 18:54:19"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-09 18:54:20"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/investment/getAll"},"timestamp":"2023-09-09 18:54:20"}
+{"level":"info","message":{"body":{"id":"84031ce1-f704-4752-a4bc-f3374644f801"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-09-09 18:54:21"}
+{"level":"info","message":{"body":{"id":"84031ce1-f704-4752-a4bc-f3374644f801"},"method":"POST","params":"","query":"","url":"/api/investment/getById"},"timestamp":"2023-09-09 18:54:21"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/proyect/getAll"},"timestamp":"2023-09-09 19:10:18"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/api/proyect/getAll"},"timestamp":"2023-09-09 19:10:18"}

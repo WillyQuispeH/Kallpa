@@ -1,0 +1,58 @@
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-16 13:33:42"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-16 13:33:43"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-16 13:33:58"}
+{"level":"error","message":"ERROR connecting to Database: Error: read ECONNRESET","timestamp":"2023-09-16 13:33:59"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-16 16:29:09"}
+{"level":"error","message":"ERROR connecting to Database: error: SSL/TLS required","timestamp":"2023-09-16 16:29:09"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-16 16:30:17"}
+{"level":"error","message":"ERROR connecting to Database: Error: read ECONNRESET","timestamp":"2023-09-16 16:30:17"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-16 16:49:00"}
+{"level":"error","message":"ERROR connecting to Database: Error: read ECONNRESET","timestamp":"2023-09-16 16:49:00"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-16 16:50:15"}
+{"level":"error","message":"ERROR connecting to Database: Error: read ECONNRESET","timestamp":"2023-09-16 16:50:16"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-16 16:55:25"}
+{"level":"error","message":"ERROR connecting to Database: Error: read ECONNRESET","timestamp":"2023-09-16 16:55:25"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-16 16:55:30"}
+{"level":"error","message":"ERROR connecting to Database: Error: read ECONNRESET","timestamp":"2023-09-16 16:55:30"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-16 16:55:39"}
+{"level":"error","message":"ERROR connecting to Database: Error: read ECONNRESET","timestamp":"2023-09-16 16:55:39"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-16 16:57:04"}
+{"level":"error","message":"ERROR connecting to Database: Error: read ECONNRESET","timestamp":"2023-09-16 16:57:04"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-16 16:57:35"}
+{"level":"error","message":"ERROR connecting to Database: Error: read ECONNRESET","timestamp":"2023-09-16 16:57:36"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-16 16:58:03"}
+{"level":"error","message":"ERROR connecting to Database: Error: read ECONNRESET","timestamp":"2023-09-16 16:58:03"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-16 16:58:38"}
+{"level":"error","message":"ERROR connecting to Database: error: SSL/TLS required","timestamp":"2023-09-16 16:58:39"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-16 16:58:52"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-16 16:58:53"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-16 16:59:02"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-16 16:59:03"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-16 17:00:05"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-16 17:00:06"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-16 17:00:18"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-16 17:00:19"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-16 17:02:40"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-16 17:02:40"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-16 17:02:51"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-16 17:02:52"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-09-16 17:03:14"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-09-16 17:03:15"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-09-16 17:03:20"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-09-16 17:03:21"}
+{"level":"info","message":{"body":{"code":"N0u1e2v3o4","date":"16/09/2023","name":"Nuevo"},"method":"POST","params":"","query":"","url":"/proyect/create"},"timestamp":"2023-09-16 17:03:30"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-09-16 17:03:30"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-16 17:03:44"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-16 17:03:45"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-16 17:03:47"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-16 17:03:49"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-09-16 17:03:59"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/proyect/getAll"},"timestamp":"2023-09-16 17:04:00"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/person/getByDni/"},"timestamp":"2023-09-16 17:04:02"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/person/getByDni/27.648.009-K"},"timestamp":"2023-09-16 17:04:10"}
+{"level":"info","message":{"error":null,"model":"person/getByDni"},"timestamp":"2023-09-16 17:04:10"}
+{"level":"info","message":{"body":{"invertor":{"address":"rivas 820","dni":"27.648.009-K","email":"quispeabadquispe@gmail.com","maternallastname":"haumani","name":"abad","paternallastname":"quispe","phone":"963257415"},"investment":{"amount":250000,"enddate":"16/09/2024","interests":62500,"monthpay":"SEPTIEMBRE","months":"12","proyect":"Nuevo","registrationdate":"16/09/2023","retention":3125,"returnpercentage":"25","subtotal":312500,"total":309375}},"method":"POST","params":"","query":"","url":"/investment/create"},"timestamp":"2023-09-16 17:04:52"}
+{"level":"info","message":{"error":{"address":"rivas 820","dni":"27.648.009-K","email":"quispeabadquispe@gmail.com","id":"f8379224-b502-4c3d-a731-ef430b4504f9","maternallastname":"haumani","name":"abad","paternallastname":"quispe","phone":"963257415"},"model":"person/create"},"timestamp":"2023-09-16 17:04:58"}
+{"level":"info","message":{"error":{"amount":"250000","enddate":"16/09/2024","id":"f0d2de22-2b94-4e7f-b706-ae129769de53","interests":"62500","monthpay":"SEPTIEMBRE","months":"12","proyect":"Nuevo","registrationdate":"16/09/2023","retention":"3125","returnpercentage":"25","state":"Vigente","subtotal":"312500","total":"309375"},"model":"person/create"},"timestamp":"2023-09-16 17:04:59"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-16 17:05:11"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-09-16 17:05:12"}
