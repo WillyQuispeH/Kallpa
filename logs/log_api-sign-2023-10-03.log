@@ -29,3 +29,5 @@
 {"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 22:02:10"}
 {"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/user/getAll"},"timestamp":"2023-10-02 22:02:12"}
 {"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/user/getAll"},"timestamp":"2023-10-02 22:02:12"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-10-02 22:32:36"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-10-02 22:32:37"}

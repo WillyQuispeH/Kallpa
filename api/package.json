@@ -6,6 +6,7 @@
   "author": "WillyQuispe",
   "license": "MIT",
   "module": "CommonJS",
+  
   "dependencies": {
     "@types/bcrypt": "^5.0.0",
     "@types/cors": "^2.8.14",
