@@ -11,9 +11,10 @@ import { useUser } from "@/store/hooks";
 import styles from "./Login.module.scss";
 
 const Login = () => {
+  
   const inicialForm = {
-    email: { value: "admin@gmail.com", isValid: true },
-    password: { value: "kallpa", isValid: true },
+    email: { value: "", isValid: true },
+    password: { value: "", isValid: true },
   };
 
   const router = useRouter();

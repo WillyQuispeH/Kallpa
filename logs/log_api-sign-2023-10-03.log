@@ -1,0 +1,31 @@
+{"level":"info","message":"API listening port 4603","timestamp":"2023-10-02 21:59:01"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-10-02 21:59:01"}
+{"level":"info","message":{"body":{"email":"admin@gmail.com","password":"kallpa"},"method":"POST","params":"","query":"","url":"/user/validate"},"timestamp":"2023-10-02 21:59:12"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 21:59:13"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 21:59:13"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 22:00:24"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 22:00:25"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 22:00:31"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 22:00:32"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/user/getAll"},"timestamp":"2023-10-02 22:00:45"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/user/getAll"},"timestamp":"2023-10-02 22:00:47"}
+{"level":"info","message":{"body":{"address":"rivas 820","dni":"27.648.009-K","email":"root@gmail.com","maternallastname":"Haumani","name":"Abad","paternallastname":"Quispe","phone":"963257415"},"method":"POST","params":"","query":"","url":"/person/create"},"timestamp":"2023-10-02 22:01:06"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 22:01:10"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 22:01:11"}
+{"level":"info","message":{"data":{"address":"rivas 820","dni":"27.648.009-K","email":"root@gmail.com","id":"f8379224-b502-4c3d-a731-ef430b4504f9","maternallastname":"Haumani","name":"Abad","paternallastname":"Quispe","phone":"963257415"},"model":"person/create"},"timestamp":"2023-10-02 22:01:14"}
+{"level":"info","message":{"body":{"email":"vendedor@gmail.com","password":"kallpa"},"method":"POST","params":"","query":"","url":"/user/validate"},"timestamp":"2023-10-02 22:01:24"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 22:01:26"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 22:01:26"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/user/getAll"},"timestamp":"2023-10-02 22:01:28"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/user/getAll"},"timestamp":"2023-10-02 22:01:28"}
+{"level":"info","message":{"body":{"address":"Rivas 820","dni":"11.111.111-1","email":"admin@gmail.com","maternallastname":"Huamani","name":"Remy","paternallastname":"Quispe","phone":"965741235"},"method":"POST","params":"","query":"","url":"/person/create"},"timestamp":"2023-10-02 22:01:38"}
+{"level":"info","message":{"data":{"address":"Rivas 820","dni":"11.111.111-1","email":"admin@gmail.com","id":"bdf13fd1-de68-41d9-ab62-03a686837909","maternallastname":"Huamani","name":"Remy","paternallastname":"Quispe","phone":"965741235"},"model":"person/create"},"timestamp":"2023-10-02 22:01:38"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 22:01:41"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 22:01:41"}
+{"level":"info","message":"API listening port 4603","timestamp":"2023-10-02 22:02:06"}
+{"level":"info","message":"Connected to Database","timestamp":"2023-10-02 22:02:07"}
+{"level":"info","message":{"body":{"email":"admin@gmail.com","password":"kallpa"},"method":"POST","params":"","query":"","url":"/user/validate"},"timestamp":"2023-10-02 22:02:09"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 22:02:10"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/investment/getAll"},"timestamp":"2023-10-02 22:02:10"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/user/getAll"},"timestamp":"2023-10-02 22:02:12"}
+{"level":"info","message":{"body":"","method":"GET","params":{},"query":{},"url":"/user/getAll"},"timestamp":"2023-10-02 22:02:12"}

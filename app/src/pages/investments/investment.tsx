@@ -1,8 +1,9 @@
-import Investment from "@/components/funtional/Investment";
-import InvestorsList from "@/components/funtional/InvestorsList";
-import useInvestment from "@/store/hooks/useInvestment";
-import { useRouter } from "next/router";
 import React, { useEffect } from "react";
+import { useRouter } from "next/router";
+
+import Investment from "@/components/funtional/Investment";
+import useInvestment from "@/store/hooks/useInvestment";
+import HeadPages from "@/components/layout/HeadPages";
 
 const PageInvestment = () => {
   const router = useRouter();
@@ -18,7 +19,15 @@ const PageInvestment = () => {
   if (!investmentId) return null;
 
   if (router.isReady) {
-    return <Investment />;
+    return (
+      <>
+        <HeadPages
+          title="Kallpa"
+          description="Administrador Gaman"
+        />
+        <Investment />
+      </>
+    );
   }
 };
 
